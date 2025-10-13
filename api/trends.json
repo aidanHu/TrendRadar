@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-10-13T20:41:42.218952+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-10-13T21:31:15.544550+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 27,
       "titles": [
+        {
+          "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31768773",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 21时31分]"
+        },
         {
           "title": "蔡正元：美汽车工业将首遭重创",
           "url": "https://www.baidu.com/s?wd=%E8%94%A1%E6%AD%A3%E5%85%83%EF%BC%9A%E7%BE%8E%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A%E5%B0%86%E9%A6%96%E9%81%AD%E9%87%8D%E5%88%9B",
@@ -37,22 +53,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时31分 ~ 07时22分]"
-        },
-        {
-          "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31768773",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时33分 ~ 20时41分]"
         },
         {
           "title": "加拿大地方政府要求取消对中国电动汽车关税",
@@ -346,8 +346,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时24分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 21时31分]"
         }
       ]
     }
