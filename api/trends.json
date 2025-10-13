@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T02:27:16.736311+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-10-14T03:16:13.142662+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 03时16分]"
         },
         {
           "title": "极星汽车关闭国内最后一家直营门店",
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 02时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 03时16分]"
         },
         {
           "title": "分析人士表示，消费者整体健康状况良好，但分析师正密切关注学生贷款和汽车贷款的逾期情况。",
@@ -38,7 +39,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -67,8 +68,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 03时16分]"
         }
       ]
     }
