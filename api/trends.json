@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T19:19:25.105609+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2025-10-13T20:41:42.218952+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
@@ -39,21 +39,6 @@
           "time_info": "[02时31分 ~ 07时22分]"
         },
         {
-          "title": "加拿大地方政府要求取消对中国电动汽车关税",
-          "url": "https://www.cls.cn/detail/2167067",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 19时19分]"
-        },
-        {
           "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
           "url": "https://m.thepaper.cn/newsDetail_forward_31768773",
           "source": "澎湃新闻",
@@ -64,6 +49,21 @@
             7,
             8,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 20时41分]"
+        },
+        {
+          "title": "加拿大地方政府要求取消对中国电动汽车关税",
+          "url": "https://www.cls.cn/detail/2167067",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -326,7 +326,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -342,11 +342,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 20时41分]"
         }
       ]
     }
