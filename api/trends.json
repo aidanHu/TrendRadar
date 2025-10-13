@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T06:19:54.446175+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-10-14T07:18:50.106370+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "极星汽车关闭国内最后一家直营门店",
@@ -82,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时18分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，世纪互联初步收涨超10%，小马智行涨9.9%，大全新能源和台积电涨8%，万国数据涨7.4%，晶科能源涨6.5%，阿特斯太阳能涨6%，美团ADR和阿里涨超4%。 ETF中，YINN初步收涨约8.8%，CQQQ涨4.3%，KWEB涨3.8%。",
@@ -108,11 +108,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 07时18分]"
         }
       ]
     }
