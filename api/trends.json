@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T09:23:40.457163+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-10-14T11:03:24.812775+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 09时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 11时03分]"
         },
         {
           "title": "极星汽车关闭国内最后一家直营门店",
@@ -101,7 +101,7 @@
     },
     {
       "keyword_group": "油车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如果再给你一次机会，你会买油车？还是混动？纯电？",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时19分 ~ 09时23分]"
+        },
+        {
+          "title": "如果再给你一次机会，你会买油车还是混动或者纯电？",
+          "url": "https://www.zhihu.com/question/642796881",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     }
