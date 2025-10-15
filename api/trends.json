@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T19:18:21.612317+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2025-10-15T20:44:41.929014+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时06分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时06分 ~ 20时44分]"
         },
         {
           "title": "创业板指涨超2%。深成指涨1.4%，沪指涨0.9%。机场航运、创新药、汽车整车板块涨幅居前，全市场上涨个股超3800只。",
@@ -164,7 +164,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -208,7 +208,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -239,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 20时44分]"
         }
       ]
     }
