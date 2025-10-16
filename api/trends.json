@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-17T05:19:44.796678+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-10-17T06:17:01.272431+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
           "url": "https://wallstreetcn.com/articles/3757280",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -38,11 +39,34 @@
           "url": "https://wallstreetcn.com/livenews/2989191",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时17分]"
+        },
+        {
+          "title": "外媒：白宫拟延长汽车进口零部件关税减免措施",
+          "url": "https://flash.jin10.com/detail/20251017055215249800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时17分"
+        },
+        {
+          "title": "Stellantis盘后涨超4%，报道称特朗普政府将宣布汽车关税减免计划",
+          "url": "https://wallstreetcn.com/livenews/2989209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "加拿大总理卡尼：欧洲汽车制造商斯泰兰蒂斯集团Stellantis正为Brampton考虑不同的车型。",
@@ -70,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 06时17分]"
         }
       ]
     }
