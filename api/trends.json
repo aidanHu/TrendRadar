@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T02:35:12.069077+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-10-17T03:16:53.725018+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "加拿大总理卡尼：欧洲汽车制造商斯泰兰蒂斯集团Stellantis正为Brampton考虑不同的车型。",
@@ -57,8 +58,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         }
       ]
     }
