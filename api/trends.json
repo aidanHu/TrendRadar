@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:21:18.067778+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-10-16T16:29:30.348090+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -48,7 +48,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -62,6 +62,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美媒：美国与中国电动汽车差距扩大",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B7%AE%E8%B7%9D%E6%89%A9%E5%A4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时29分]"
         },
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -122,15 +134,15 @@
           "time_info": "[15时20分 ~ 15时21分]"
         },
         {
-          "title": "美媒：美国与中国电动汽车差距扩大",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B7%AE%E8%B7%9D%E6%89%A9%E5%A4%A7",
-          "source": "百度热搜",
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "乘联分会秘书长崔东树：9月全国汽车市场总体走势较强，卡车市场和客车市场回暖明显",
@@ -144,13 +156,24 @@
           "time_info": "14时30分"
         },
         {
+          "title": "“十五五”智能网联汽车规划要来了！自动驾驶等标准有望加快制定",
+          "url": "https://www.cls.cn/detail/2171393",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)召回59,006辆美国车辆，原因是电气短路可能增加火灾风险。",
           "url": "https://flash.jin10.com/detail/20251016150607463800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -172,7 +195,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -186,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
@@ -215,8 +249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时29分]"
         },
         {
           "title": "固态电池新突破！新能源车续航或翻倍",
@@ -228,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 16时29分]"
         }
       ]
     }
