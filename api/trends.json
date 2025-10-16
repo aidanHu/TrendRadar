@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T06:17:01.272431+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-10-17T07:17:13.493010+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时17分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -53,7 +53,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -64,7 +64,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -94,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时17分]"
         }
       ]
     }
