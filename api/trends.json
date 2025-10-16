@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T18:22:16.524645+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2025-10-16T19:17:41.965321+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -42,6 +42,17 @@
           "time_info": "09时25分"
         },
         {
+          "title": "俄罗斯总统普京：石油需求正在增长，汽油驱动的汽车还将被长期使用。 俄罗斯今年将生产5.1亿吨石油，较2024年下降1%，这是由于OPEC+的协议所致。",
+          "url": "https://wallstreetcn.com/livenews/2988959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "沃尔沃汽车上涨6.6%，此前被SEB证券上调至“买入”评级。",
           "url": "https://wallstreetcn.com/livenews/2988783",
           "source": "华尔街见闻-快讯",
@@ -59,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -80,11 +91,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时17分]"
+        },
+        {
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时22分]"
+          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "美媒：美国与中国电动汽车差距扩大",
@@ -98,17 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 17时24分]"
-        },
-        {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
@@ -248,6 +261,17 @@
           "time_info": "15时21分"
         },
         {
+          "title": "雷军：汽车安全是基础",
+          "url": "https://www.toutiao.com/trending/7560869722347077641/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "金十图示：2025年10月16日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251016110855677800",
           "source": "金十数据",
@@ -322,19 +346,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 19时17分]"
         },
         {
           "title": "遇到紧急情况，能否打开车门？实探七个品牌新能源车线下店",
           "url": "https://m.thepaper.cn/newsDetail_forward_31791289",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 19时17分]"
         }
       ]
     }
