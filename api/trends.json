@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T12:23:39.937390+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-10-17T13:20:31.388554+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 13时20分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -35,17 +35,6 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
-          "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
-          "url": "https://flash.jin10.com/detail/20251017120158449800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
           "url": "https://m.thepaper.cn/newsDetail_forward_31793163",
           "source": "澎湃新闻",
@@ -55,8 +44,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 13时20分]"
+        },
+        {
+          "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
+          "url": "https://flash.jin10.com/detail/20251017120158449800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -66,8 +67,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 13时20分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "国家市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度",
@@ -143,7 +144,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -197,8 +198,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 12时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 13时20分]"
         },
         {
           "title": "建立新能源车火灾事故企业报告制度",
@@ -207,9 +208,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
         }
       ]
     }
