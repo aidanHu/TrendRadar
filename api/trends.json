@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T07:17:13.493010+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-10-17T09:23:44.858365+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时23分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时17分]"
+        },
+        {
+          "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793163",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "外媒：白宫拟延长汽车进口零部件关税减免措施",
@@ -94,8 +105,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 09时23分]"
         }
       ]
     }
