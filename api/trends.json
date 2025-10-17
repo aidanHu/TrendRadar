@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T06:19:47.584080+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-10-18T07:19:07.937595+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             4,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -28,11 +29,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "比亚迪宣布召回部分唐和元 Pro 汽车，此次召回将给品牌后期销量带来哪些影响？",
@@ -42,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[04时21分 ~ 07时19分]"
         },
         {
           "title": "周五（10月17日），彭博电动汽车价格回报指数跌1.81%，报3372.36点，本周累计下跌1.05%，整体呈现出M形走势。 周五当天，成分股吉利汽车控股H股收跌4.52%，小鹏汽车H股收跌4.35%，MP材料跌超4%跌幅第三大。 保时捷P911欧股则收涨1.63%表现第四，蔚来集团H股收涨2.17%，特斯拉涨2.4%，印度Ola Electric Mobility Ltd.收涨3.07%。",
@@ -52,11 +54,12 @@
           "ranks": [
             1,
             13,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时19分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
