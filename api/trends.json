@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-10-17T15:19:49.356911+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2025-10-17T16:28:10.960536+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 17,
       "titles": [
-        {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 15时19分]"
-        },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
           "url": "https://m.thepaper.cn/newsDetail_forward_31793163",
@@ -28,11 +15,48 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时28分]"
+        },
+        {
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://www.douyin.com/hot/2272799",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 16时28分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 16时28分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -50,26 +74,16 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://www.douyin.com/hot/2272799",
-          "source": "抖音",
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时03分 ~ 15时19分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时23分 ~ 15时19分]"
+          "time_info": "[14时29分 ~ 16时28分]"
         },
         {
           "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
@@ -82,18 +96,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时20分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
@@ -202,7 +204,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -224,8 +226,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "建立新能源车火灾事故企业报告制度",
@@ -246,7 +248,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
