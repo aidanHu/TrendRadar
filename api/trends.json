@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:20:56.119558+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-10-18T18:20:43.955455+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -117,6 +117,18 @@
           "time_info": "[00时31分 ~ 01时18分]"
         },
         {
+          "title": "北京经开区签约落地四大汽车产业重点项目",
+          "url": "https://wallstreetcn.com/livenews/2990044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
           "title": "与十五年前相比，美国的汽车违约率上升50%",
           "url": "https://wallstreetcn.com/livenews/2989882",
           "source": "华尔街见闻-快讯",
@@ -127,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时19分]"
-        },
-        {
-          "title": "北京经开区签约落地四大汽车产业重点项目",
-          "url": "https://wallstreetcn.com/livenews/2990044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         }
       ]
     },
@@ -153,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 18时20分]"
         },
         {
           "title": "新能源车火灾事故报告制度有何考量",
