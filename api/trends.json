@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T15:18:26.345082+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-10-18T16:24:43.402386+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -142,8 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时24分]"
         },
         {
           "title": "新能源车火灾事故报告制度有何考量",
@@ -156,8 +156,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时24分]"
         }
       ]
     }
