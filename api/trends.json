@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T11:30:10.636018+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-10-18T12:22:10.635570+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时21分 ~ 11时30分]"
+          "appearance_count": 13,
+          "time_info": "[04时21分 ~ 12时22分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -130,7 +130,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "天津新能源车辆将限号？假的",
@@ -140,8 +140,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时30分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 12时22分]"
+        },
+        {
+          "title": "新能源车火灾事故报告制度有何考量",
+          "url": "https://www.toutiao.com/trending/7562100193659850290/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时22分]"
         }
       ]
     }
