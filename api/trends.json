@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:17:12.613742+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2025-10-18T20:35:42.472377+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -99,11 +99,12 @@
           "ranks": [
             8,
             13,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时35分]"
         },
         {
           "title": "外国老丈人向发小炫耀中国汽车",
