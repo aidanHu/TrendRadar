@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T12:24:03.474554+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2025-10-19T13:19:03.395784+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 13时19分]"
         },
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
