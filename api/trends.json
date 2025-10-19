@@ -1,68 +1,22 @@
 {
-  "generated_at": "2025-10-19T23:18:19.707927+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-10-20T00:23:11.729331+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "我国科学家破解固态电池充电关键难题，新能源车续航有望翻倍，有哪些重要意义？距离量产还有多远？",
           "url": "https://www.zhihu.com/question/1962152103913944419",
           "source": "知乎",
           "ranks": [
-            19,
-            17,
-            12,
-            10,
-            7,
-            6,
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时23分 ~ 23时18分]"
-        },
-        {
-          "title": "乘联分会秘书长崔东树：9月新能源车促销力度维持在中高位水平，部分中段企业有逐步崛起迹象",
-          "url": "https://wallstreetcn.com/livenews/2990115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            4,
-            7,
-            10,
-            14,
-            18,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 19时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云南省商务厅：11月1日起暂停2025年云南省汽车报废及置换更新补贴申请",
-          "url": "https://wallstreetcn.com/livenews/2990170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 23时18分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
