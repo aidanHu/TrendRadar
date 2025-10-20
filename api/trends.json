@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T18:22:22.578186+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2025-10-20T19:19:14.751902+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国马里兰州发生汽车冲撞人群事件 致1死13伤",
@@ -39,7 +39,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时24分]"
+        },
+        {
+          "title": "小米汽车回应雷军“免费送”视频",
+          "url": "https://www.toutiao.com/trending/7562430453786361902/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "据日经新闻：日本永旺集团将与比亚迪合作，在日本销售电动汽车。",
