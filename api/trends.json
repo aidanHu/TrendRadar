@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T05:19:42.680049+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-10-21T06:19:12.446598+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时19分]"
         }
       ]
     },
@@ -47,11 +48,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         }
       ]
     }
