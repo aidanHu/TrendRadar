@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T22:19:50.478895+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2025-10-20T23:20:59.573801+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,18 @@
           "time_info": "[19时18分 ~ 21时31分]"
         },
         {
+          "title": "乘联分会崔东树：期待汽车行业未来能有长效的强力接续政策",
+          "url": "https://wallstreetcn.com/livenews/2990734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
+        },
+        {
           "title": "“京东汽车”车身数据曝光：搭配新国标机械式半隐藏门把手",
           "url": "https://wallstreetcn.com/livenews/2990533",
           "source": "华尔街见闻-快讯",
@@ -104,26 +116,16 @@
           "time_info": "[16时28分 ~ 17时24分]"
         },
         {
-          "title": "乘联分会崔东树：期待汽车行业未来能有长效的强力接续政策",
-          "url": "https://wallstreetcn.com/livenews/2990734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
           "url": "https://m.thepaper.cn/newsDetail_forward_31808336",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
         },
         {
           "title": "据日经新闻：日本永旺集团将与比亚迪合作，在日本销售电动汽车。",
@@ -170,6 +172,20 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "新能源车成酒店 「圈外对手」，国庆服务区睡车游客激增，千元酒店房间遇冷，这会颠覆传统旅游住宿格局吗？",
+          "url": "https://www.zhihu.com/question/1962302193932698815",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时20分]"
+        },
+        {
           "title": "A股燃气板块继续走强，国新能源5天4板，大众公用此前涨停，首华燃气、凯添燃气、长春燃气、洪通燃气跟涨。",
           "url": "https://wallstreetcn.com/livenews/2990442",
           "source": "华尔街见闻-快讯",
@@ -180,19 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时32分]"
-        },
-        {
-          "title": "新能源车成酒店 「圈外对手」，国庆服务区睡车游客激增，千元酒店房间遇冷，这会颠覆传统旅游住宿格局吗？",
-          "url": "https://www.zhihu.com/question/1962302193932698815",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时19分]"
         }
       ]
     }
