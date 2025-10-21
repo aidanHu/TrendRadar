@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T06:19:55.163330+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2025-10-22T07:19:34.123656+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -112,11 +112,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.9%。 热门中概股里，大全新能源跌超5%，阿里蔚来跌超3%，晶科能源、百度、理想、唯品会跌超2%，阿特斯太阳能则涨2%，新东方涨5%，B站与好未来涨6%。 ETF中，KWEB跌1%，CQQQ涨0.1%。",
