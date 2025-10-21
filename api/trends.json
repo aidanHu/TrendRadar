@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T16:30:05.250888+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2025-10-21T17:22:31.742124+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时24分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时24分 ~ 17时22分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
@@ -116,19 +116,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时22分]"
         },
         {
           "title": "乘客坐新能源车被收3元燃油附加费：退一赔三遭拒，平台称已处罚司机",
           "url": "https://m.thepaper.cn/newsDetail_forward_31818170",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时22分]"
         }
       ]
     },
