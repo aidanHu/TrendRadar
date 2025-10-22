@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T05:17:20.204672+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2025-10-23T06:16:14.636201+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时17分]"
+        },
+        {
+          "title": "全球超13万汽车人将失业",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E8%B6%8513%E4%B8%87%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%B0%86%E5%A4%B1%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D27%26q%3D%2523%25E5%2585%25A8%25E7%2590%2583%25E8%25B6%258513%25E4%25B8%2587%25E6%25B1%25BD%25E8%25BD%25A6%25E4%25BA%25BA%25E5%25B0%2586%25E5%25A4%25B1%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D26%26display_time%3D1761157211%26pre_seqid%3D1761157211159032729854",
+          "source": "微博",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 06时16分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -84,7 +96,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -95,7 +107,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "全球超13万汽车人将失业",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%85%A8%E7%90%83%E8%B6%8513%E4%B8%87%E6%B1%BD%E8%BD%A6%E4%BA%BA%E5%B0%86%E5%A4%B1%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26flag%3D0%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D27%26q%3D%2523%25E5%2585%25A8%25E7%2590%2583%25E8%25B6%258513%25E4%25B8%2587%25E6%25B1%25BD%25E8%25BD%25A6%25E4%25BA%25BA%25E5%25B0%2586%25E5%25A4%25B1%25E4%25B8%259A%2523%26filter_type%3Drealtimehot%26pos%3D26%26display_time%3D1761157211%26pre_seqid%3D1761157211159032729854",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
         },
         {
           "title": "通用汽车(GM.N)：计划于2028年将“眼离驾驶（Eyes-Off Driving）”技术推向市场，并率先应用于凯迪拉克Escalade IQ电动SUV。",
