@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:18:50.122328+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-10-22T20:41:53.940403+08:00",
+  "total_titles_processed": 1910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "金十图示：2025年10月22日（周三）全球汽车制造商市值变化",
@@ -190,7 +190,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -281,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "瑞银：将通用汽车(GM.N)目标价从81美元上调至85美元。",
+          "url": "https://flash.jin10.com/detail/20251022195229337800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
