@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T15:19:50.274979+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-10-22T16:30:46.569259+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "金十图示：2025年10月22日（周三）全球汽车制造商市值变化",
@@ -102,6 +102,18 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
+          "url": "https://www.zhihu.com/question/1963985406870647114",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时30分]"
+        },
+        {
           "title": "汽车开远光 男子反手爆闪回击",
           "url": "https://www.toutiao.com/trending/7563226393572655146/",
           "source": "今日头条",
@@ -125,6 +137,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "百度旗下的阿波罗智行（Apollo Go）与瑞士邮政巴士（PostBus）合作，将在瑞士部署自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20251022160213148800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "泰国7月汽车产量同比增长4.77%，8月为下降6.11%。",
           "url": "https://flash.jin10.com/detail/20251022113855047800",
           "source": "金十数据",
@@ -134,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
-        },
-        {
-          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "斯泰兰蒂斯(STLA.N)通过电子邮件表示，因一家铝厂发生火灾，位于密歇根州沃伦的吉普汽车工厂已停产三周。",
