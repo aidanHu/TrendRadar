@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-24T04:21:47.426907+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-10-24T05:19:11.089940+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "福特汽车三季度调整后EBIT为15.4亿美元，分析师预期12亿美元。 预计全年调整后Ebit为60亿-65亿美元，公司原本预计65亿-75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2992751",
+          "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
+          "url": "https://wallstreetcn.com/livenews/2992761",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "05时19分"
         },
         {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
@@ -24,11 +24,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "福特汽车三季度调整后EBIT为15.4亿美元，分析师预期12亿美元。 预计全年调整后Ebit为60亿-65亿美元，公司原本预计65亿-75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2992751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时21分]"
+          "time_info": "[04时21分 ~ 05时19分]"
+        },
+        {
+          "title": "周四（10月23日），彭博电动汽车价格回报指数涨1.18%，报3437.72点，北京时间14:00前后出现一波显著的上涨行情，日内剩余时间持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2992757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "英伟达(NVDA.O)：正与Uber(UBER.N)合作开发自动驾驶汽车。",
@@ -37,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         },
@@ -48,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
         }
