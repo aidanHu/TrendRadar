@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T06:20:21.493539+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2025-10-25T07:19:35.514267+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "福特汽车涨13%，创2021年以来最大盘中涨幅。",
@@ -75,11 +76,12 @@
           "ranks": [
             7,
             17,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
@@ -89,8 +91,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
@@ -98,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时19分]"
         },
         {
           "title": "安世半导体风波波及汽车供应链",
