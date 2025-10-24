@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T18:23:53.281170+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2025-10-24T19:20:08.182648+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,28 @@
             21,
             19,
             26,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时22分 ~ 19时20分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 19时20分]"
         },
         {
           "title": "小米汽车购置税补贴方案",
@@ -46,7 +63,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -71,21 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时23分]"
         },
         {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
