@@ -1,26 +1,12 @@
 {
-  "generated_at": "2025-10-25T09:23:18.015870+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-10-25T11:04:31.759524+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 12,
       "titles": [
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时23分]"
-        },
         {
           "title": "汽车巨头拉响停产警报：芯片告急",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
@@ -31,6 +17,36 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时04分]"
+        },
+        {
+          "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/2993597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            16,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 11时04分]"
         },
         {
           "title": "日产汽车CTO Eiichi Akashi表示，该公司考虑将美国生产的Murano SUV进口到日本市场。（日经新闻）",
@@ -82,20 +98,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时19分]"
-        },
-        {
-          "title": "周五（10月24日），彭博电动汽车价格回报指数涨2.42%，报3521.96点，本周累计上涨4.48%。 周一至周三冲高回落，周四和周五持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/2993597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 09时23分]"
         },
         {
           "title": "福特汽车(F.N)涨幅达13%，创2021年以来最大盘中涨幅。",
@@ -179,7 +181,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         }
