@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T22:17:05.691498+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2025-10-25T23:19:10.660077+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -179,11 +179,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31835110",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时19分]"
         },
         {
           "title": "前三季度新能源商业车险保费收入超千亿元 同比增长36.6%",
