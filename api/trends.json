@@ -1,38 +1,7 @@
 {
-  "generated_at": "2025-10-26T23:19:54.316189+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-27T00:22:16.696733+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西安一辆保时捷新能源车突发自燃，起火原因调查中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31835110",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时20分]"
-        },
-        {
-          "title": "沙特投资大臣：数十年来，沙特阿拉伯在传统能源领域占据主导地位，如今同样致力于发展风能、太阳能和绿色氢能等新能源。",
-          "url": "https://flash.jin10.com/detail/20251026150948133800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
