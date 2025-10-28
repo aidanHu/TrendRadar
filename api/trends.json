@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T07:19:40.059330+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-10-28T09:30:48.382404+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -131,7 +131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -149,11 +149,12 @@
             18,
             10,
             8,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时30分]"
         },
         {
           "title": "新能源车车顶架一块太阳能板，是不是也能解决一部分续航问题，为什么车企都不做呢？",
@@ -163,11 +164,12 @@
             14,
             13,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时30分]"
         }
       ]
     },
