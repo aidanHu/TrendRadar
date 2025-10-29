@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T17:27:18.752604+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-10-29T18:22:33.297124+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "女子弃小米汽车5千定金后获赠直饮杯",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：一些汽车制造商预计将因芯片问题而在短期内被迫停产。汽车行业的芯片库存正在迅速减少。",
+          "url": "https://flash.jin10.com/detail/20251029175344627800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
