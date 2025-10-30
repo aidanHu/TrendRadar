@@ -1,56 +1,12 @@
 {
-  "generated_at": "2025-10-30T23:23:14.775757+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2025-10-31T00:27:37.431392+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
-          "url": "https://flash.jin10.com/detail/20251030171732851800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "松下到2035年将把电动汽车电池价格砍掉40%。（日刊工业新闻）",
-          "url": "https://wallstreetcn.com/livenews/2996268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "现代汽车：新兴市场需求正在放缓。",
-          "url": "https://flash.jin10.com/detail/20251030130756177800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "现代汽车：第三季度美国关税使公司损失1.8万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251030130553868800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
         {
           "title": "新能源汽车出口同比增长52%",
           "url": "https://www.douyin.com/hot/2288899",
@@ -59,165 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时21分 ~ 23时23分]"
-        },
-        {
-          "title": "现代汽车第三季度销售额46.72万亿韩元，预估45.37万亿韩元。 第三季度净利润2.26万亿韩元，预估2.31万亿韩元。 第三季度营业利润2.54万亿韩元，预估2.55万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/2996483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "美对韩汽车关税降至15%",
-          "url": "https://www.toutiao.com/trending/7566783375056899638/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时20分]"
-        },
-        {
-          "title": "周三（10月29日，美联储降息日），降息赢家指数跌2.40%，报97.29点。 美联储主席鲍威尔在新闻发布会之初谈及12月利率前景之前维持微幅下跌状态，随后跳水并逐步扩大跌幅。 福特汽车、Polaris、Ryman酒店房地产股份至多收涨0.84%，其他成分股收跌，霍尔工业公司跌5.35%跌幅第三大，Meritage Homes跌5.57%，Rocket Companies跌7.25%。",
-          "url": "https://wallstreetcn.com/livenews/2996207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时22分]"
-        },
-        {
-          "title": "现代汽车第三季度营业利润为2.54万亿韩元，市场预计为2.55万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251030130542854800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "00时27分"
         },
         {
-          "title": "现代汽车：预计美国电动汽车市场不会出现爆发式增长，但2030年之后电动汽车需求将在一定程度上回升。",
-          "url": "https://flash.jin10.com/detail/20251030135339152800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "现代汽车：通过成本节约措施抵消了约60%因美国关税造成的损失。",
-          "url": "https://flash.jin10.com/detail/20251030134258092800",
-          "source": "金十数据",
+          "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
+          "url": "https://wallstreetcn.com/livenews/2997032",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "德国汽车工业协会：为避免可能出现的芯片短缺带来的负面影响，计划通过中立的第三方建立临时信息平台。",
-          "url": "https://flash.jin10.com/detail/20251030201203358800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "现代汽车：美国汽车关税的不确定性已消除。",
-          "url": "https://flash.jin10.com/detail/20251030133536728800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "大众汽车首席财务官：第四季度不要期待出现重大一次性收益。",
-          "url": "https://flash.jin10.com/detail/20251030170049016800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "大众汽车：继续考察替代采购方案。",
-          "url": "https://flash.jin10.com/detail/20251030154544440800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%。美团涨超5%，小鹏汽车、蔚来涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/2996435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。 美国经济目前表现强劲。 AI影响强劲，而关税影响显现缓慢。 自4月份以来，我们面临的下行风险有所减弱。 不就贝森特的言论发表评论。 希望再评估一下数据。",
-          "url": "https://wallstreetcn.com/livenews/2996540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "大众汽车第三季度营业损失13.0亿欧元，预估收益21.1亿欧元",
-          "url": "https://wallstreetcn.com/livenews/2996530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "大中矿业：近期受益于新能源汽车、储能等下游产业的利好发展，市场对锂电产业链及锂矿资源保持较高关注度。公司全资孙公司郴州市城泰矿业投资有限责任公司依法合规取得《采矿许可证》，但矿产资源开发受自然因素、社会因素及政策调整等多种因素影响，矿山后续的实际建设、投产进度及产能实现仍存在不确定性，请广大投资者注意投资风险。",
-          "url": "https://wallstreetcn.com/livenews/2996806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时27分"
         }
       ]
     },
@@ -230,14 +40,11 @@
           "url": "https://www.zhihu.com/question/1964759533554492685",
           "source": "知乎",
           "ranks": [
-            16,
-            10,
-            12,
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         }
       ]
     }
