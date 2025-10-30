@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T21:33:49.020091+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2025-10-30T22:22:07.071670+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时29分]"
+        },
+        {
+          "title": "新能源汽车出口同比增长52%",
+          "url": "https://www.douyin.com/hot/2288899",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "美对韩汽车关税降至15%",
