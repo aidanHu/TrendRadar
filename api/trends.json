@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T22:22:07.071670+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2025-10-30T23:23:14.775757+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "新能源汽车出口同比增长52%",
+          "url": "https://www.douyin.com/hot/2288899",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时23分]"
+        },
+        {
           "title": "现代汽车第三季度销售额46.72万亿韩元，预估45.37万亿韩元。 第三季度净利润2.26万亿韩元，预估2.31万亿韩元。 第三季度营业利润2.54万亿韩元，预估2.55万亿韩元。",
           "url": "https://wallstreetcn.com/livenews/2996483",
           "source": "华尔街见闻-快讯",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时29分]"
-        },
-        {
-          "title": "新能源汽车出口同比增长52%",
-          "url": "https://www.douyin.com/hot/2288899",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "美对韩汽车关税降至15%",
@@ -232,11 +232,12 @@
           "ranks": [
             16,
             10,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 23时23分]"
         }
       ]
     }
