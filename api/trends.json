@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T19:19:35.163442+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-10-30T20:43:00.274278+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
@@ -121,6 +121,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "德国汽车工业协会：为避免可能出现的芯片短缺带来的负面影响，计划通过中立的第三方建立临时信息平台。",
+          "url": "https://flash.jin10.com/detail/20251030201203358800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "现代汽车：美国汽车关税的不确定性已消除。",
           "url": "https://flash.jin10.com/detail/20251030133536728800",
           "source": "金十数据",
@@ -193,7 +204,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -209,11 +220,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时43分]"
         }
       ]
     }
