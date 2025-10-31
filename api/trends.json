@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T00:25:02.396772+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T01:20:49.098497+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时20分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时20分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时20分]"
         },
         {
           "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
@@ -47,7 +47,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         }
