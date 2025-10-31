@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T21:31:04.611065+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2025-10-31T22:20:47.995371+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时21分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[15时21分 ~ 22时20分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -43,6 +43,18 @@
           "time_info": "[19时18分 ~ 20时40分]"
         },
         {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时20分]"
+        },
+        {
           "title": "理想汽车为车辆起火事件致歉",
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时18分 ~ 21时31分]"
-        },
-        {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时31分]"
         },
         {
           "title": "MEGA2024款电动汽车部分召回",
