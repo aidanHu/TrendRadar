@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:26:15.926635+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2025-10-31T17:22:01.598149+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "新能源汽车出口同比增长52%",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时22分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时18分]"
+        },
+        {
+          "title": "理想汽车召回部分理想MEGA 2024款电动汽车，共计11411辆",
+          "url": "https://wallstreetcn.com/livenews/2997591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "印尼相关部门称，韩国现代汽车集团表示，对参与印尼发展国产汽车的计划表现出浓厚兴趣。",
@@ -85,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
+          "url": "https://wallstreetcn.com/livenews/2997574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "市场消息：福特汽车(F.N)将在印度投资3.7亿美元。",
