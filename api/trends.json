@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T05:17:22.140027+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-11-01T06:20:55.129596+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "美国汽车工人联合会：大众汽车查塔努加工厂工人将就罢工授权进行投票。",
@@ -49,9 +49,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时20分]"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
@@ -63,8 +63,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时20分]"
         },
         {
           "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
@@ -72,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时20分]"
         },
         {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
