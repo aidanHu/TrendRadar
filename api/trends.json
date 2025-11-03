@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T22:21:07.765712+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2025-11-03T23:22:14.846591+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             9,
             7,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时31分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[14时31分 ~ 23时22分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球汽车制造商市值变化",
@@ -197,8 +198,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[15时20分 ~ 23时22分]"
         }
       ]
     }
