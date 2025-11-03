@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T06:19:51.870146+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-11-04T07:20:59.593725+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 07时20分]"
         },
         {
           "title": "加拿大工业部长Joly：加拿大针对（欧洲汽车制造商）斯泰兰蒂斯Stellantis启动纠纷解决程序。",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时28分]"
+        },
+        {
+          "title": "调研机构Omdia：10月份美国轻型汽车总销量为130万辆。",
+          "url": "https://flash.jin10.com/detail/20251104062523725800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
