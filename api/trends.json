@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T17:26:58.737443+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2025-11-03T18:23:52.839512+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
+          "url": "https://www.zhihu.com/question/1967568181846602402",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 18时23分]"
         },
         {
           "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
-          "url": "https://www.zhihu.com/question/1967568181846602402",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 17时26分]"
         },
         {
           "title": "恒生指数涨幅扩大至1%，恒生科技指数涨0.45%。小鹏汽车涨超4%，小米集团涨近4%。",
@@ -132,11 +132,12 @@
           "url": "https://www.zhihu.com/question/13109006405",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 18时23分]"
         }
       ]
     }
