@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T04:24:18.723169+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-11-05T05:19:30.093515+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             19,
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时19分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
@@ -40,7 +41,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
