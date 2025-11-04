@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T12:23:29.659710+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-11-04T13:20:40.373551+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "恒指低开0.04%，报26148.07点；恒生科技指数跌0.19%。快手跌1.8%，舜宇光学科技跌1.4%，理想汽车、海尔智家跌超1%；中芯国际涨1%，百度涨0.8%。",
@@ -66,6 +66,17 @@
           "time_info": "[01时19分 ~ 02时28分]"
         },
         {
+          "title": "何小鹏称10年后中国汽车有5强",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B010%E5%B9%B4%E5%90%8E%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%895%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时20分]"
+        },
+        {
           "title": "韩国总统李在明：通过与美国的贸易谈判，为本土汽车和芯片行业争取到了公平的竞争环境。",
           "url": "https://flash.jin10.com/detail/20251104091114265800",
           "source": "金十数据",
@@ -75,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "丰田汽车10月在日本销量同比下降5.6%。",
+          "url": "https://flash.jin10.com/detail/20251104130600487800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -99,15 +121,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "何小鹏称10年后中国汽车有5强",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B010%E5%B9%B4%E5%90%8E%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%895%E5%BC%BA",
-          "source": "百度热搜",
+          "title": "惠誉确认现代汽车评级为“A-”，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20251104125013241800",
+          "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "13时20分"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
