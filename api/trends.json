@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:43:29.034974+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-11-04T21:36:12.312852+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -34,17 +34,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
-          "url": "https://wallstreetcn.com/livenews/2999218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
           "url": "https://wallstreetcn.com/livenews/2998665",
           "source": "华尔街见闻-快讯",
@@ -55,6 +44,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时19分]"
+        },
+        {
+          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
+          "url": "https://wallstreetcn.com/livenews/2999218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时36分]"
         },
         {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
@@ -211,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "乘联分会：特斯拉10月份中国制造汽车销量为61,497辆，9月批发销量为90812辆。",
