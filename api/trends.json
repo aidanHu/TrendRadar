@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T15:21:56.358335+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-11-04T16:28:23.891373+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 16时28分]"
         },
         {
           "title": "恒指低开0.04%，报26148.07点；恒生科技指数跌0.19%。快手跌1.8%，舜宇光学科技跌1.4%，理想汽车、海尔智家跌超1%；中芯国际涨1%，百度涨0.8%。",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：因电池起火风险，召回Stellantis超32万辆美国市场汽车。",
+          "url": "https://flash.jin10.com/detail/20251104161819762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "土耳其汽车协会：十月份汽车销量同比增长了19.40%。",
