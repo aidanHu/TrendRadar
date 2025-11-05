@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:20:12.620667+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-11-06T07:19:06.321285+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             7,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时28分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[02时28分 ~ 07时19分]"
         },
         {
           "title": "摩根大通CEO戴蒙：在美国（汽车城）底特律的投资有助于降低失业率并带来经济增长。",
