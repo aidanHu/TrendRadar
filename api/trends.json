@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T01:20:32.804743+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-11-06T02:29:04.318950+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "欧日汽车企业再次陷入缺芯恐惧",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时27分]"
+        },
+        {
+          "title": "汽车置换补贴券疑被同一人抢到93张",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E5%88%B8%E7%96%91%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E6%8A%A2%E5%88%B093%E5%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         }
       ]
     },
