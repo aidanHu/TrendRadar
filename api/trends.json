@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T01:21:22.635618+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-11-07T02:29:54.471201+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时29分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -70,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时29分]"
         }
       ]
     }
