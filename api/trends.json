@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T00:36:10.251232+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-07T01:21:22.635618+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
         },
@@ -45,33 +45,36 @@
           "url": "https://wallstreetcn.com/livenews/3000659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时21分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
           "url": "https://www.toutiao.com/trending/7569599100031602212/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时21分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时21分]"
         }
       ]
     }
