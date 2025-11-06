@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T22:21:01.993194+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-11-06T23:23:06.956675+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时20分 ~ 20时40分]"
+        },
+        {
+          "title": "小鹏汽车发力人形机器人意欲何为",
+          "url": "https://www.toutiao.com/trending/7569599100031602212/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
         },
         {
           "title": "刘强东全力杀入汽车生态",
