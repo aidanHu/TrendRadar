@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T06:20:05.185005+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-11-07T07:20:35.790382+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -99,9 +99,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
+          "url": "https://flash.jin10.com/detail/20251107064805059800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
