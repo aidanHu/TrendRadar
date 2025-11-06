@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-06T14:32:13.581734+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-11-06T15:21:01.025320+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 10,
       "titles": [
+        {
+          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
+          "url": "https://wallstreetcn.com/articles/3758729",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 15时21分]"
+        },
         {
           "title": "汽车置换补贴券疑被同一人抢到93张",
           "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E5%88%B8%E7%96%91%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E6%8A%A2%E5%88%B093%E5%BC%A0",
@@ -25,19 +38,6 @@
           "time_info": "[02时28分 ~ 09时29分]"
         },
         {
-          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
-          "url": "https://wallstreetcn.com/articles/3758729",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 14时32分]"
-        },
-        {
           "title": "电池续航不够混电来凑？天翎科、汇天飞行汽车发布新产品 市场看法不一|直击进博会",
           "url": "https://www.cls.cn/detail/2192472",
           "source": "财联社热门",
@@ -46,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 15时21分]"
         },
         {
           "title": "摩根大通CEO戴蒙：在美国（汽车城）底特律的投资有助于降低失业率并带来经济增长。",
@@ -66,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时21分]"
         },
         {
           "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
@@ -124,7 +125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
