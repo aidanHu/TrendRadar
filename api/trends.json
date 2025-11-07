@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T00:21:35.457687+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-11-08T01:17:51.822338+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1969886824144023974",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/1969102371712906555",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
         }
       ]
     }
