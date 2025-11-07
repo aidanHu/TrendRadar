@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:27:54.092028+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2025-11-07T17:21:51.012986+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -80,6 +80,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
+          "url": "https://wallstreetcn.com/livenews/3001134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
           "url": "https://wallstreetcn.com/livenews/3001002",
           "source": "华尔街见闻-快讯",
@@ -151,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
@@ -287,6 +309,23 @@
       ]
     },
     {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家能源局：引导金融机构按照市场化、法治化原则，加大对煤炭与新能源融合发展项目的信贷支持",
+          "url": "https://wallstreetcn.com/livenews/3001131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "油车",
       "match_count": 1,
       "titles": [
@@ -301,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时21分]"
         }
       ]
     }
