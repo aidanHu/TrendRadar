@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T21:29:37.672059+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-11-07T22:20:26.019301+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 22时20分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -178,6 +179,18 @@
           "time_info": "[14时31分 ~ 15时19分]"
         },
         {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时20分]"
+        },
+        {
           "title": "墨西哥10月汽车产量367870辆。",
           "url": "https://flash.jin10.com/detail/20251107200245531800",
           "source": "金十数据",
@@ -198,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
@@ -368,8 +370,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 22时20分]"
         }
       ]
     }
