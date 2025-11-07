@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T06:19:04.017307+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2025-11-08T07:18:37.327992+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时18分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -33,8 +34,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时18分]"
         }
       ]
     },
@@ -60,7 +61,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -81,8 +82,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时18分]"
         }
       ]
     }
