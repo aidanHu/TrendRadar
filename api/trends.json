@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-07T20:40:00.097546+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2025-11-07T21:29:37.672059+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 21时29分]"
+        },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
           "url": "https://www.toutiao.com/trending/7569599100031602212/",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时40分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -183,7 +184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -197,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
@@ -352,11 +364,12 @@
             10,
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 21时29分]"
         }
       ]
     }
