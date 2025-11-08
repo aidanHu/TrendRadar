@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T09:24:23.028830+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2025-11-08T11:03:00.569416+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时18分]"
+        },
+        {
+          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
+          "url": "https://flash.jin10.com/detail/20251108100640646800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     },
