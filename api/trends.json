@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T22:21:35.215962+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2025-11-10T23:24:28.442705+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时20分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[15时20分 ~ 23时24分]"
         },
         {
           "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
@@ -83,7 +83,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -204,6 +204,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "印度德里地区汽车爆炸事件已致超10人死伤",
+          "url": "https://flash.jin10.com/detail/20251110225825531800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "大众汽车全面启动成本削减计划 核心品牌利润率获得有效支撑",
           "url": "https://flash.jin10.com/detail/20251110204545795800",
           "source": "金十数据",
@@ -264,8 +275,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时24分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 23时24分]"
         },
         {
           "title": "两部门发文促进新能源消纳 算力设施获点名 储能、电网升级迈入加速期",
@@ -277,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[18时23分 ~ 23时24分]"
         },
         {
           "title": "中国国际商用车展在武汉开幕 新能源智能化车型成焦点",
