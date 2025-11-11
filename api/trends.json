@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T02:29:10.421636+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-11-12T03:16:44.546540+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -48,11 +48,12 @@
           "ranks": [
             20,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -62,8 +63,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3002941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "小米汽车交付周期最快提至22周",
@@ -103,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
@@ -114,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 03时16分]"
         }
       ]
     }
