@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:26:28.771282+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-12T01:19:01.056196+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,35 +26,48 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
           "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "小米汽车交付周期最快提至22周",
-          "url": "https://www.toutiao.com/trending/7570992913396957227/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
           "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "小米汽车交付周期最快提至22周",
+          "url": "https://www.toutiao.com/trending/7570992913396957227/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
@@ -72,34 +85,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "首次！中国新能源车月销量超燃油车",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%AC%A1%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%9C%88%E9%94%80%E9%87%8F%E8%B6%85%E7%87%83%E6%B2%B9%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
+          "url": "https://www.cls.cn/detail/2197163",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
         }
       ]
     }
