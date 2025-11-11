@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:23:07.389397+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2025-11-11T18:23:13.954243+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -20,11 +20,12 @@
             22,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "印度新德里发生汽车爆炸",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 04时24分]"
+        },
+        {
+          "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
+          "url": "https://v.ifeng.com/c/8oCJypfQOqh",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "恒指高开0.37%，恒生科技指数涨0.79%。小鹏汽车涨超9%，百度集团涨超3%，腾讯涨近2%。",
@@ -98,6 +110,29 @@
           "time_info": "16时27分"
         },
         {
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量的50%",
+          "url": "https://www.cls.cn/detail/2196971",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时23分]"
+        },
+        {
+          "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
+          "url": "https://news.ifeng.com/c/8oCGaiGtA9j",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时23分]"
+        },
+        {
           "title": "印度首都汽车爆炸8死20伤",
           "url": "https://flash.jin10.com/detail/20251111024722829800",
           "source": "金十数据",
@@ -120,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 15时20分]"
+        },
+        {
+          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "印度首都汽车爆炸已致超10死",
@@ -148,18 +195,6 @@
           "time_info": "[12时25分 ~ 14时31分]"
         },
         {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量的50%",
-          "url": "https://www.cls.cn/detail/2196971",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时23分]"
-        },
-        {
           "title": "中国机会｜“世界上最美的汽车”亮相进博会，李心尹：“经典车”在中国是片蓝海市场",
           "url": "https://m.thepaper.cn/newsDetail_forward_31930405",
           "source": "澎湃新闻",
@@ -169,17 +204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时27分 ~ 11时15分]"
-        },
-        {
-          "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
-          "url": "https://news.ifeng.com/c/8oCGaiGtA9j",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "中国汽车对俄出口骤降58%",
@@ -227,17 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时31分]"
-        },
-        {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "印度汽车爆炸已造成至少8人死亡",
@@ -332,8 +345,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨2.3%。 热门中概股里，小鹏初步收涨15.6%，阿特斯太阳能涨13.8%，华住涨8.8%，大全新能源涨7.1%，唯品会、名创优品、百度涨超5%，携程、晶科能源涨超4.8%，亚朵、贝壳、老虎证券、微博涨超3%。 ETF中，KWEB涨2.2%，CQQQ涨1.5%。",
