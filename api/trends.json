@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T15:20:40.330019+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2025-11-12T16:28:17.547582+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -99,15 +99,27 @@
           "time_info": "09时28分"
         },
         {
+          "title": "规模化制造 首个飞行汽车工厂落地广州",
+          "url": "https://wallstreetcn.com/livenews/3003286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
           "url": "https://wallstreetcn.com/livenews/3003263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
         },
         {
           "title": "国产汽车真的超越了合资车吗？",
@@ -148,6 +160,17 @@
           "time_info": "[03时16分 ~ 05时18分]"
         },
         {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "小米汽车交付周期最快提至22周",
           "url": "https://www.toutiao.com/trending/7570992913396957227/",
           "source": "今日头条",
@@ -173,7 +196,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "首次！中国新能源车月销量超燃油车",
@@ -208,22 +231,35 @@
           "url": "https://wallstreetcn.com/livenews/3003257",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
+          "title": "国家能源局：积极推动新能源与新兴产业融合互促发展",
+          "url": "https://www.cls.cn/detail/2198261",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "国家能源局：到2030年集成融合发展成为新能源发展的重要方式 新能源可靠替代水平明显增强",
           "url": "https://wallstreetcn.com/livenews/3003252",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
         }
       ]
     }
