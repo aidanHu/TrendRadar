@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T06:20:56.699863+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-13T07:19:52.720224+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -28,11 +28,26 @@
             10,
             8,
             16,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 07时19分]"
+        },
+        {
+          "title": "汽车攀爬天门山天梯撞断护栏",
+          "url": "https://www.douyin.com/hot/2303987",
+          "source": "抖音",
+          "ranks": [
+            18,
+            13,
+            17,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "time_info": "[03时17分 ~ 07时19分]"
         },
         {
           "title": "印度政府谴责新德里汽车爆炸是“恐怖事件”",
@@ -45,19 +60,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时19分]"
-        },
-        {
-          "title": "汽车攀爬天门山天梯撞断护栏",
-          "url": "https://www.douyin.com/hot/2303987",
-          "source": "抖音",
-          "ranks": [
-            18,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时17分 ~ 06时20分]"
         },
         {
           "title": "莫迪就印度汽车爆炸事件发出严厉警告",
@@ -78,7 +80,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
