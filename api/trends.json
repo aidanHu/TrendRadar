@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T19:18:33.046217+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-11-12T20:42:28.488299+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -109,8 +109,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时42分]"
         },
         {
           "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
@@ -195,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "俄罗斯一高楼塌方 超百辆汽车受损",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E9%AB%98%E6%A5%BC%E5%A1%8C%E6%96%B9+%E8%B6%85%E7%99%BE%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%8F%97%E6%8D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -219,6 +230,19 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
+          "title": "国家能源局：积极推动新能源与新兴产业融合互促发展",
+          "url": "https://www.cls.cn/detail/2198261",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时42分]"
+        },
+        {
           "title": "新能源销量占比首超50% 中汽协：建议明年继续优化实施“以旧换新”政策",
           "url": "https://www.cls.cn/detail/2197163",
           "source": "财联社热门",
@@ -229,19 +253,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时18分 ~ 06时20分]"
-        },
-        {
-          "title": "国家能源局：积极推动新能源与新兴产业融合互促发展",
-          "url": "https://www.cls.cn/detail/2198261",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "【国家能源局：研究通过地方政府专项债对符合条件的新能源集成融合项目予以支持】国家能源局发布关于促进新能源集成融合发展的指导意见。其中提到，优化新能源集成融合项目核准（备案）、电网接入、电力业务许可证办理等相关流程，鼓励实现项目整体一站式办理相关手续。鼓励地方结合实际研究新能源与产业集成融合项目的多方合作机制。研究通过地方政府专项债对符合条件的新能源集成融合项目予以支持。",
