@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T02:28:59.335532+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-13T03:17:29.794860+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "公安部将限制汽车百公里加速小于5秒",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -26,11 +26,34 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时17分]"
+        },
+        {
+          "title": "汽车攀爬天门山天梯撞断护栏",
+          "url": "https://www.douyin.com/hot/2303987",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国电动汽车公司Rivian高管表示，与大众汽车合作的车辆冬季测试将于年底前启动，并将持续至2026年第一季度。",
+          "url": "https://flash.jin10.com/detail/20251113023501671800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
