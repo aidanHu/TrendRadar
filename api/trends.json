@@ -1,9 +1,7 @@
 {
-  "generated_at": "2025-11-14T03:17:57.432155+08:00",
-  "total_titles_processed": 513,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2025-11-14T04:23:45.649650+08:00",
+  "total_titles_processed": 548,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
@@ -17,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -28,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -37,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
