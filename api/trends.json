@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T15:20:30.460770+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-11-13T16:27:22.857802+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "汽车攀爬天门山天梯撞断护栏",
@@ -112,7 +112,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -249,7 +249,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -289,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 16时27分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
