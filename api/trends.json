@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T19:18:21.624874+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-11-14T20:41:00.636291+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时26分 ~ 19时18分]"
+          "appearance_count": 8,
+          "time_info": "[16时26分 ~ 20时41分]"
         },
         {
           "title": "据报道，以色列国防军否认今天早些时候在黎巴嫩南部对一辆汽车发动空袭，并称爆炸实际上是真主党试图走私武器所致。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
+          "url": "https://wallstreetcn.com/articles/3759365",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 20时41分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
@@ -161,8 +172,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[11时13分 ~ 20时41分]"
         },
         {
           "title": "我国首艘符合新能源车海运国际新标准运输船完工",
