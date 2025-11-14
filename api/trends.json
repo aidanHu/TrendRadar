@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T02:29:14.829224+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-11-15T03:16:36.670424+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
-        },
-        {
-          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
-          "url": "https://wallstreetcn.com/articles/3759365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -37,6 +26,17 @@
           "ranks": [
             13,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时16分]"
+        },
+        {
+          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
+          "url": "https://wallstreetcn.com/articles/3759365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
