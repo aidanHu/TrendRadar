@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T14:30:50.715595+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-11-14T15:20:07.881154+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -107,11 +107,12 @@
             19,
             17,
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 15时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.38%，随后转涨。 热门中概股里，B站跌6.9%，万国数据跌4.4%，世纪互联跌2%，百度、大全新能源、文远知行至多跌1.3%。 理想涨1.85%，贝壳涨2%，阿里巴巴涨3.3%。 ETF中，CQQQ涨0.2%，KWEB涨0.4%，ASHR涨1.12%。",
