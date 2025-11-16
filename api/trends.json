@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T18:20:12.431980+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-11-16T19:15:30.146566+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "ranks": [
             1,
             8,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "现代汽车集团今后五年本土计划投资逾6100亿元创新高",
@@ -59,11 +60,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "韩国总统办公室：现代汽车集团董事长表示，到2030年将电动汽车和混合动力汽车出口量提高一倍以上。",
@@ -71,22 +73,24 @@
           "source": "金十数据",
           "ranks": [
             7,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时15分]"
         },
         {
           "title": "特斯拉要求美产汽车避用中国零部件",
           "url": "https://www.toutiao.com/trending/7573236848407875114/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "雷军重申小米汽车安全是前提",
