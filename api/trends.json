@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:32:45.474177+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2025-11-17T22:20:54.822493+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             15,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时20分]"
         },
         {
           "title": "特斯拉要求美产汽车避用中国零部件",
@@ -195,7 +196,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
