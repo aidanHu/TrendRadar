@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T03:16:29.441192+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-11-18T04:23:54.597576+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 03时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时23分]"
         },
         {
           "title": "小米汽车湿滑路面超车时突然侧滑",
