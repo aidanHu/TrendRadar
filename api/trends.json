@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T02:30:40.509095+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-11-20T03:17:11.778864+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时17分]"
         },
         {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
@@ -26,7 +27,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
@@ -43,7 +44,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
