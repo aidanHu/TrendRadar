@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T03:17:11.778864+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-11-20T04:20:29.327375+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             19,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时20分]"
         },
         {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
