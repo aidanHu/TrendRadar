@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T13:20:44.568239+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-11-19T14:30:47.612305+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 13时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 14时30分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时20分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[06时20分 ~ 14时30分]"
         },
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时30分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%，小米跌超4%，快手、理想汽车、地平线机器人跌超2%。",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "大和证券：将小鹏汽车评级从“持有”上调至“买入”。",
+          "url": "https://flash.jin10.com/detail/20251119133755940800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         },
         {
           "title": "国家能源局：截至10月底我国电动汽车充电基础设施（枪）总数达到1864.5万个",
