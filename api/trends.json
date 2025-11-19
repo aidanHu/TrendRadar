@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T19:18:19.060605+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2025-11-19T20:42:12.247749+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时27分 ~ 18时22分]"
         },
         {
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时12分 ~ 20时42分]"
+        },
+        {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759633",
           "source": "华尔街见闻",
@@ -34,18 +47,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[06时20分 ~ 18时22分]"
-        },
-        {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 19时18分]"
         },
         {
           "title": "恒指高开0.09%，恒生科技指数涨0.37%。百度高开逾2%，此前公布财报，花旗上调目标价。小鹏汽车、美的、网易涨逾1%。小米跌近2%，此前公布财报。",
@@ -156,7 +157,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
