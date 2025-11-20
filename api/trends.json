@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T17:22:06.861240+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-11-20T18:22:30.866522+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时20分 ~ 17时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时20分 ~ 18时22分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "小米汽车第50万辆整车正式下产线 雷军最新回应",
+          "url": "https://www.cls.cn/detail/2205893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
