@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-11-21T06:18:59.761455+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2025-11-21T07:19:20.412339+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
+          "url": "https://www.zhihu.com/question/1974853096925524498",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
+          "url": "https://flash.jin10.com/detail/20251121070128399800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
+          "url": "https://flash.jin10.com/detail/20251121000730343800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源",
       "match_count": 2,
@@ -25,26 +64,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
-          "url": "https://flash.jin10.com/detail/20251121000730343800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "06时18分"
         }
       ]
     }
