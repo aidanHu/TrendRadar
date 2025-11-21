@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:21:38.631064+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-11-21T18:21:31.673153+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -97,7 +97,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -157,6 +157,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "汽车引擎盖下被老鼠偷藏20斤榛子",
+          "url": "https://www.toutiao.com/trending/7574987159296917554/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "鸿海董事长刘扬伟：将展示专为日本市场设计的富士康电动汽车。",
           "url": "https://flash.jin10.com/detail/20251121102911595800",
           "source": "金十数据",
@@ -194,6 +205,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为高管：奥迪燃油车已实现OTA",
+          "url": "https://www.toutiao.com/trending/7574705023327862827/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
