@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T13:20:52.724671+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-11-21T14:31:54.495508+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 13时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时31分]"
         },
         {
           "title": "汽车业新增两位院士 比亚迪廉玉波、宁德时代吴凯入选",
@@ -69,6 +69,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "鸿海董事长刘扬伟：Model A电动汽车由日本工程师设计，最终将在日本生产。",
+          "url": "https://flash.jin10.com/detail/20251121135342301800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
           "url": "https://flash.jin10.com/detail/20251121000730343800",
           "source": "金十数据",
@@ -80,13 +91,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "据法国《回声报》报道，雷诺将下调其电动汽车充电桩的目标。",
+          "url": "https://flash.jin10.com/detail/20251121134642516800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "是年轻人在定义汽车品牌，还是汽车品牌在定义年轻人？",
           "url": "https://www.zhihu.com/question/1974869254722588742",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
