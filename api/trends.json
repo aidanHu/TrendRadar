@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T18:21:31.673153+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2025-11-21T19:17:46.569589+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -67,6 +67,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "VinFast(VFS.O)：维持其目标，即在2025年至少将其全球电动汽车交付量翻一番。",
+          "url": "https://flash.jin10.com/detail/20251121190722335800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "VinFast(VFS.O)第三季度汽车销量为16.70万亿越南盾，同比增长48%。",
+          "url": "https://flash.jin10.com/detail/20251121190702568800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "鸿海董事长刘扬伟：Model A电动汽车由日本工程师设计，最终将在日本生产。",
@@ -163,7 +185,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -217,11 +239,12 @@
           "url": "https://www.toutiao.com/trending/7574705023327862827/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时17分]"
         }
       ]
     }
