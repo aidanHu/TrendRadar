@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:16:47.171590+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-11-24T02:27:23.573532+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时27分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
