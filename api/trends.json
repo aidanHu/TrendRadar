@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T03:14:57.951181+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-25T04:23:59.818111+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1976227203042797070",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时23分]"
         },
         {
           "title": "中国固态电动汽车电池下线",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时23分]"
         }
       ]
     },
@@ -45,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时23分]"
         }
       ]
     }
