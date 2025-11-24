@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T16:29:47.447386+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-11-24T17:25:30.026246+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -115,8 +115,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时25分]"
         },
         {
           "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
