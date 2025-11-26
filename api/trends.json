@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T22:21:48.083589+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2025-11-26T23:23:00.486747+08:00",
+  "total_titles_processed": 2080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
@@ -61,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时23分]"
         },
         {
           "title": "金十图示：2025年11月26日（周三）全球汽车制造商市值变化",
@@ -156,7 +157,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -247,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指开涨0.56%。理想汽车(LI.O)跌1.4%，公司对第四季度营收指引低于市场预估，Alphabet(GOOG.O)跌0.47%。英伟达(NVDA.O)涨1.7%，AMD(AMD.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251126223027730800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "韩国产业部长要求美国迅速实施汽车关税削减。 韩国称，将设立专门基金，来管理对美国投资的融资事宜。",
