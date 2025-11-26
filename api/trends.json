@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:19:09.648029+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2025-11-26T20:43:23.919339+08:00",
+  "total_titles_processed": 1811,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             10,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时15分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 20时43分]"
         },
         {
           "title": "特斯拉印度高管：汽车无需定期保养，多数问题可通过OTA软件更新解决。",
@@ -130,7 +131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -185,7 +186,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
