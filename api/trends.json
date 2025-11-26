@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T11:15:38.309022+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-11-26T12:26:51.506734+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20251126110718205800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时26分]"
         },
         {
           "title": "通用汽车高级副总裁Baris Cetinok将离职。（CNBC）",
@@ -42,6 +43,18 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
+          "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1975493689821390813",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时26分]"
+        },
+        {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
           "url": "https://flash.jin10.com/detail/20251126090722248800",
           "source": "金十数据",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1975493689821390813",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
         },
         {
           "title": "韩国产业部长要求美国迅速实施汽车关税削减。 韩国称，将设立专门基金，来管理对美国投资的融资事宜。",
