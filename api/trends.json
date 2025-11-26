@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T06:19:46.491087+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-11-27T07:19:25.561640+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时19分]"
         },
         {
           "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时18分 ~ 07时19分]"
         }
       ]
     },
