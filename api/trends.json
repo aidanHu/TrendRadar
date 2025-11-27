@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:23:47.297617+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-11-27T19:19:22.053230+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             11,
             7,
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 19时19分]"
         },
         {
           "title": "日产汽车：10月销量受日本和美国拖累。",
