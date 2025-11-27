@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T14:32:41.272867+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-11-27T15:21:17.460260+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -24,13 +24,26 @@
           "time_info": "[00时26分 ~ 13时21分]"
         },
         {
+          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2212351",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 15时21分]"
+        },
+        {
           "title": "日产汽车：10月销量受日本和美国拖累。",
           "url": "https://flash.jin10.com/detail/20251127141251812800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -41,22 +54,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2212351",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时32分]"
         },
         {
           "title": "日产汽车：10月全球销量同比下降4.8%，至258,517辆。10月全球产量同比下降3.9%，至276,323辆。",
@@ -65,7 +65,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
