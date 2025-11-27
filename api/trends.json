@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T15:21:17.460260+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-11-27T16:28:58.943517+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -30,11 +30,12 @@
           "ranks": [
             11,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时28分]"
         },
         {
           "title": "日产汽车：10月销量受日本和美国拖累。",
@@ -182,6 +183,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(02015.HK)目标价由98.00港元下调至78.00港元。",
+          "url": "https://flash.jin10.com/detail/20251127154056918800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(LI.O)目标价从25.00美元下调至20.00美元。",
+          "url": "https://flash.jin10.com/detail/20251127154043468800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
