@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T12:25:02.029789+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-11-28T13:21:17.740128+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 13时21分]"
         },
         {
           "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
@@ -36,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
