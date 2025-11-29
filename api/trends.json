@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-29T17:20:10.639597+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-11-29T18:20:22.643623+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 10,
       "titles": [
-        {
-          "title": "小鹏汽车：车展色情视频系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时12分 ~ 17时20分]"
-        },
         {
           "title": "中国汽车如何直线超车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
@@ -27,11 +16,23 @@
             12,
             21,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时23分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[12时23分 ~ 18时20分]"
+        },
+        {
+          "title": "小鹏汽车：车展色情视频系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%EF%BC%9A%E8%BD%A6%E5%B1%95%E8%89%B2%E6%83%85%E8%A7%86%E9%A2%91%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时12分 ~ 18时20分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -70,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
