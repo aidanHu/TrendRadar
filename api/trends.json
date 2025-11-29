@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T20:37:56.712953+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-11-29T21:27:13.087169+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
@@ -36,6 +36,21 @@
           "time_info": "[11时12分 ~ 18时20分]"
         },
         {
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 21时27分]"
+        },
+        {
           "title": "雷军回应小米汽车续航测试",
           "url": "https://www.douyin.com/hot/2320102",
           "source": "抖音",
@@ -50,21 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时37分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
