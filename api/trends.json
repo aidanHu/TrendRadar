@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-29T21:27:13.087169+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2025-11-29T22:18:06.968376+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 10,
       "titles": [
+        {
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时18分]"
+        },
         {
           "title": "中国汽车如何直线超车",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%A6%82%E4%BD%95%E7%9B%B4%E7%BA%BF%E8%B6%85%E8%BD%A6",
@@ -21,8 +36,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时23分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[12时23分 ~ 22时18分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -34,21 +49,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时12分 ~ 18时20分]"
-        },
-        {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 21时27分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
