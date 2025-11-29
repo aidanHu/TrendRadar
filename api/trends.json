@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:20:17.327794+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-11-29T14:29:10.381400+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 14时29分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -58,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时12分 ~ 14时29分]"
         },
         {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
