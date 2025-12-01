@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-02T01:22:19.921326+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-02T02:33:57.422736+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
           "url": "https://www.toutiao.com/trending/7578838517380288027/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
+          "url": "https://flash.jin10.com/detail/20251202011157970800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     }
