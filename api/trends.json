@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T06:18:29.296831+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2025-12-03T07:19:19.134663+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -26,11 +26,12 @@
             4,
             10,
             9,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
