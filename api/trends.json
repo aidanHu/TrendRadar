@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T09:29:52.590146+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2025-12-02T11:19:03.564304+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -22,13 +22,24 @@
           "time_info": "[00时29分 ~ 07时20分]"
         },
         {
+          "title": "小米汽车交付量已超全年目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E5%B7%B2%E8%B6%85%E5%85%A8%E5%B9%B4%E7%9B%AE%E6%A0%87%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
           "title": "恒指高开0.6%，报26188.55点；恒生科技指数涨0.76%。阿里巴巴、快手涨超3%，网易涨1.8%；蔚来跌超6%，小鹏汽车跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3013340",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -68,13 +79,35 @@
           "time_info": "02时33分"
         },
         {
+          "title": "比亚迪：方程豹汽车11月销售37405辆，同比增长339%",
+          "url": "https://wallstreetcn.com/livenews/3013397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "小米汽车：截至今日，自2024年4月3日以来，小米汽车累计交付已超过50万台。 11月交付量持续超过4万台，2025年的交付量已超过了年初设定全年目标：35万台。",
+          "url": "https://wallstreetcn.com/livenews/3013392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "现代汽车韩股涨4%，此前美国商务部长卢特尼克证实对韩汽车关税从11月1日起降至15%。",
           "url": "https://flash.jin10.com/detail/20251202083159413800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
