@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T21:51:00.306722+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-02T22:23:49.439209+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 21时51分]"
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 22时23分]"
+        },
+        {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            14,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 22时23分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -33,21 +49,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 07时20分]"
-        },
-        {
-          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1978879849037837003",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            14,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时22分 ~ 21时51分]"
         },
         {
           "title": "小米汽车交付量已超全年目标",
