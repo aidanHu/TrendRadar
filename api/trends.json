@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T20:43:50.365649+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-12-02T21:51:00.306722+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 21时51分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -32,6 +33,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 07时20分]"
+        },
+        {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            14,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 21时51分]"
         },
         {
           "title": "小米汽车交付量已超全年目标",
@@ -54,20 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1978879849037837003",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 20时43分]"
         },
         {
           "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
@@ -158,7 +160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -231,7 +233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
