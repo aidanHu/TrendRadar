@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T22:22:51.519138+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2025-12-03T23:24:15.483685+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 22时22分]"
+          "appearance_count": 29,
+          "time_info": "[00时28分 ~ 23时24分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -167,7 +167,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
