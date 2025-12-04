@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T16:29:26.043229+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2025-12-04T17:25:59.916600+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时29分 ~ 13时21分]"
+        },
+        {
+          "title": "英国汽车制造商和贸易商协会（SMMT）：英国11月份新车注册量下降1.6%，至151,154辆。",
+          "url": "https://flash.jin10.com/detail/20251204171326271800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
