@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T03:17:35.812097+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-12-06T04:23:53.799330+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "保加利亚、捷克、意大利、波兰、匈牙利和斯洛伐克呼吁欧盟允许混合动力汽车或采用其他绿色技术的发动机在2035年之后继续使用。",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时23分]"
         }
       ]
     }
