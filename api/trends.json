@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T04:21:30.273195+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-12-08T05:17:19.686017+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251207230000001800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "中国汽车何以重塑全球价值链",
@@ -26,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。",
           "url": "https://flash.jin10.com/detail/20251207212620551800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         }
       ]
     }
