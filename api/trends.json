@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:35:18.379692+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-12-08T15:24:08.398810+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,45 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时35分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 15时24分]"
+        },
+        {
+          "title": "央视曝光汽车智驾神器成夺命陷阱",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            4,
+            12,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 15时24分]"
+        },
+        {
+          "title": "净网|网警查处编造汽车造成8杀谣言案",
+          "url": "https://www.toutiao.com/trending/7581268407551643146/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 15时24分]"
+        },
+        {
+          "title": "净网：网民造谣汽车造成8杀被查处",
+          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%908%E6%9D%80%E8%A2%AB%E6%9F%A5%E5%A4%84",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 15时24分]"
         },
         {
           "title": "中国汽车何以重塑全球价值链",
@@ -31,42 +68,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时22分 ~ 11时22分]"
-        },
-        {
-          "title": "央视曝光汽车智驾神器成夺命陷阱",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            4,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时35分]"
-        },
-        {
-          "title": "净网|网警查处编造汽车造成8杀谣言案",
-          "url": "https://www.toutiao.com/trending/7581268407551643146/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时35分]"
-        },
-        {
-          "title": "净网：网民造谣汽车造成8杀被查处",
-          "url": "https://www.baidu.com/s?wd=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%908%E6%9D%80%E8%A2%AB%E6%9F%A5%E5%A4%84",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 14时35分]"
         },
         {
           "title": "网警查处编造汽车造成8杀网络谣言案",
@@ -209,11 +210,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时24分]"
         },
         {
           "title": "山东省“十五五”规划建议：加快机器人和智能装备推广应用 打造低空经济发展集聚区、内河新能源船舶制造基地",
