@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T11:19:36.190776+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-12-09T12:29:42.576846+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）全球汽车制造商市值变化",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -37,11 +37,23 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
+          "url": "https://www.zhihu.com/question/1981421077650511816",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "小米中国区近期开启一系列人事调整，涉及手机、汽车、大家电等核心运营类岗位。此次的调整跟小米近期中国区业绩“承压”有关。（界面新闻）",
@@ -50,7 +62,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
