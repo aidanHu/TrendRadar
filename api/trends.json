@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T07:20:06.711567+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-12-09T09:38:55.715099+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时20分]"
+        },
+        {
+          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1979627712625800414",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     }
