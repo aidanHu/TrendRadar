@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T19:20:39.183609+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-12-09T20:43:55.694155+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             6,
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 20时43分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）全球汽车制造商市值变化",
@@ -33,6 +34,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
+          "url": "https://www.cls.cn/detail/2223935",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时43分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时25分]"
-        },
-        {
-          "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
-          "url": "https://www.cls.cn/detail/2223935",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时20分]"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
@@ -126,7 +127,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -148,7 +149,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -181,7 +182,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         }
