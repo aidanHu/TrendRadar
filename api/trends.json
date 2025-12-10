@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:33:46.182272+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-12-10T15:23:47.216018+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "充“劣质电”致汽车自燃？谣言",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时23分]"
         },
         {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
@@ -96,6 +96,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "印度尼西亚11月汽车销量同比下滑0.8%。",
+          "url": "https://flash.jin10.com/detail/20251210144502997800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
+          "url": "https://www.cls.cn/detail/2224821",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
