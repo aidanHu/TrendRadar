@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T06:21:20.907222+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2025-12-11T07:24:27.165550+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -49,7 +49,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
