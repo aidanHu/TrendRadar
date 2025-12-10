@@ -1,227 +1,55 @@
 {
-  "generated_at": "2025-12-10T23:26:05.963835+08:00",
-  "total_titles_processed": 2102,
+  "generated_at": "2025-12-11T00:29:08.416764+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            2,
-            4,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时24分 ~ 23时26分]"
-        },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.toutiao.com/trending/7582161338932186634/",
           "source": "今日头条",
           "ranks": [
-            11,
-            4,
-            8,
-            18,
-            19,
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时24分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
-          "title": "充“劣质电”致汽车自燃？谣言",
-          "url": "https://www.toutiao.com/trending/7581803443355615295/",
-          "source": "今日头条",
+          "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        },
+        {
+          "title": "瑞士政府：对钢铁、汽车、铝和铜的行业关税继续维持不变。",
+          "url": "https://flash.jin10.com/detail/20251211000127731800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时30分]"
-        },
-        {
-          "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
-          "url": "https://flash.jin10.com/detail/20251210092622322800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "00时29分"
         },
         {
-          "title": "据德国《商报》：大众汽车将于周四决定16亿欧元的投资预算。",
-          "url": "https://flash.jin10.com/detail/20251210175646854800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "斯特兰蒂斯首席执行官：欧盟国家希望在汽车审查一事上保持理智。",
-          "url": "https://flash.jin10.com/detail/20251210212004127800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时23分]"
-        },
-        {
-          "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32140482",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时41分]"
-        },
-        {
-          "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3017888",
+          "title": "美国贸易办公室（USTR）代表格里尔：在美国墨西哥加拿大贸易协议（USMCA）原产地问题上，需要考虑非汽车行业的贸易制度。 可能会修订USMCA，也可能会根据“日落条款”（sunset clause）退出。",
+          "url": "https://wallstreetcn.com/livenews/3018525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            21
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时21分]"
-        },
-        {
-          "title": "石家庄“十五五”规划建议：加快半导体集成电路、现代通信、汽车电子等重点领域发展",
-          "url": "https://wallstreetcn.com/livenews/3018462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时23分]"
-        },
-        {
-          "title": "日产汽车与英国自动驾驶汽车公司Wayve达成协议，共同开发驾驶辅助技术。",
-          "url": "https://flash.jin10.com/detail/20251210091409209800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
-          "url": "https://wallstreetcn.com/livenews/3017915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "余承东：中国智能电动汽车发展加速",
-          "url": "https://www.toutiao.com/trending/7581551672661426218/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
-          "url": "https://www.zhihu.com/question/1981421077650511816",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "印度尼西亚11月汽车销量同比下滑0.8%。",
-          "url": "https://flash.jin10.com/detail/20251210144502997800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "欧洲汽车制造商正考虑延长内燃机汽车项目。",
-          "url": "https://flash.jin10.com/detail/20251210193542165800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
-          "url": "https://www.cls.cn/detail/2224821",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时23分 ~ 22时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "油车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧洲车企据悉准备延长燃油车寿命 预期欧盟或将放宽禁令",
-          "url": "https://flash.jin10.com/detail/20251210195208123800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "00时29分"
         }
       ]
     }
