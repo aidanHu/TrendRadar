@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-10T13:31:13.801435+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2025-12-10T14:33:46.182272+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 8,
       "titles": [
+        {
+          "title": "充“劣质电”致汽车自燃？谣言",
+          "url": "https://www.toutiao.com/trending/7581803443355615295/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 14时33分]"
+        },
         {
           "title": "日产汽车：将于2027年4月开始的财年在日本推出首款搭载Wayve人工智能技术的车型。",
           "url": "https://flash.jin10.com/detail/20251210092622322800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
-        },
-        {
-          "title": "充“劣质电”致汽车自燃？谣言",
-          "url": "https://www.toutiao.com/trending/7581803443355615295/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时31分]"
         },
         {
           "title": "“免费捡菜”、充“劣质电”致新能源汽车自燃等均为谣言，多部门坚决整治",
