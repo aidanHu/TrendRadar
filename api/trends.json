@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T12:36:09.385163+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-11T13:22:59.837350+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -116,27 +116,29 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "维修成本翻倍 新能源车为何修不起",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%88%90%E6%9C%AC%E7%BF%BB%E5%80%8D+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%BF%AE%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时22分]"
+        },
+        {
           "title": "新能源车为何修不起",
           "url": "https://www.toutiao.com/trending/7582287780194271251/",
           "source": "今日头条",
           "ranks": [
             7,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 12时36分]"
-        },
-        {
-          "title": "维修成本翻倍 新能源车为何修不起",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%88%90%E6%9C%AC%E7%BF%BB%E5%80%8D+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%BF%AE%E4%B8%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 13时22分]"
         }
       ]
     }
