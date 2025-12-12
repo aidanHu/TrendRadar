@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T06:20:33.050139+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2025-12-13T07:20:18.558715+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "美国汽车零部件供应商First Brands Group LLC.寻求扩充流动性。",
@@ -64,11 +64,12 @@
           "url": "https://wallstreetcn.com/livenews/3020143",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 07时20分]"
         },
         {
           "title": "美国公布对英国汽车的第一季度和第二季度关税配额。根据美国公告，配额内的英国汽车将被征收7.5%的关税。",
