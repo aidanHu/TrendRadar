@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:21:59.591302+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-12-12T14:33:44.395928+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国能源部为福特汽车和SK的合资公司重组96亿美元贷款。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时20分]"
+        },
+        {
+          "title": "印度汽车工业协会SIAM：印度11月国内乘用车总销量为412,405辆。",
+          "url": "https://flash.jin10.com/detail/20251212133039996800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
