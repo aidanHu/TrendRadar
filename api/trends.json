@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:16:22.767222+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-12-13T12:27:06.967060+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -94,6 +94,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "选购 20 万内新能源 SUV，哪款车型能在智能科技上做到「花小钱办大事」？",
+          "url": "https://www.zhihu.com/question/1982602259352285696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         }
       ]
     }
