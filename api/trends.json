@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T18:20:53.812985+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-12-13T19:16:33.600020+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "汽车在高速上跑了 3 个小时，有必要停车给发动机散热吗？",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "欧盟拟放宽2035年燃油车禁令，欧洲汽车业获关键喘息期",
+          "url": "https://flash.jin10.com/detail/20251213181358599800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
