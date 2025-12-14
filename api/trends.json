@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:31:10.546976+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-12-14T15:20:36.603664+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
             3,
             10,
             16,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 15时20分]"
         },
         {
           "title": "欧盟寻求为过渡到零排放汽车争取时间",
