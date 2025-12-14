@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T11:29:43.517456+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-12-14T12:37:07.623657+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 11时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 12时37分]"
         },
         {
           "title": "长城汽车：全面审视井持续强化内部价格合规管理体系建设",
@@ -51,11 +52,12 @@
           "url": "https://wallstreetcn.com/livenews/3020330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时37分]"
         },
         {
           "title": "欧盟寻求为过渡到零排放汽车争取时间",
