@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T07:18:43.376013+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-12-14T09:47:10.207000+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20251213222834029800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设",
