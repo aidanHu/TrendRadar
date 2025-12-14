@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:28:13.630122+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-12-14T22:19:02.273140+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -113,11 +113,12 @@
             12,
             16,
             21,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时19分]"
         },
         {
           "title": "罗永浩说豪华新能源就看沃尔沃XC70",
