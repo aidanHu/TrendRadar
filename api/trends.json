@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:37:07.623657+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2025-12-14T13:21:04.745489+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时21分]"
         },
         {
           "title": "欧盟寻求为过渡到零排放汽车争取时间",
@@ -70,6 +71,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗永浩说豪华新能源就看沃尔沃XC70",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E8%B1%AA%E5%8D%8E%E6%96%B0%E8%83%BD%E6%BA%90%E5%B0%B1%E7%9C%8B%E6%B2%83%E5%B0%94%E6%B2%83XC70%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
         }
       ]
     }
