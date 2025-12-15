@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:24:38.779718+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-12-16T05:20:45.162068+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 05时20分]"
+        },
+        {
+          "title": "福特汽车为电动汽车投资计提195亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3021173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "福特拟将肯塔基电动汽车电池工厂转为生产电网储能电池",
@@ -26,7 +37,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
