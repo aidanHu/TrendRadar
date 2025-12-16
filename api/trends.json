@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:24:07.028861+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2025-12-16T16:31:25.518841+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "欧盟资深议员Weber：2035年起，汽车制造商车队的二氧化碳排放目标将实现90%的削减。",
+          "url": "https://flash.jin10.com/detail/20251216154707063800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "恒生指数低开0.32%，报25547.92点；恒生科技指数跌0.56%。小鹏汽车、百度、小米、阿里巴巴等跌超1%。",
@@ -193,7 +204,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -210,7 +221,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
