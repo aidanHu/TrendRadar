@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T06:20:05.189993+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2025-12-17T07:20:11.273592+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "德国汽车工业协会VDA：欧盟提案障碍重重，很可能在实践中无法发挥作用。",
@@ -78,6 +78,17 @@
           "time_info": "[05时21分 ~ 06时20分]"
         },
         {
+          "title": "日本考虑对电动汽车征收新的税种。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3021936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "大众汽车：欧盟委员会关于新二氧化碳目标的务实草案提案在整体上具有经济合理性",
           "url": "https://flash.jin10.com/detail/20251217003154513800",
           "source": "金十数据",
@@ -98,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "L3级自动驾驶车型产品获准入许可，智能网联汽车迈入量产应用",
+          "url": "https://wallstreetcn.com/livenews/3021929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美国多州起诉特朗普政府冻结电动汽车充电桩资金",
@@ -137,8 +159,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时20分]"
         }
       ]
     }
