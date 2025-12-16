@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T11:25:26.257418+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-12-16T12:36:24.153445+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -72,9 +72,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时36分]"
         },
         {
           "title": "恒生指数低开0.32%，报25547.92点；恒生科技指数跌0.56%。小鹏汽车、百度、小米、阿里巴巴等跌超1%。",
@@ -138,7 +138,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -160,7 +160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
