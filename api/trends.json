@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T11:21:12.207952+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-18T12:34:40.142348+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年12月18日（周四）全球汽车制造商市值变化",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时34分]"
         },
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
@@ -47,11 +48,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时34分]"
         },
         {
           "title": "标普全球评级：预计中国高端汽车市场持续严峻的市场环境将拖累大众汽车的盈利能力和自由现金流。预计大众汽车在短期内缺乏有效手段抵消美国进口关税的影响。",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭板块走强，消费电子、汽车、电池、通信设备等板块走弱",
+          "url": "https://flash.jin10.com/detail/20251218113258825800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "福特汽车取消与韩国LG新能源65亿美元的电动汽车电池合同",
