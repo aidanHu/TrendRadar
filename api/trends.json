@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-18T17:28:00.744991+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-12-18T18:24:06.913872+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "商务部：中欧双方正在就电动汽车案开展磋商",
+          "url": "https://news.ifeng.com/c/8pBahKvgWws",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 18时24分]"
+        },
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
           "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
@@ -22,17 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时29分 ~ 16时30分]"
-        },
-        {
-          "title": "商务部：中欧双方正在就电动汽车案开展磋商",
-          "url": "https://news.ifeng.com/c/8pBahKvgWws",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 17时28分]"
         },
         {
           "title": "广州汽车新购补贴再加码3亿元，名额超6万个",
@@ -91,6 +91,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "山东破获炒作新能源汽车网络水军案",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%A0%B4%E8%8E%B7%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "据日经新闻：丰田汽车总裁佐藤将出任日本汽车游说团体的下一任主席。",
