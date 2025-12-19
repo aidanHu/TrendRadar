@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T06:21:11.220791+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-12-20T07:20:07.086620+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -27,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "存在溜车风险，福特在美国召回超27万辆电动和混动汽车",
