@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-21T05:17:39.073151+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-12-21T06:19:18.470667+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
+        {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 06时19分]"
+        },
         {
           "title": "长安汽车获得首块L3级自动驾驶专用正式号牌，天枢智能开启L3时代",
           "url": "https://wallstreetcn.com/livenews/3024314",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "斯泰兰蒂斯集团Stellantis NV的CEO Antonio Filosa：欧盟没能在修订版气候政策中“围绕促进本公司在欧洲扩大投资”提供清晰的增长路线图。 欧洲气候政策表明，（本公司）不存在为了增长而重返欧洲汽车行业的紧迫性。 缺少了增长，很难考虑扩大（在欧洲的）投资。（英国金融时报）",
@@ -46,11 +46,12 @@
           "url": "https://www.zhihu.com/question/1983840131577292075",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时19分]"
         }
       ]
     }
