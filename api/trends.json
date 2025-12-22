@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:18:33.348756+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-23T04:23:54.918039+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -26,11 +26,12 @@
             26,
             23,
             24,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 04时23分]"
         }
       ]
     }
