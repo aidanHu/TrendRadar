@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T16:31:07.428415+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-12-24T17:25:36.486656+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 17时25分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -38,6 +38,18 @@
           "time_info": "11时24分"
         },
         {
+          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
+          "url": "https://www.zhihu.com/question/1972374354886136143",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 17时25分]"
+        },
+        {
           "title": "随着竞争加剧，西方汽车制造商开始进行文化变革，以大幅缩短开发时间和降低成本。",
           "url": "https://flash.jin10.com/detail/20251224131040613800",
           "source": "金十数据",
@@ -48,17 +60,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
-          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
-          "url": "https://www.zhihu.com/question/1972374354886136143",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
