@@ -1,31 +1,12 @@
 {
-  "generated_at": "2025-12-24T23:22:32.586720+08:00",
-  "total_titles_processed": 1948,
+  "generated_at": "2025-12-25T00:26:35.140882+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "汽车角度分析COD之父车祸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3,
-            5,
-            1,
-            15,
-            19,
-            17,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 17时25分]"
-        },
         {
           "title": "河南许昌汽车站倒闭系谣言",
           "url": "https://www.toutiao.com/trending/7586977710678622214/",
@@ -34,165 +15,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时19分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251224110534154800",
-          "source": "金十数据",
+          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
+          "url": "https://wallstreetcn.com/livenews/3026274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
-          "url": "https://www.zhihu.com/question/1972374354886136143",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 17时25分]"
-        },
-        {
-          "title": "理想汽车合并第一、二产品线",
-          "url": "https://wallstreetcn.com/livenews/3026185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时42分]"
-        },
-        {
-          "title": "随着竞争加剧，西方汽车制造商开始进行文化变革，以大幅缩短开发时间和降低成本。",
-          "url": "https://flash.jin10.com/detail/20251224131040613800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
-          "title": "众泰汽车：与两家银行债权人达成和解",
-          "url": "https://wallstreetcn.com/livenews/3026177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时42分]"
-        },
-        {
-          "title": "美国汽车安全机构调查特斯拉Model 3紧急车门释放情况",
-          "url": "https://wallstreetcn.com/livenews/3026225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时20分]"
-        },
-        {
-          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
-          "url": "https://wallstreetcn.com/livenews/3026243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时22分]"
-        },
-        {
-          "title": "星源卓镁：获新能源汽车项目定点通知 预计未来4年销售总金额约5.75亿元",
-          "url": "https://wallstreetcn.com/livenews/3026132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时19分]"
-        },
-        {
-          "title": "长安汽车声明：网传公司废轻铁拍卖疑致国有资产流失等为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3026221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时20分]"
-        },
-        {
-          "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
-          "url": "https://flash.jin10.com/detail/20251224092514235800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
-          "url": "https://flash.jin10.com/detail/20251224135853314800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
-          "url": "https://wallstreetcn.com/livenews/3025769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江：探索海陆协同的能源基地建设 推动海洋新能源多元化开发利用",
-          "url": "https://wallstreetcn.com/livenews/3025959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "00时26分"
         }
       ]
     }
