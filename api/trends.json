@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:20:11.725912+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-12-24T23:22:32.586720+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时22分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -109,6 +109,18 @@
           "time_info": "[21时33分 ~ 22时20分]"
         },
         {
+          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
+          "url": "https://wallstreetcn.com/livenews/3026243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "星源卓镁：获新能源汽车项目定点通知 预计未来4年销售总金额约5.75亿元",
           "url": "https://wallstreetcn.com/livenews/3026132",
           "source": "华尔街见闻-快讯",
@@ -153,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        },
-        {
-          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
-          "url": "https://wallstreetcn.com/livenews/3026243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
