@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:24:48.726876+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-24T14:34:38.459687+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "汽车角度分析COD之父车祸",
@@ -17,11 +17,12 @@
             5,
             1,
             15,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 13时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -39,11 +40,12 @@
           "url": "https://flash.jin10.com/detail/20251224131040613800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时34分]"
         },
         {
           "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
@@ -55,6 +57,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
+          "url": "https://flash.jin10.com/detail/20251224135853314800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
+          "url": "https://www.zhihu.com/question/1972374354886136143",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
