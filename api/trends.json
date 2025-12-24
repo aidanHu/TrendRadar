@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:24:30.993560+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-12-24T16:31:07.428415+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             15,
             19,
             17,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 15时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时31分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -56,8 +57,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
