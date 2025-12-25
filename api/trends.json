@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T09:42:30.716344+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2025-12-25T11:27:36.855075+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "河南许昌汽车站倒闭系谣言",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时27分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -26,11 +26,12 @@
             1,
             6,
             29,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 11时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "金十图示：2025年12月25日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251225110755695800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
