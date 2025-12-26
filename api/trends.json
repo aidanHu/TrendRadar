@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T00:24:54.455226+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T01:18:41.706313+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
