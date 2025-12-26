@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:19:28.546256+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2025-12-26T20:42:15.815030+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国首批L3级自动驾驶汽车开启规模化上路运行",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时19分]"
+        },
+        {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
