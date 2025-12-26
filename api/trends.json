@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T06:20:47.062110+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-27T07:20:17.348866+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             15,
             30,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -34,8 +35,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -45,8 +46,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
@@ -54,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "超30城扎堆发汽车消费“红包”",
