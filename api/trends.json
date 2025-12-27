@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T01:18:32.009434+08:00",
-  "total_titles_processed": 346,
+  "generated_at": "2025-12-28T02:29:17.019085+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
@@ -26,9 +26,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时29分]"
+        },
+        {
+          "title": "物业禁止新能源汽车进地下车库",
+          "url": "https://www.toutiao.com/trending/7587592446197383177/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时29分"
         }
       ]
     },
@@ -44,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -53,11 +64,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     }
