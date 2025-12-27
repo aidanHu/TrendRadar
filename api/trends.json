@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T07:20:17.348866+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-12-27T09:40:02.240672+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -32,22 +32,35 @@
             9,
             7,
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时40分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
           "url": "https://news.ifeng.com/c/8pP745uL2xK",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时40分]"
+        },
+        {
+          "title": "广东汽车坠江致5死事件情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
         },
         {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
