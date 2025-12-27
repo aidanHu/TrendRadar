@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:19:42.459275+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-12-27T23:19:42.765735+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,18 @@
           "time_info": "[00时24分 ~ 11时23分]"
         },
         {
+          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
+          "url": "https://www.zhihu.com/question/1988011205906935872",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
           "title": "广东汽车坠江致5死事件情况通报",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -61,17 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时39分 ~ 09时40分]"
-        },
-        {
-          "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
-          "url": "https://www.zhihu.com/question/1988011205906935872",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
@@ -135,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -147,8 +148,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "新能源车高速没电2人推车被撞身亡",
