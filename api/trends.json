@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T05:18:41.856997+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-28T06:19:53.083053+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时19分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -41,8 +41,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时29分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[02时29分 ~ 06时19分]"
         }
       ]
     },
@@ -58,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -71,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时19分]"
         }
       ]
     }
