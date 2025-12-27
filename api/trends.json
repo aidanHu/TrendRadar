@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:19:53.083053+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-12-28T07:20:22.957760+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时20分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -38,11 +39,12 @@
             25,
             28,
             24,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 06时19分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时20分]"
         }
       ]
     },
@@ -58,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时20分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -71,8 +73,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时20分]"
         }
       ]
     }
