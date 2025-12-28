@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:32:23.091717+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2025-12-28T15:20:54.497322+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -34,6 +34,19 @@
           "time_info": "[01时18分 ~ 07时20分]"
         },
         {
+          "title": "汽车国家队重回牌桌中央",
+          "url": "https://wallstreetcn.com/articles/3762186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时20分]"
+        },
+        {
           "title": "物业禁止新能源汽车进地下车库",
           "url": "https://www.toutiao.com/trending/7587592446197383177/",
           "source": "今日头条",
@@ -49,17 +62,15 @@
           "time_info": "[02时29分 ~ 07时20分]"
         },
         {
-          "title": "汽车国家队重回牌桌中央",
-          "url": "https://wallstreetcn.com/articles/3762186",
-          "source": "华尔街见闻",
+          "title": "史上最严电动汽车电耗国标来了",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E8%80%97%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -89,8 +100,19 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
+          "url": "https://www.zhihu.com/question/1988268256671320017",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时20分]"
+        },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32265274",
@@ -104,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 14时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 15时20分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -120,15 +142,15 @@
           "time_info": "[00时24分 ~ 11时48分]"
         },
         {
-          "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
-          "url": "https://www.zhihu.com/question/1988268256671320017",
-          "source": "知乎",
+          "title": "女子开新能源车意外冲进河里遇难",
+          "url": "https://www.toutiao.com/trending/7588528256232587283/",
+          "source": "今日头条",
           "ranks": [
-            4
+            20
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
