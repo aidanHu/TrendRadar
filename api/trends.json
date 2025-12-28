@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:21:25.079499+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-28T18:21:29.469102+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
         },
         {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
@@ -64,22 +65,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时21分]"
-        },
-        {
-          "title": "重庆追加汽车置换、汽车报废更新补贴",
-          "url": "https://flash.jin10.com/detail/20251228164730984800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时21分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -97,26 +88,40 @@
           "time_info": "[02时29分 ~ 07时20分]"
         },
         {
+          "title": "重庆追加汽车置换、汽车报废更新补贴",
+          "url": "https://flash.jin10.com/detail/20251228164730984800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
           "title": "数字环驾中国大赛运营基地在津揭牌 打造新能源汽车产业创新服务新平台",
           "url": "https://flash.jin10.com/detail/20251228164627469800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架",
           "url": "https://flash.jin10.com/detail/20251228163923165800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -171,11 +176,12 @@
             10,
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 17时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 18时21分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -195,11 +201,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 18时21分]"
         }
       ]
     }
