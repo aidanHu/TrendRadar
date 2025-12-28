@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T15:20:54.497322+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-12-28T16:28:12.954938+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -22,6 +22,19 @@
           "time_info": "[00时24分 ~ 11时48分]"
         },
         {
+          "title": "汽车国家队重回牌桌中央",
+          "url": "https://wallstreetcn.com/articles/3762186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 16时28分]"
+        },
+        {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
           "source": "百度热搜",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时20分]"
-        },
-        {
-          "title": "汽车国家队重回牌桌中央",
-          "url": "https://wallstreetcn.com/articles/3762186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 15时20分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -66,11 +66,23 @@
           "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E8%80%97%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时28分"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -110,8 +122,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 16时28分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -123,11 +135,12 @@
             17,
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 16时28分]"
         },
         {
           "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
@@ -146,11 +159,12 @@
           "url": "https://www.toutiao.com/trending/7588528256232587283/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时28分]"
         }
       ]
     }
