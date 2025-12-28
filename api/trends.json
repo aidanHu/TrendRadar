@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:17:51.947525+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-12-28T20:40:32.663192+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
             3,
             4,
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 20时40分]"
         },
         {
           "title": "物业禁止新能源汽车进地下车库",
@@ -153,7 +154,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新能源车高速电量耗尽，2 人慢车道推车被撞身亡，这起事故责任如何划分？该情况正确处置流程是怎样的？",
@@ -215,11 +216,23 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%BC%80%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%A4%96%E5%86%B2%E8%BF%9B%E6%B2%B3%E9%87%8C%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
+          "title": "宁德举办锂电新能源产业专题推介会 签约项目总投资74.7亿元",
+          "url": "https://flash.jin10.com/detail/20251228193814473800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时40分"
         }
       ]
     }
