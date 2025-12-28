@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T22:20:15.971656+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-12-28T23:20:09.878747+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -96,11 +96,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时20分]"
         },
         {
           "title": "重庆追加汽车置换、汽车报废更新补贴",
