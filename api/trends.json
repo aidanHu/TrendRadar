@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-30T11:28:41.684034+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-30T12:40:06.792962+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
-        {
-          "title": "金十图示：2025年12月30日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251230110841139800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
           "url": "https://flash.jin10.com/detail/20251230065611933800",
@@ -37,8 +26,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时28分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 12时40分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251230110841139800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时40分]"
         },
         {
           "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
