@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T06:20:49.160482+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-31T07:20:05.646052+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -40,11 +40,12 @@
           "ranks": [
             10,
             13,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -96,11 +97,12 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
