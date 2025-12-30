@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T12:40:06.792962+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-12-30T13:24:45.275593+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
+        {
+          "title": "将推出飞行汽车？比亚迪高管否认",
+          "url": "https://www.toutiao.com/trending/7588521891170664467/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 13时24分]"
+        },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
           "url": "https://flash.jin10.com/detail/20251230065611933800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "将推出飞行汽车？比亚迪高管否认",
-          "url": "https://www.toutiao.com/trending/7588521891170664467/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 12时40分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）全球汽车制造商市值变化",
