@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T06:21:05.891161+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-01-01T07:20:26.123838+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时20分]"
         },
         {
           "title": "2026年汽车国补细则",
@@ -78,11 +79,12 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时20分]"
         }
       ]
     }
