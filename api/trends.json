@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T01:19:17.112078+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-01-01T02:31:07.204437+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时31分]"
+        },
+        {
+          "title": "2026年汽车“两新”政策落地",
+          "url": "https://www.toutiao.com/trending/7589961604490333734/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 02时31分]"
         }
       ]
     },
@@ -44,8 +55,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     }
