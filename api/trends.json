@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:21:11.537521+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-02T07:21:17.853067+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             1,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
