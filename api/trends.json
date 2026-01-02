@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T19:19:33.007256+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-02T20:41:27.787149+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -23,26 +23,15 @@
           "time_info": "[00时27分 ~ 07时21分]"
         },
         {
-          "title": "西班牙汽车制造商协会（ANFAC）：西班牙特斯拉(TSLA.O)新车注册量在12月同比下降44.2%，至1794辆。",
-          "url": "https://flash.jin10.com/detail/20260102190626728800",
-          "source": "金十数据",
+          "title": "“停靠在八楼的2路汽车”具象化了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%85%AB%E6%A5%BC%E7%9A%842%E8%B7%AF%E6%B1%BD%E8%BD%A6%E2%80%9D%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "西班牙汽车制造商协会（ANFAC）：西班牙12月新车销量同比下滑2.2%。",
-          "url": "https://flash.jin10.com/detail/20260102190458966800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "20时41分"
         },
         {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
@@ -56,15 +45,16 @@
           "time_info": "09时44分"
         },
         {
-          "title": "西班牙汽车制造商协会（ANFAC）：西班牙2025年新车销量同比增长12.9%。",
-          "url": "https://flash.jin10.com/detail/20260102190443086800",
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙特斯拉(TSLA.O)新车注册量在12月同比下降44.2%，至1794辆。",
+          "url": "https://flash.jin10.com/detail/20260102190626728800",
           "source": "金十数据",
           "ranks": [
-            4
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "日媒：中国汽车全球销量将超日本",
@@ -103,6 +93,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时25分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙12月新车销量同比下滑2.2%。",
+          "url": "https://flash.jin10.com/detail/20260102190458966800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙2025年新车销量同比增长12.9%。",
+          "url": "https://flash.jin10.com/detail/20260102190443086800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球汽车制造商市值变化",
@@ -152,6 +166,17 @@
           "time_info": "18时22分"
         },
         {
+          "title": "西班牙汽车制造商协会（ANFAC）：2025年，西班牙特斯拉(TSLA.O)新车注册量同比下降4%，电动汽车整体注册量则增长94.6%。",
+          "url": "https://flash.jin10.com/detail/20260102190757202800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
           "url": "https://wallstreetcn.com/livenews/3029608",
           "source": "华尔街见闻-快讯",
@@ -179,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 20时41分]"
         },
         {
           "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
