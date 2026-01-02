@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:14:53.603439+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-01-03T04:23:27.637409+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时23分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时23分]"
         },
         {
           "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
@@ -53,11 +53,12 @@
           "ranks": [
             3,
             5,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 04时23分]"
         }
       ]
     }
