@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T20:41:27.787149+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-01-02T21:33:27.742906+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -29,9 +29,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时33分]"
         },
         {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
@@ -172,7 +172,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -204,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 20时41分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 21时33分]"
         },
         {
           "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
