@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T04:23:27.637409+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-03T05:17:01.060114+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时17分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -54,11 +54,12 @@
             3,
             5,
             19,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 05时17分]"
         }
       ]
     }
