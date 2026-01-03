@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T13:22:06.687007+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-03T14:32:19.089044+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             21,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[06时21分 ~ 14时32分]"
         },
         {
           "title": "德法跨年夜暴乱不断：千辆汽车被毁，百余人被捕",
@@ -42,11 +43,12 @@
             5,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 14时32分]"
         },
         {
           "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
@@ -54,11 +56,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时32分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -123,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 14时32分]"
         }
       ]
     }
