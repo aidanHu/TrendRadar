@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T14:32:19.089044+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-01-03T15:20:24.537714+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             7,
             8,
             9,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 15时20分]"
         },
         {
           "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
@@ -127,11 +128,12 @@
           "ranks": [
             7,
             5,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 15时20分]"
         }
       ]
     }
