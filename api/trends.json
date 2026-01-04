@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T14:32:04.278149+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-01-04T15:22:02.380163+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "两名中国公民在日本被汽车严重撞伤",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             13,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 15时22分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "日本栃木县10余辆汽车相撞致1死3伤",
+          "url": "https://www.toutiao.com/trending/7591369777101471795/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "雷军公开小米汽车年交付量",
