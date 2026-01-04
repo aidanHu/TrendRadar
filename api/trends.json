@@ -1,123 +1,22 @@
 {
-  "generated_at": "2026-01-04T23:20:35.448616+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-01-05T00:24:49.119659+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "两名中国公民在日本被汽车严重撞伤",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "雷军带网友参观小米汽车实验室",
+          "url": "https://www.douyin.com/hot/2357448",
+          "source": "抖音",
           "ranks": [
-            9,
-            13,
-            16,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时20分]"
-        },
-        {
-          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
-          "url": "https://flash.jin10.com/detail/20260104151614055800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时18分]"
-        },
-        {
-          "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
-          "url": "https://wallstreetcn.com/livenews/3030275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时18分]"
-        },
-        {
-          "title": "日本栃木县10余辆汽车相撞致1死3伤",
-          "url": "https://www.toutiao.com/trending/7591369777101471795/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "特斯拉电动汽车年销量被比亚迪超越",
-          "url": "https://www.toutiao.com/trending/7590811655605616659/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
-          "url": "https://wallstreetcn.com/livenews/3030281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时18分]"
-        },
-        {
-          "title": "雷军公开小米汽车年交付量",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "小鹏汽车发布消息称，新款小鹏P7+和G7正式开启一车双能时代，1月8日将在中国正式上市，1月9日正式在欧洲上市。",
-          "url": "https://flash.jin10.com/detail/20260104090622804800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时51分]"
-        },
-        {
-          "title": "雷军：2026年小米汽车交付目标55万辆",
-          "url": "https://wallstreetcn.com/livenews/3030084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "00时24分"
         }
       ]
     }
