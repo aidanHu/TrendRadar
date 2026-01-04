@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-04T11:51:54.443486+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-01-04T12:50:32.604053+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 5,
       "titles": [
+        {
+          "title": "两名中国公民在日本被汽车严重撞伤",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时50分]"
+        },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
           "url": "https://www.toutiao.com/trending/7590811655605616659/",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "两名中国公民在日本被汽车严重撞伤",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时51分]"
         },
         {
           "title": "雷军公开小米汽车年交付量",
