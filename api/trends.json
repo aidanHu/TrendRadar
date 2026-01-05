@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T12:58:05.909903+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-05T13:38:25.512096+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             23,
             26,
             24,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时38分]"
         },
         {
           "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
@@ -32,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 13时38分]"
         },
         {
           "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
@@ -43,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 13时38分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）全球汽车制造商市值变化",
@@ -79,11 +80,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 13时38分]"
         }
       ]
     }
