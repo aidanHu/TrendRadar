@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:20:54.665806+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2026-01-09T20:44:52.192311+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -17,11 +17,12 @@
             14,
             12,
             5,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时40分 ~ 20时44分]"
         },
         {
           "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
@@ -87,9 +88,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "瑞穗银行：将通用汽车(GM.N)目标价从90美元上调至100美元。",
+          "url": "https://flash.jin10.com/detail/20260109195232032800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "市场监管总局：将进一步加快新能源汽车、锂电池和光伏产业相关国家标准研制",
@@ -101,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "德国汽车工业协会：南方共同市场协议将成出口增长强心针",
+          "url": "https://flash.jin10.com/detail/20260109194913182800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -142,7 +165,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
