@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T21:38:58.316637+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2026-01-09T22:25:13.368947+08:00",
+  "total_titles_processed": 2103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 22时25分]"
         },
         {
           "title": "乘联分会：中国2025年新能源汽车零售销量同比增长17.6%",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 17时28分]"
+        },
+        {
+          "title": "小米汽车深夜怒怼“绿化带战神”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%B7%B1%E5%A4%9C%E6%80%92%E6%80%BC%E2%80%9C%E7%BB%BF%E5%8C%96%E5%B8%A6%E6%88%98%E7%A5%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
         },
         {
           "title": "小米汽车发文表示，小米YU7连续4个月中大型SUV销量第一。",
