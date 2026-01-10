@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:22:13.305023+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-01-10T14:31:40.663205+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://wallstreetcn.com/livenews/3034499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
         },
         {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
@@ -77,11 +78,12 @@
           "url": "https://wallstreetcn.com/livenews/3034497",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
         }
       ]
     }
