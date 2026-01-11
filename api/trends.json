@@ -1,57 +1,7 @@
 {
-  "generated_at": "2026-01-11T23:20:49.017581+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-12T00:26:02.786612+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沙特官员：欢迎中国新能源企业投资沙特",
-          "url": "https://wallstreetcn.com/livenews/3034640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 16时28分]"
-        },
-        {
-          "title": "宁德时代旗下宁家服务打造中东最大新能源后市场体验中心",
-          "url": "https://wallstreetcn.com/livenews/3034657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
-          "url": "https://flash.jin10.com/detail/20260110214003614800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时20分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
