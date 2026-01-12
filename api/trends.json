@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T06:20:10.410052+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-13T07:18:03.724018+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -25,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
