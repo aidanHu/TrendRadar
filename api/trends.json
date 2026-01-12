@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-01-13T01:24:25.407536+08:00",
-  "total_titles_processed": 387,
-  "failed_sources": [],
+  "generated_at": "2026-01-13T02:39:06.958253+08:00",
+  "total_titles_processed": 479,
+  "failed_sources": [
+    "thepaper",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "汽车",
@@ -15,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 02时39分]"
         }
       ]
     }
