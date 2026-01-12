@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:51:25.242124+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-01-12T13:30:37.124780+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 13时30分]"
         },
         {
           "title": "金十图示：2026年01月12日（周一）全球汽车制造商市值变化",
@@ -46,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时51分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 13时30分]"
         }
       ]
     }
