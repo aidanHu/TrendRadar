@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-12T07:20:35.608114+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-12T09:49:59.409902+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家推动新能源电量全量入市，20 余省份机制电价揭晓，南北价差超一倍，如何解读？对行业有何影响？",
+          "url": "https://www.zhihu.com/question/1993051559572025654",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
