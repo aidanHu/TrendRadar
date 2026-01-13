@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:32:08.585864+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-14T03:21:14.219741+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时32分]"
-        },
-        {
-          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
-          "url": "https://flash.jin10.com/detail/20260114020620908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -36,11 +26,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
+          "url": "https://flash.jin10.com/detail/20260114020620908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 03时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
