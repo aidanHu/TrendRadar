@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:41:05.085035+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-01-13T13:26:42.247340+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 12时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 13时26分]"
         },
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -30,19 +30,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 13时26分]"
         },
         {
           "title": "新能源汽车的电池寿命有多久？",
           "url": "https://www.zhihu.com/question/1887877649495479265",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 13时26分]"
+        },
+        {
+          "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
+          "url": "https://flash.jin10.com/detail/20260113114920665800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "time_info": "[12时41分 ~ 13时26分]"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -54,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
-          "url": "https://flash.jin10.com/detail/20260113114920665800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
         }
       ]
     }
