@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:22:48.363147+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-01-14T07:20:41.801990+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             1,
             4,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 04时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时20分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
