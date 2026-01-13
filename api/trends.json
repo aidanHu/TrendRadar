@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:21:15.953326+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-01-13T20:48:04.580352+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             5,
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时25分 ~ 19时21分]"
+          "appearance_count": 11,
+          "time_info": "[15时25分 ~ 20时48分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -170,7 +171,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -214,7 +215,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
