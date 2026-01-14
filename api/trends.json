@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:47:24.089911+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-01-14T13:25:05.053618+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,20 @@
           "time_info": "[00时32分 ~ 07时20分]"
         },
         {
+          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2257032",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 13时25分]"
+        },
+        {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
           "url": "https://www.zhihu.com/question/667028399",
           "source": "知乎",
@@ -34,19 +48,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2257032",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时47分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
