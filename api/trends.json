@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:26:11.439532+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-01-14T19:22:01.920974+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时22分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -58,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 18时26分]"
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 19时22分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
+        },
+        {
+          "title": "观致汽车部分资产将被拍卖",
+          "url": "https://www.toutiao.com/trending/7594726734407352339/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球汽车制造商市值变化",
