@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T06:23:00.048777+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-01-15T07:19:05.367284+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源汽车产销量双超1600万辆",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时19分]"
         },
         {
           "title": "周三（1月14日），彭博电动汽车价格回报指数跌0.37%，报3611.80点。 亚太早盘，指数微幅上涨，北京时间13:00出现一波显著的跳水转跌行情，14:07刷新日低至3597.59点刷新日低，随后持续低位震荡。 成分股Rivian跌7.7%，微宏控股跌4.1%，意法半导体跌2.4%，特斯拉跌2.2%，小马智行则涨1.9%，普拉格动力公司2.4%，宝马涨2.7%，Solid Power涨3.6%，EVGO涨5.9%，MP材料涨8.3%。",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时22分]"
+        },
+        {
+          "title": "通用汽车(GM.N)：未来两年将在墨西哥的本地制造领域投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115065951454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
