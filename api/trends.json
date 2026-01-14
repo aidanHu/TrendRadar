@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T20:46:37.487237+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2026-01-14T21:41:06.389363+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
@@ -41,11 +41,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            3
+            3,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时31分 ~ 20时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 21时41分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时34分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 21时41分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 03时21分]"
+        },
+        {
+          "title": "新能源汽车产销量双超1600万辆",
+          "url": "https://www.douyin.com/hot/2367892",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "中汽协：中国12月汽车销量同比下降6.2%。",
