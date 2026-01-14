@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T22:26:24.060352+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2026-01-14T23:27:17.035134+08:00",
+  "total_titles_processed": 2211,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时34分 ~ 22时26分]"
+          "appearance_count": 16,
+          "time_info": "[14时34分 ~ 23时27分]"
         },
         {
           "title": "新能源汽车产销量双超1600万辆",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[21时40分 ~ 23时27分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -208,7 +208,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -329,7 +329,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -340,7 +340,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
