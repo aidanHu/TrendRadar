@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T13:26:36.736888+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-01-16T14:35:10.329284+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "飞行汽车真的来了吗",
@@ -16,11 +16,39 @@
             28,
             20,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时25分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[04时25分 ~ 14时35分]"
+        },
+        {
+          "title": "六部门：报废新能源汽车时必须“车电一体”",
+          "url": "https://www.cls.cn/detail/2259891",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时35分]"
+        },
+        {
+          "title": "重夺汽车第一城 西部大佬杀回来了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%BA%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E5%9F%8E+%E8%A5%BF%E9%83%A8%E5%A4%A7%E4%BD%AC%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            18,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 14时35分]"
         },
         {
           "title": "周四（1月15日），彭博电动汽车价格回报指数涨0.17%，报3620.86点。 北京时间09:30微幅转跌，刷新日低至3614.20点，随后拉升至3656.05点刷新日高，日内大部分时间持稳于3635点附近。",
@@ -35,18 +63,6 @@
           "time_info": "[05时22分 ~ 06时22分]"
         },
         {
-          "title": "六部门：报废新能源汽车时必须“车电一体”",
-          "url": "https://www.cls.cn/detail/2259891",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时26分]"
-        },
-        {
           "title": "麦格理：维持小鹏汽车“跑赢大盘”评级 下调目标价",
           "url": "https://flash.jin10.com/detail/20260116112158687800",
           "source": "金十数据",
@@ -57,19 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时40分]"
-        },
-        {
-          "title": "重夺汽车第一城 西部大佬杀回来了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%A4%BA%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E5%9F%8E+%E8%A5%BF%E9%83%A8%E5%A4%A7%E4%BD%AC%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时26分]"
         },
         {
           "title": "据中国网信网，汽车行业网络乱象专项整治行动公开曝光第三批典型案例。",
@@ -106,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时25分]"
+        },
+        {
+          "title": "观致汽车厂再流拍 6万人围观1人报名",
+          "url": "https://www.baidu.com/s?wd=%E8%A7%82%E8%87%B4%E6%B1%BD%E8%BD%A6%E5%8E%82%E5%86%8D%E6%B5%81%E6%8B%8D+6%E4%B8%87%E4%BA%BA%E5%9B%B4%E8%A7%821%E4%BA%BA%E6%8A%A5%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）全球汽车制造商市值变化",
@@ -198,11 +212,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 14时35分]"
         }
       ]
     }
