@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-16T16:31:44.389247+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-01-16T17:27:56.420551+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "六部门：报废新能源汽车时必须“车电一体”",
+          "url": "https://www.cls.cn/detail/2259891",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时27分]"
+        },
         {
           "title": "飞行汽车真的来了吗",
           "url": "https://www.toutiao.com/trending/7595469872146992650/",
@@ -22,19 +35,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时25分 ~ 14时35分]"
-        },
-        {
-          "title": "六部门：报废新能源汽车时必须“车电一体”",
-          "url": "https://www.cls.cn/detail/2259891",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 16时31分]"
         },
         {
           "title": "重夺汽车第一城 西部大佬杀回来了",
@@ -57,9 +57,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时27分]"
         },
         {
           "title": "吉林省汽车置换补贴上线，燃油车6%、新能源车8%",
@@ -97,6 +97,18 @@
           "time_info": "[11时40分 ~ 12时40分]"
         },
         {
+          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
+          "url": "https://www.zhihu.com/question/1994725124583215822",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时27分]"
+        },
+        {
           "title": "据中国网信网，汽车行业网络乱象专项整治行动公开曝光第三批典型案例。",
           "url": "https://wallstreetcn.com/livenews/3038437",
           "source": "华尔街见闻-快讯",
@@ -131,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时25分]"
-        },
-        {
-          "title": "雷军称小米 SU7 二手车保值率 80.1％，处于行业头部水平，是这样吗？哪些因素影响汽车保值率？",
-          "url": "https://www.zhihu.com/question/1994725124583215822",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时31分]"
         },
         {
           "title": "观致汽车厂再流拍 6万人围观1人报名",
@@ -186,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "戴姆勒卡车：第四季度电池电动汽车销量同比增长52%，达到2902辆。",
+          "url": "https://flash.jin10.com/detail/20260116170055207800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "芯片荒叠加贸易战 加拿大汽车业领跌",
@@ -237,8 +249,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 17时27分]"
         },
         {
           "title": "为何新能源车满6年就能享受换新优惠",
