@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T06:22:19.332337+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-01-17T07:21:21.399575+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -40,8 +40,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "长城汽车总裁称“打死不做增程”",
+          "url": "https://www.toutiao.com/trending/7595123094018392105/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时21分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时25分]"
-        },
-        {
-          "title": "长城汽车总裁称“打死不做增程”",
-          "url": "https://www.toutiao.com/trending/7595123094018392105/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
         },
         {
           "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
@@ -88,11 +89,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时21分]"
         }
       ]
     }
