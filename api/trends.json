@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:21:18.368423+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-01-17T18:21:12.702892+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             1,
             5,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
@@ -151,7 +152,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
@@ -197,6 +198,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时33分 ~ 16时27分]"
+        },
+        {
+          "title": "欧盟会提高中国混动新能源车关税吗",
+          "url": "https://www.toutiao.com/trending/7596236229813734931/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         }
       ]
     }
