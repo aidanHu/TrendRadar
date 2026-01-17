@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:27:01.476921+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:21:18.368423+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,25 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时21分]"
+        },
+        {
+          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
+          "url": "https://flash.jin10.com/detail/20260117142340959800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时27分]"
+          "time_info": "[15时20分 ~ 17时21分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -99,18 +113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时25分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
-          "url": "https://flash.jin10.com/detail/20260117142340959800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时27分]"
         },
         {
           "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
@@ -174,11 +176,12 @@
             12,
             16,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 17时21分]"
         },
         {
           "title": "山西2025年新能源发电量首次突破1000亿度",
