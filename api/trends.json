@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:20:54.505605+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-01-18T16:27:43.393083+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 16时27分]"
         },
         {
           "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
@@ -94,7 +95,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
