@@ -1,122 +1,22 @@
 {
-  "generated_at": "2026-01-20T23:32:05.250474+08:00",
-  "total_titles_processed": 2098,
+  "generated_at": "2026-01-21T00:36:47.085035+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "南京一车主回应雪天把汽车开上墙",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%9B%AA%E5%A4%A9%E6%8A%8A%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%8A%E5%A2%99",
           "source": "百度热搜",
           "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 23时32分]"
-        },
-        {
-          "title": "货车碰撞多辆汽车 中山警方通报",
-          "url": "https://www.douyin.com/hot/2373531",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时24分]"
-        },
-        {
-          "title": "野村证券：将韩国现代汽车目标价从37万韩元上调至57万韩元。",
-          "url": "https://flash.jin10.com/detail/20260120120506884800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时29分]"
-        },
-        {
-          "title": "雷诺集团：2025年售出40万辆混合动力汽车和19.4万辆电动汽车。",
-          "url": "https://flash.jin10.com/detail/20260120140826581800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "雷诺汽车将助力法国发展无人机产业",
-          "url": "https://flash.jin10.com/detail/20260120063627017800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260120110922604800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "雷诺股价在汽车销售数据公布后上涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20260120160400215800",
-          "source": "金十数据",
-          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "广汽汽车芯片中一半将由格力芯片替代？广汽集团：相关网传表述并非事实",
-          "url": "https://wallstreetcn.com/livenews/3040382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "油车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开插混车的同学出来说说，你们是不是很喜欢把插混车当油车开？",
-          "url": "https://www.zhihu.com/question/10108500892",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时44分 ~ 17时33分]"
+          "time_info": "00时36分"
         }
       ]
     }
