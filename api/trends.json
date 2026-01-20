@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:23:59.005199+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-01-21T07:23:14.681670+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             30,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 07时23分]"
         },
         {
           "title": "周二（1月20日），彭博电动汽车价格回报指数跌0.70%，报3580.45点。 北京时间10:00前后，指数出现一波显著的下跌行情，随后持续纠缠于3580点附近。 成分股Ola Electric Mobility Ltd.跌8.87%，小马智行跌超6%，微宏控股跌4.68%，特斯拉跌超4%跌幅第五大，浙江零跑科技（港股）收涨1.20%表现第五，意法半导体（欧股）收涨1.51%，智利化工矿业公司（SQM）涨超2.8%，阿内卡矿业股份（ANTM）涨3%，美国雅宝（ALB）涨超5%。",
@@ -39,11 +40,12 @@
           "url": "https://flash.jin10.com/detail/20260121053947822800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
         }
       ]
     }
