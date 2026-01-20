@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:45:10.540599+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-20T13:29:42.059647+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时30分 ~ 01时24分]"
         },
         {
+          "title": "野村证券：将韩国现代汽车目标价从37万韩元上调至57万韩元。",
+          "url": "https://flash.jin10.com/detail/20260120120506884800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时29分]"
+        },
+        {
           "title": "雷诺汽车将助力法国发展无人机产业",
           "url": "https://flash.jin10.com/detail/20260120063627017800",
           "source": "金十数据",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "野村证券：将韩国现代汽车目标价从37万韩元上调至57万韩元。",
-          "url": "https://flash.jin10.com/detail/20260120120506884800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）全球汽车制造商市值变化",
@@ -62,11 +63,12 @@
           "url": "https://www.zhihu.com/question/10108500892",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时29分]"
         }
       ]
     }
