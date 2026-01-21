@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T09:48:51.555556+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-01-21T11:44:43.226012+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "南京一车主回应雪天把汽车开上墙",
@@ -30,7 +30,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -65,9 +65,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "据日经新闻：三菱汽车总裁Kato将于4月1日起出任首席执行官兼董事长。",
+          "url": "https://flash.jin10.com/detail/20260121110927475800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "韩股跌幅收窄，芯片和汽车股上扬",
+          "url": "https://flash.jin10.com/detail/20260121110906973800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "我国电动汽车充电基础设施数量突破2000万大关",
+          "url": "https://wallstreetcn.com/livenews/3040902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260121110559104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         }
       ]
     }
