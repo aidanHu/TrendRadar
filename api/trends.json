@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:19:22.753041+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-01-24T07:22:06.960937+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             20,
             28,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
@@ -28,7 +29,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -49,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
@@ -58,11 +59,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 07时22分]"
         }
       ]
     }
