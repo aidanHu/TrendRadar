@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-01-24T00:31:53.539424+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-24T01:26:51.195645+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国汽车在欧洲卖爆了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%96%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "有人从东北打新能源出租车去三亚",
@@ -32,8 +15,37 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "男子打新能源出租车从东北去三亚",
+          "url": "https://www.toutiao.com/trending/7598471704026202163/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国汽车在欧洲卖爆了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%8D%96%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时26分]"
         }
       ]
     }
