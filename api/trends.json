@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T01:26:51.195645+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-01-24T02:34:34.148759+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E4%BB%8E%E4%B8%9C%E5%8C%97%E6%89%93%E6%96%B0%E8%83%BD%E6%BA%90%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8E%BB%E4%B8%89%E4%BA%9A",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时34分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
@@ -25,7 +26,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
