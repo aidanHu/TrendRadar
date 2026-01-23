@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:27:04.694284+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-01-24T05:22:12.156581+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "男子打新能源出租车从东北去三亚",
@@ -44,11 +45,12 @@
           "ranks": [
             19,
             20,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     }
