@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:22:42.632974+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-01-25T18:22:40.060571+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 18时22分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
