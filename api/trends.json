@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T12:53:25.379181+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-01-25T13:29:28.768623+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -26,9 +26,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 13时29分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 13时29分]"
         }
       ]
     }
