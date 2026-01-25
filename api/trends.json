@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:22:16.373155+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-01-25T16:28:39.240343+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 16时28分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.toutiao.com/trending/7599142490826096646/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 15时22分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
