@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T09:54:36.978470+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-01-26T11:58:21.865757+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -65,9 +65,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260126110721943800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "国家税务总局：2025年新能源汽车消费热度持续上升",
+          "url": "https://wallstreetcn.com/livenews/3043638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "为线控转向划定安全边界 汽车转向强制性国标发布",
+          "url": "https://wallstreetcn.com/livenews/3043634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "恒指高开0.35%，报26844.04点；恒生科技指数涨0.05%。泡泡玛特涨超4%，紫金矿业涨近3%，腾讯音乐涨近2%；百度跌近2%，小鹏汽车跌1.8%。",
@@ -76,7 +109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
