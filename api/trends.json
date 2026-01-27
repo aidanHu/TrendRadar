@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:31:46.517596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:28:36.130014+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时28分]"
+        },
+        {
           "title": "世贸组织：正在考虑成立专家小组，审查印度针对电池和电动汽车的相关措施。",
           "url": "https://flash.jin10.com/detail/20260127232908092800",
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "中国汽车出口第一目的国易主",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
