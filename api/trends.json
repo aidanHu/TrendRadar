@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-27T18:28:50.267436+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-01-27T19:23:54.653653+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "开回去太累 12306托运汽车订单火爆",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时23分]"
+        },
         {
           "title": "印度大幅削减对欧盟汽车关税 配额扩大至英方协议的六倍",
           "url": "https://flash.jin10.com/detail/20260127152318522800",
@@ -28,19 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "开回去太累 12306托运汽车订单火爆",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "周一（1月26日），彭博电动汽车价格回报指数跌0.36%，报3695.94点。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "12306托运汽车订单火爆",
+          "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美国国家公路交通安全管理局：美国大众汽车召回43,881辆美国车辆，因为过热的高压电池会增加火灾风险。",
@@ -211,6 +222,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "德国汽车协会主席：印欧贸易协定传递强烈信号",
+          "url": "https://flash.jin10.com/detail/20260127183239342800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "美韩贸易摩擦升级 韩国汽车与芯片产业前景蒙阴影",
           "url": "https://flash.jin10.com/detail/20260127134413222800",
           "source": "金十数据",
@@ -220,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "欧盟表示，根据印欧协议，汽车关税将逐步降至10%，每年配额为25万辆。",
