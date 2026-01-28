@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:48:07.194972+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-01-28T11:46:00.605962+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国汽车出口第一目的国易主",
@@ -23,6 +23,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时48分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）富时中国A50指数成分股午盘收盘行情一览：板块走势分化，有色金属、小金属、石油板块涨幅居前，半导体、汽车板块表现低迷",
+          "url": "https://flash.jin10.com/detail/20260128113402087800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "泰国汽车工业联合会：泰国12月汽车产量同比增长8.56%，11月为同比增长11.06%。",
+          "url": "https://flash.jin10.com/detail/20260128113303780800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
