@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T07:23:07.611703+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-01-28T09:48:07.194972+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             19,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 09时48分]"
         },
         {
           "title": "周二（1月27日），彭博电动汽车价格回报指数跌0.18%，报3691.62点。 该指数全天处于下跌状态，亚太早盘显著走低、北京时间10:03刷新日低至3645.56点，随后逐步收复失地，整体呈现出长尾V形走势。",
