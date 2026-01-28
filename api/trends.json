@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T01:33:32.138935+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-01-29T02:38:25.061578+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时33分]"
+        },
+        {
+          "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
+          "url": "https://flash.jin10.com/detail/20260129020850193800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
         }
       ]
     }
