@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:02:42.530934+08:00",
-  "total_titles_processed": 2058,
+  "generated_at": "2026-01-29T23:36:33.376076+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,23 @@
             9,
             6,
             19,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时43分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 23时36分]"
+        },
+        {
+          "title": "中国新能源汽车持续领跑全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时36分]"
         },
         {
           "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
@@ -33,17 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
-        },
-        {
-          "title": "中国新能源汽车持续领跑全球",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -197,7 +198,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
