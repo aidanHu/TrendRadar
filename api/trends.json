@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:40:35.298982+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-01-29T16:40:04.590523+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -17,8 +17,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 15时40分]"
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 16时40分]"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -78,6 +89,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
+          "url": "https://flash.jin10.com/detail/20260129162442665800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "现代汽车：美国关税削减在第四季度的影响有限。",
           "url": "https://flash.jin10.com/detail/20260129132139586800",
           "source": "金十数据",
@@ -98,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "福田汽车：预计2025年净利润约为13.3亿元，同比增加1,551%左右",
+          "url": "https://wallstreetcn.com/livenews/3046247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "现代汽车股价上涨1.9%。",
@@ -200,7 +233,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
