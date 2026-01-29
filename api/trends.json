@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-29T13:44:03.457116+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-01-29T14:47:46.455641+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 14时47分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -82,7 +83,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -93,7 +94,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -104,9 +105,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "现代汽车：2026年美国关税的影响将与2025年类似。",
+          "url": "https://flash.jin10.com/detail/20260129135158577800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "现代汽车：将回购价值3670亿韩元的库存股。",
@@ -115,7 +127,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -126,7 +138,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -137,9 +149,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "现代汽车股价继续上涨，现涨3.6%。",
+          "url": "https://flash.jin10.com/detail/20260129134340595800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "曝奇瑞将用捷豹路虎英国工厂生产汽车",
@@ -159,7 +182,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
