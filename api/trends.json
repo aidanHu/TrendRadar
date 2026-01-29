@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:31:31.027386+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-30T04:31:21.677718+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             20,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
