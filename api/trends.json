@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:47:27.309056+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-01-30T14:51:05.720911+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
@@ -124,11 +125,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时51分]"
         },
         {
           "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
@@ -136,11 +138,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 14时51分]"
         },
         {
           "title": "小作坊拆1辆新能源车赚1万",
