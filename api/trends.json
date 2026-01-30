@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:16:22.433081+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-01-30T13:47:27.309056+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,18 @@
           "time_info": "05时27分"
         },
         {
+          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1999568077138973825",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时47分]"
+        },
+        {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3046680",
           "source": "华尔街见闻-快讯",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1999568077138973825",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -107,7 +108,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -126,8 +127,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时47分]"
+        },
+        {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时16分]"
+          "time_info": "[12时16分 ~ 13时47分]"
         },
         {
           "title": "小作坊拆1辆新能源车赚1万",
@@ -139,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         }
       ]
     }
