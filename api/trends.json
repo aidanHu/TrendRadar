@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T19:29:12.345948+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-01-30T20:56:27.409045+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时16分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时16分 ~ 20时56分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -100,7 +101,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -133,7 +134,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -164,11 +165,26 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时16分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时16分 ~ 20时56分]"
+        },
+        {
+          "title": "两部门：新能源装机占比高、可靠容量需求大的地区 应加快建立可靠容量补偿机制",
+          "url": "https://www.cls.cn/detail/2275613",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 20时56分]"
         },
         {
           "title": "女子买新能源车频繁充电还卡在高速",
@@ -183,19 +199,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 15时41分]"
-        },
-        {
-          "title": "两部门：新能源装机占比高、可靠容量需求大的地区 应加快建立可靠容量补偿机制",
-          "url": "https://www.cls.cn/detail/2275613",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "小作坊拆1辆新能源车赚1万",
