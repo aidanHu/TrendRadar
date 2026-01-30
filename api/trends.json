@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:51:05.720911+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-01-30T15:41:22.096183+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -46,17 +46,6 @@
           "time_info": "05时27分"
         },
         {
-          "title": "高级监管官员：美国加州空气监管机构正与底特律汽车制造商会面，商讨该州零排放汽车计划的下一阶段。",
-          "url": "https://flash.jin10.com/detail/20260130043530950800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
           "url": "https://www.zhihu.com/question/1999568077138973825",
           "source": "知乎",
@@ -66,8 +55,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时41分]"
+        },
+        {
+          "title": "高级监管官员：美国加州空气监管机构正与底特律汽车制造商会面，商讨该州零排放汽车计划的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260130043530950800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
@@ -126,11 +126,12 @@
           "ranks": [
             12,
             13,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 15时41分]"
         },
         {
           "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
@@ -139,11 +140,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时41分]"
         },
         {
           "title": "小作坊拆1辆新能源车赚1万",
