@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:40:05.659553+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-01-31T15:29:55.929360+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时29分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -46,11 +47,12 @@
             7,
             14,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 14时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 15时29分]"
         }
       ]
     },
@@ -63,11 +65,12 @@
           "url": "https://www.zhihu.com/question/661397938",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 15时29分]"
         }
       ]
     }
