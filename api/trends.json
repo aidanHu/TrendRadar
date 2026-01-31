@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T17:29:13.507654+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-31T18:25:22.688190+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
@@ -82,11 +83,12 @@
             19,
             17,
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 18时25分]"
         }
       ]
     }
