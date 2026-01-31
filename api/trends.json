@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-01T03:21:05.764903+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-01T04:26:32.397865+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3047716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
     {
       "keyword_group": "油车",
       "match_count": 1,
@@ -14,11 +31,12 @@
           "ranks": [
             11,
             17,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 03时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时26分]"
         }
       ]
     }
