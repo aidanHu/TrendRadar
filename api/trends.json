@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:25:12.995872+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-02-02T07:25:30.846476+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -39,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
