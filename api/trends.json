@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T00:41:03.106950+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:38:30.960391+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时38分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时38分]"
         }
       ]
     }
