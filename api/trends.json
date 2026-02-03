@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T14:52:51.408541+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-02-03T15:43:47.858400+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 15时43分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
