@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:37:31.301493+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-02-03T17:41:45.639447+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 17时41分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
@@ -77,7 +77,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -99,7 +99,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
