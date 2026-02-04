@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T00:48:45.134154+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:46:12.403432+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时46分]"
         },
         {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
