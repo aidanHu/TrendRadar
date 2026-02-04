@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T07:28:43.595918+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-02-04T10:02:32.922369+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
         {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3049320",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "零跑汽车员工吐槽年会 董事长回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
