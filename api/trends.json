@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T16:42:06.620210+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-02-04T17:43:53.757411+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中央一号文件“点名”新能源汽车",
@@ -25,11 +25,12 @@
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 17时43分]"
         },
         {
           "title": "零跑汽车员工吐槽年会 董事长回应",
@@ -50,7 +51,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。（日经新闻)",
+          "url": "https://wallstreetcn.com/livenews/3049758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "道达尔能源：道达尔能源与Tikehau资本共同打造电动汽车充电基础设施合资投资平台。合资企业旨在在比利时和荷兰的城市提供电动汽车充电服务。该平台由两家合作伙伴平等拥有。",
@@ -108,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
+          "url": "https://flash.jin10.com/detail/20260204170430484800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）全球汽车制造商市值变化",
@@ -160,7 +183,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
@@ -168,7 +191,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克100指数跌幅扩大至2%，标普跌1.22%，道指跌0.82%，纳指跌1.94%，半导体指数跌3.18%。 纳斯达克金龙中国指数跌超2%，万得中概科技龙头指数跌3.55%。热门中概股大全新能源跌逾8%，哔哩哔哩、文远知行跌逾5%，金山云、阿里巴巴、爱奇艺跌逾4%。",
@@ -193,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "乘联分会：1月全国乘用车厂商新能源批发预估90万辆 同比增长1%",
+          "url": "https://wallstreetcn.com/livenews/3049733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
