@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T06:29:12.203770+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-02-05T07:28:36.049129+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 07时28分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
