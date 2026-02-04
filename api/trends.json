@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T02:52:29.961659+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-02-05T03:39:02.892768+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -16,19 +16,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 02时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 03时39分]"
         },
         {
-          "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
-          "url": "https://wallstreetcn.com/livenews/3050061",
+          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3050079",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
+          "url": "https://wallstreetcn.com/livenews/3050061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时39分]"
         },
         {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
