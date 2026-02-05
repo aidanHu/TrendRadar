@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T15:54:37.405584+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-02-05T16:43:06.047424+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -27,11 +27,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时43分]"
         },
         {
           "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
@@ -51,9 +52,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260205162108324800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "港股新能源汽车股震荡走高，蔚来、小米集团双双涨超3%。",
@@ -62,7 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -149,6 +161,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "沃尔沃汽车首席执行官：美国关税在第四季度带来了相当大的影响。",
+          "url": "https://flash.jin10.com/detail/20260205155911525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
           "url": "https://flash.jin10.com/detail/20260205140850218800",
           "source": "金十数据",
@@ -185,8 +208,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 16时43分]"
         }
       ]
     }
