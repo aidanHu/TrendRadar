@@ -1,388 +1,51 @@
 {
-  "generated_at": "2026-02-05T23:41:45.383318+08:00",
-  "total_titles_processed": 2069,
+  "generated_at": "2026-02-06T00:51:21.298068+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 31,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
-          "url": "https://www.zhihu.com/question/2002346311593264005",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 07时28分]"
-        },
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
           "source": "百度热搜",
           "ranks": [
-            29,
-            24,
-            1,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时40分 ~ 23时41分]"
-        },
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.toutiao.com/trending/7603022074356957235/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时59分 ~ 16时43分]"
-        },
-        {
-          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
-          "url": "https://flash.jin10.com/detail/20260205223029069800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "据知情人士透露，斯泰兰蒂斯集团Stellantis NV因一个电池制造商生产困境而面临Peugeot电动汽车被推迟（下线/交付）。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3050079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "沃尔沃汽车跌幅扩大至25%，自2025年10月以来的最低水平。",
-          "url": "https://wallstreetcn.com/livenews/3050622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "恒生科技指数涨超1%，此前一度跌超1.8%，消费、新能源汽车等板块涨幅居前，小米集团、联想集团均涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3050449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "乘联分会崔东树：2025年中国占世界汽车份额35.6%",
-          "url": "https://wallstreetcn.com/livenews/3050677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
-          "url": "https://wallstreetcn.com/livenews/3050579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
-          "url": "https://flash.jin10.com/detail/20260205162108324800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
-          "title": "港股新能源汽车股震荡走高，蔚来、小米集团双双涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3050447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
-          "url": "https://wallstreetcn.com/livenews/3050061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时34分]"
-        },
-        {
-          "title": "全美汽车工人联合会（UAW）：UAW与大众就首份合同达成初步协议。",
-          "url": "https://flash.jin10.com/detail/20260205121310721800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时56分]"
-        },
-        {
-          "title": "乐道汽车全国换电站电池翻倍计划完成",
-          "url": "https://wallstreetcn.com/livenews/3050544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时41分]"
-        },
-        {
-          "title": "长安汽车1月销量腰斩",
-          "url": "https://www.toutiao.com/trending/7602133481405972531/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
-          "title": "沃尔沃汽车股价跌至自2025年10月以来的最低水平，跌幅达25%。",
-          "url": "https://flash.jin10.com/detail/20260205191858117800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前涨幅扩大至10%，公司预计2025年第四季度经调整经营利润为7亿元-12亿元。",
-          "url": "https://flash.jin10.com/detail/20260205181243228800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "弃用硬性电动令改推燃油新标 卡尼出招缓解加美汽车贸易僵局",
-          "url": "https://flash.jin10.com/detail/20260205094833475800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "据CNN：美国参议员沃伦启动对汽车贷款行业的调查。",
-          "url": "https://flash.jin10.com/detail/20260205190633147800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)盘前拉升，现涨5%。",
-          "url": "https://flash.jin10.com/detail/20260205180243355800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "加拿大取消电动汽车销售强制规定，推出更严格的尾气排放标准，更严格的汽车排放标准将使电动汽车销量（占比）在2035年前达到75%。",
-          "url": "https://flash.jin10.com/detail/20260205230751001800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "沃尔沃汽车第四季度营收943.8亿瑞典克朗，市场预期1,018.3亿瑞典克朗。 第四季度营业利润18.9亿瑞典克朗，市场预期46亿瑞典克朗。 第四季度每股收益0.43瑞典克朗，市场预期1.24瑞典克朗。 第四季度销量195,700辆，市场预期196,850辆。 第四季度纯电动汽车（BEV）销量46,700辆。",
-          "url": "https://wallstreetcn.com/livenews/3050397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "加拿大将重新推出电动汽车购车补贴。",
-          "url": "https://flash.jin10.com/detail/20260205230711224800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
           "url": "https://www.zhihu.com/question/2000151959752168666",
           "source": "知乎",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "加拿大将继续对美国制造的轿车和卡车实施反关税，加拿大将拨款30亿加元帮助汽车产业多样化。",
-          "url": "https://flash.jin10.com/detail/20260205230701342800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "沃尔沃汽车首席执行官：美国关税在第四季度带来了相当大的影响。",
-          "url": "https://flash.jin10.com/detail/20260205155911525800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "塔塔汽车第三季度亏损349亿卢比，而去年同期盈利541亿卢比。",
-          "url": "https://flash.jin10.com/detail/20260205183004588800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
-          "url": "https://flash.jin10.com/detail/20260205140850218800",
+          "title": "据华尔街日报：大众汽车公司与美国汽车工人联合会达成协议，将为田纳西州工厂的工人加薪20%。",
+          "url": "https://flash.jin10.com/detail/20260206000516660800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "张艺兴汽车警铃舞",
-          "url": "https://www.douyin.com/hot/2389726",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "新能源车侧滑起火 路人砸窗救3人",
-          "url": "https://www.toutiao.com/trending/7602805701480628262/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            14,
-            21,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 19时36分]"
-        },
         {
           "title": "你如何看新能源车起火路人砸窗救3人",
           "url": "https://www.toutiao.com/trending/7603266942372544518/",
@@ -392,7 +55,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时43分 ~ 23时41分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
