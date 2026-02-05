@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:41:07.605578+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-02-05T19:36:06.141061+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -46,6 +46,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "沃尔沃汽车跌幅扩大至25%，自2025年10月以来的最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3050622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "恒生科技指数涨超1%，此前一度跌超1.8%，消费、新能源汽车等板块涨幅居前，小米集团、联想集团均涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3050449",
           "source": "华尔街见闻-快讯",
@@ -63,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -127,6 +138,18 @@
           "time_info": "[17时44分 ~ 18时41分]"
         },
         {
+          "title": "中国汽车将不再使用隐藏式车门把手",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 19时36分]"
+        },
+        {
           "title": "长安汽车1月销量腰斩",
           "url": "https://www.toutiao.com/trending/7602133481405972531/",
           "source": "今日头条",
@@ -151,15 +174,15 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
-          "title": "中国汽车将不再使用隐藏式车门把手",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
-          "source": "百度热搜",
+          "title": "沃尔沃汽车股价跌至自2025年10月以来的最低水平，跌幅达25%。",
+          "url": "https://flash.jin10.com/detail/20260205191858117800",
+          "source": "金十数据",
           "ranks": [
-            29
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "蔚来汽车(NIO.N)盘前涨幅扩大至10%，公司预计2025年第四季度经调整经营利润为7亿元-12亿元。",
@@ -168,7 +191,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -184,13 +207,24 @@
           "time_info": "10时03分"
         },
         {
+          "title": "据CNN：美国参议员沃伦启动对汽车贷款行业的调查。",
+          "url": "https://flash.jin10.com/detail/20260205190633147800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "蔚来汽车(NIO.N)盘前拉升，现涨5%。",
           "url": "https://flash.jin10.com/detail/20260205180243355800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -228,6 +262,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "塔塔汽车第三季度亏损349亿卢比，而去年同期盈利541亿卢比。",
+          "url": "https://flash.jin10.com/detail/20260205183004588800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "沃尔沃汽车：2026年汽车行业将充满挑战，整体高端市场预计萎缩。",
           "url": "https://flash.jin10.com/detail/20260205140850218800",
           "source": "金十数据",
@@ -263,11 +308,12 @@
             30,
             14,
             21,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 18时41分]"
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 19时36分]"
         }
       ]
     }
