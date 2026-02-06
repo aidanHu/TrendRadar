@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T03:38:24.702780+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-02-07T04:34:59.842241+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时34分]"
         },
         {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
@@ -28,8 +29,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时34分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
