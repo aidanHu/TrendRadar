@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T14:55:39.531311+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-06T15:47:30.253020+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 15时47分]"
         },
         {
           "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
@@ -154,6 +154,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "德国工业产出意外大幅跳水 汽车与机械制造拖累大盘",
+          "url": "https://flash.jin10.com/detail/20260206151650624800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "据华尔街日报：大众汽车公司与美国汽车工人联合会达成协议，将为田纳西州工厂的工人加薪20%。",
           "url": "https://flash.jin10.com/detail/20260206000516660800",
           "source": "金十数据",
@@ -201,8 +212,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 15时47分]"
         }
       ]
     }
