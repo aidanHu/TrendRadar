@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:41:58.317229+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-02-06T17:43:10.825240+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时50分 ~ 10时03分]"
         },
         {
+          "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2003018992265164291",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 17时43分]"
+        },
+        {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
           "url": "https://www.zhihu.com/question/2000151959752168666",
           "source": "知乎",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时23分]"
-        },
-        {
-          "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2003018992265164291",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 16时41分]"
         },
         {
           "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
@@ -171,7 +171,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -221,11 +221,12 @@
             13,
             11,
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 17时43分]"
         }
       ]
     }
