@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:25:06.409558+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-07T07:26:41.920799+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -20,19 +20,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时26分]"
         },
         {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时26分]"
         },
         {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
@@ -40,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时26分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
