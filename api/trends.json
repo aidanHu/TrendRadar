@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T09:59:07.602632+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-02-07T12:13:03.723490+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
@@ -36,6 +36,17 @@
           "time_info": "[00时44分 ~ 07时26分]"
         },
         {
+          "title": "汽车飞机二合一！国内首款首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
           "url": "https://wallstreetcn.com/livenews/3051616",
           "source": "华尔街见闻-快讯",
@@ -47,6 +58,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时26分]"
+        },
+        {
+          "title": "狗狗挨揍后拉三轮车去撞自家汽车",
+          "url": "https://www.toutiao.com/trending/7603631721698967595/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 12时13分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
