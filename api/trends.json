@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T14:42:01.996945+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-02-07T15:32:36.720161+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,17 @@
           "time_info": "[00时44分 ~ 07时26分]"
         },
         {
+          "title": "汽车飞机二合一！国内首款首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 15时32分]"
+        },
+        {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
@@ -34,17 +45,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时44分 ~ 07时26分]"
-        },
-        {
-          "title": "汽车飞机二合一！国内首款首飞成功",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 14时42分]"
         },
         {
           "title": "狗狗挨揍后拉三轮车去撞自家汽车",
@@ -76,11 +76,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%8B%97%E7%8B%97%E6%8C%A8%E6%8F%8D%E5%90%8E%E6%8B%89%E4%B8%89%E8%BD%AE%E8%BD%A6%E5%8E%BB%E6%92%9E%E8%87%AA%E5%AE%B6%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 15时32分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
