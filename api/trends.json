@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T01:27:08.359668+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-09T02:37:13.598337+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     },
@@ -30,11 +30,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32561385",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     }
