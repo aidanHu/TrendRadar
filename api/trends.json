@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:39:02.943896+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-02-08T16:33:58.699351+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 16时33分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -94,11 +95,12 @@
           "ranks": [
             5,
             18,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 16时33分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -127,11 +129,12 @@
             9,
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 16时33分]"
         },
         {
           "title": "福建：支持宁德建设新能源新材料产业核心区",
@@ -141,11 +144,12 @@
             6,
             15,
             19,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 16时33分]"
         },
         {
           "title": "福建：巩固提升制造业支柱产业 培育光电信息、集成电路、新能源等战略性新兴产业集群",
@@ -155,11 +159,12 @@
             8,
             17,
             21,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 16时33分]"
         }
       ]
     }
