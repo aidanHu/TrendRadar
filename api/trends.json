@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T13:04:08.435006+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-02-08T14:51:19.289426+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时51分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -67,22 +67,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时04分]"
-        },
-        {
-          "title": "全球第四大汽车巨头爆雷",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时51分]"
         },
         {
           "title": "全球第四大汽车巨头突然爆雷",
@@ -93,8 +83,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时51分]"
+        },
+        {
+          "title": "全球第四大汽车巨头爆雷",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时04分]"
+          "time_info": "[13时03分 ~ 14时51分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -121,11 +123,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 14时51分]"
         },
         {
           "title": "福建：支持宁德建设新能源新材料产业核心区",
@@ -133,11 +136,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时51分]"
         },
         {
           "title": "福建：巩固提升制造业支柱产业 培育光电信息、集成电路、新能源等战略性新兴产业集群",
@@ -145,11 +149,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 13时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 14时51分]"
         }
       ]
     }
