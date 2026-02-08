@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:51:19.289426+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-02-08T15:39:02.943896+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时39分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -51,6 +51,32 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
+          "title": "全球第四大汽车巨头突然爆雷",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 15时39分]"
+        },
+        {
+          "title": "全球第四大汽车巨头半年亏1500亿元",
+          "url": "https://www.toutiao.com/trending/7604010892535611446/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 15时39分]"
+        },
+        {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
           "url": "https://flash.jin10.com/detail/20260207180410135800",
           "source": "金十数据",
@@ -62,41 +88,17 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
-          "title": "全球第四大汽车巨头半年亏1500亿元",
-          "url": "https://www.toutiao.com/trending/7604010892535611446/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时51分]"
-        },
-        {
-          "title": "全球第四大汽车巨头突然爆雷",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时51分]"
-        },
-        {
           "title": "全球第四大汽车巨头爆雷",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 15时39分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -124,11 +126,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 15时39分]"
         },
         {
           "title": "福建：支持宁德建设新能源新材料产业核心区",
@@ -137,11 +140,12 @@
           "ranks": [
             6,
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 15时39分]"
         },
         {
           "title": "福建：巩固提升制造业支柱产业 培育光电信息、集成电路、新能源等战略性新兴产业集群",
@@ -150,11 +154,12 @@
           "ranks": [
             8,
             17,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 15时39分]"
         }
       ]
     }
