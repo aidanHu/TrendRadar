@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:33:58.699351+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-02-08T17:31:36.594435+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 17时31分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -71,11 +71,12 @@
             1,
             5,
             19,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 15时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 17时31分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -133,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 17时31分]"
         },
         {
           "title": "福建：支持宁德建设新能源新材料产业核心区",
