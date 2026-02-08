@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:28:15.812110+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-02-08T23:27:33.957706+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,18 @@
           "time_info": "[00时31分 ~ 07时31分]"
         },
         {
+          "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
+          "url": "https://www.zhihu.com/question/2003762044663460567",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时27分]"
+        },
+        {
           "title": "全球第四大汽车巨头爆雷",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%88%86%E9%9B%B7%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时03分 ~ 16时33分]"
-        },
-        {
-          "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
-          "url": "https://www.zhihu.com/question/2003762044663460567",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 22时28分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
