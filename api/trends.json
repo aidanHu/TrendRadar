@@ -1,191 +1,22 @@
 {
-  "generated_at": "2026-02-09T23:57:05.412985+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-02-10T01:57:44.715111+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
-          "url": "https://www.zhihu.com/question/2003762044663460567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时10分]"
-        },
         {
           "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
           "url": "https://www.cls.cn/detail/2284923",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时52分 ~ 23时57分]"
-        },
-        {
-          "title": "商务部召开汽车企业座谈会：优化实施汽车以旧换新，开展汽车流通消费改革试点，完善行业管理制度",
-          "url": "https://wallstreetcn.com/livenews/3052295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "全球第四大汽车巨头半年亏1500亿元",
-          "url": "https://www.toutiao.com/trending/7604010892535611446/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            6,
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时32分]"
-        },
-        {
-          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十七批），小米SU7、比亚迪方程豹钛3等多款车型在列。",
-          "url": "https://wallstreetcn.com/livenews/3052204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 18时07分]"
-        },
-        {
-          "title": "浙江极氪智能科技有限公司召回部分极氪001WE版汽车",
-          "url": "https://wallstreetcn.com/livenews/3052285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "上海蔚来汽车有限公司召回部分ES8、ES6、EC6纯电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3052284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美国企业对特定汽车零部件、组件及下游车辆提起337调查申请",
-          "url": "https://wallstreetcn.com/livenews/3052045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "金十图示：2026年02月09日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260209110556869800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "宁德时代、长安汽车、深蓝汽车合资公司在重庆成立新动力电池公司",
-          "url": "https://wallstreetcn.com/livenews/3052219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "小鹏汽车成首家加入荷兰BOVAG的中国车企",
-          "url": "https://wallstreetcn.com/livenews/3052316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "本田中国1月汽车销量为57,489辆，同比下降16.5%。",
-          "url": "https://wallstreetcn.com/livenews/3052027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "经济日报问答：春节开新能源车出行有保障吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561385",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
-          "title": "2026 年 1 月份广汽本田销量再次暴跌 70% 至 4558 辆，未受到新能源车购置税提振，如何看待这一结果？",
-          "url": "https://www.zhihu.com/question/2002317088476382247",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "瑞风新能源：拟投资约人民币240亿元建设宣化人工智能算力中心项目",
-          "url": "https://wallstreetcn.com/livenews/3052308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "01时57分"
         }
       ]
     }
