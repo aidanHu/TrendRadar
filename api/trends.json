@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:01:42.300342+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-02-11T16:01:18.914848+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "time_info": "[06时40分 ~ 07时38分]"
         },
         {
+          "title": "雷军：小米汽车工厂有六七百台机器人",
+          "url": "https://www.toutiao.com/trending/7605427131748765210/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时01分]"
+        },
+        {
           "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
           "url": "https://flash.jin10.com/detail/20260211030806295800",
           "source": "金十数据",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 10时23分]"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人",
-          "url": "https://www.toutiao.com/trending/7605427131748765210/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "福特汽车全球销量首次落后于比亚迪",
@@ -152,7 +153,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
