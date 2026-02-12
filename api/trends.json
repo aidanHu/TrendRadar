@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T06:33:40.655270+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-02-13T07:30:44.150628+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时33分]"
-        },
-        {
-          "title": "宝马将在全球召回数十万辆汽车",
-          "url": "https://www.cls.cn/detail/2288479",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时30分]"
         },
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
@@ -39,6 +26,19 @@
             14,
             15,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时30分]"
+        },
+        {
+          "title": "宝马将在全球召回数十万辆汽车",
+          "url": "https://www.cls.cn/detail/2288479",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
