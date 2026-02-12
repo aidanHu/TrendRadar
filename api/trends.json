@@ -1,274 +1,55 @@
 {
-  "generated_at": "2026-02-12T23:53:55.264062+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-02-13T00:59:13.810933+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "比亚迪和吉利竞购日产-奔驰墨西哥汽车工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "小米汽车：第一代SU7停产后仍会提供全部维修及保养服务，备件保障能力在10年以上",
-          "url": "https://wallstreetcn.com/livenews/3054575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 23时53分]"
-        },
-        {
-          "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
-          "url": "https://flash.jin10.com/detail/20260212071937799800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "市场消息：比亚迪、吉利竞购日产-奔驰墨西哥汽车工厂。",
-          "url": "https://flash.jin10.com/detail/20260212191734325800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
           "source": "澎湃新闻",
           "ranks": [
-            10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 23时53分]"
-        },
-        {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 23时53分]"
-        },
-        {
-          "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
-          "url": "https://wallstreetcn.com/livenews/3054433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时40分]"
+          "time_info": "[00时58分 ~ 00时59分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
           "url": "https://www.cls.cn/detail/2288479",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时53分]"
+          "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "梅赛德斯-奔驰首席财务官：汽车销量在第一季度可能降至全年最低水平，随后年内将逐步回升。",
-          "url": "https://flash.jin10.com/detail/20260212153102658800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
-          "url": "https://wallstreetcn.com/livenews/3054473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
-          "url": "https://flash.jin10.com/detail/20260212115333742800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
-          "url": "https://wallstreetcn.com/livenews/3054360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3053953",
-          "source": "华尔街见闻-快讯",
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "工信部公开征求《智能网联汽车 自动驾驶系统安全要求》等五项强制性国家标准的意见。",
-          "url": "https://wallstreetcn.com/livenews/3054465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "梅赛德斯-奔驰首席财务官：2025年标志着汽车投资的峰值。",
-          "url": "https://flash.jin10.com/detail/20260212151826674800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
-          "url": "https://wallstreetcn.com/livenews/3053880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "日产CEO：（当被问及日产是否会考虑让其他汽车制造商在其工厂生产汽车时）如果能实现双赢，愿意与合作伙伴展开讨论。",
-          "url": "https://flash.jin10.com/detail/20260212174631959800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
-          "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
-          "url": "https://flash.jin10.com/detail/20260212005207795800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "“+”辆汽车回老家成为出行新选择",
-          "url": "https://www.toutiao.com/trending/7605717764578181174/",
-          "source": "今日头条",
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "规范促销与定价等 《汽车行业价格行为合规指南》发布",
-          "url": "https://wallstreetcn.com/livenews/3054154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3054335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "长城汽车表示，全力支持《汽车行业价格行为合规指南》，始终坚持长期主义，坚守合法合规，坚持诚信经营，积极维护国内市场秩序。",
-          "url": "https://wallstreetcn.com/livenews/3054493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 00时59分]"
         }
       ]
     }
