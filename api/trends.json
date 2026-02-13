@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T12:54:07.348492+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-02-13T14:00:40.127609+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -104,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
+          "url": "https://flash.jin10.com/detail/20260213132930608800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         }
       ]
     }
