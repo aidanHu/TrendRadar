@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-14T02:51:22.756274+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-02-14T03:42:51.673736+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
+          "url": "https://flash.jin10.com/detail/20260214025058678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
         {
           "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
           "url": "https://flash.jin10.com/detail/20260213225251710800",
