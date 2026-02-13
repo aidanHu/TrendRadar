@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:42:51.673736+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-14T04:39:25.223796+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260214025058678800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时39分]"
         },
         {
           "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
