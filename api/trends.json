@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T18:27:10.948225+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-02-14T19:23:21.795236+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "北京奔驰汽车有限公司召回部分国产EQA和EQB汽车",
@@ -90,11 +90,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "跨界投入 腾笼换鸟 汽车企业加速布局机器人赛道",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "汽车突然加速超车撞上电动车",
+          "url": "https://www.toutiao.com/trending/7605299452131639337/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "阿里巴巴(BABA.N)、蔚来汽车(NIO.N)、百度(BIDU.O)股价有所回升，日内跌幅收窄。",
@@ -122,7 +134,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "落地租车火了，新能源车型租车预订量暴增600%",
@@ -152,6 +164,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时44分 ~ 16时33分]"
+        },
+        {
+          "title": "物业经理自制新能源灭火神器",
+          "url": "https://www.toutiao.com/trending/7606173966949089330/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     }
