@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T03:25:57.892142+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-16T04:28:07.500319+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -27,11 +27,12 @@
           "ranks": [
             6,
             12,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -41,8 +42,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
