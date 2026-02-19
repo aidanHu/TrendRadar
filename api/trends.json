@@ -1,75 +1,7 @@
 {
-  "generated_at": "2026-02-19T23:49:12.824908+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2026-02-20T00:53:53.699389+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
-          "url": "https://wallstreetcn.com/articles/3765831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 10时08分]"
-        },
-        {
-          "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
-          "url": "https://wallstreetcn.com/livenews/3056407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 02时55分]"
-        },
-        {
-          "title": "春节假期前3天新能源汽车充电需求旺盛，高速公路充电基础设施运行平稳",
-          "url": "https://wallstreetcn.com/livenews/3056561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时12分]"
-        },
-        {
-          "title": "得益于对环保型汽车的强劲需求 韩国1月汽车出口量增长逾20%",
-          "url": "https://flash.jin10.com/detail/20260219131617700800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "周三（2月18日），彭博电动汽车价格回报指数涨0.92%，报3639.09点，亚太盘初以来持续走高。 成分股Aurora Innovation涨5.8%，Panasonic株式会社收涨5.38%，意法半导体法国巴黎股价收涨3.84%，优美科欧股收涨3.67%，MobilEye则跌约1.7%，巴拉德动力系统股份跌2%，文远知行跌4.1%。",
-          "url": "https://wallstreetcn.com/livenews/3056472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
