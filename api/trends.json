@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-02-20T22:03:51.873497+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-02-20T23:38:17.452003+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时38分]"
+        },
+        {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时38分]"
+        },
         {
           "title": "一载有8人汽车在贝加尔湖沉没",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BD%BD%E6%9C%898%E4%BA%BA%E6%B1%BD%E8%BD%A6%E5%9C%A8%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B2%89%E6%B2%A1%23&t=31&band_rank=5&Refer=top",
@@ -20,27 +43,16 @@
           "time_info": "[19时32分 ~ 20时59分]"
         },
         {
-          "title": "春节新能源汽车高速充电大增",
-          "url": "https://www.douyin.com/hot/2407147",
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
           "source": "抖音",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时03分]"
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时38分]"
         },
         {
           "title": "我使馆：一名中国游客在贝加尔湖汽车落水事故中获救",
@@ -79,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时32分]"
-        },
-        {
-          "title": "中国游客汽车在俄落水7人遇难",
-          "url": "https://www.douyin.com/hot/2407019",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时03分]"
         },
         {
           "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
@@ -132,9 +133,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "欧洲汽车股飙升，此前美国最高法院驳回了特朗普的关税政策。",
+          "url": "https://flash.jin10.com/detail/20260220230723968800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "金十图示：2026年02月20日（周五）全球汽车制造商市值变化",
