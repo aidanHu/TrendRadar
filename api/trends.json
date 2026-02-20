@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:59:01.799778+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-02-20T22:03:51.873497+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "一载有8人汽车在贝加尔湖沉没",
@@ -18,6 +18,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时32分 ~ 20时59分]"
+        },
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时03分]"
         },
         {
           "title": "我使馆：一名中国游客在贝加尔湖汽车落水事故中获救",
@@ -58,15 +81,15 @@
           "time_info": "[05时33分 ~ 06时32分]"
         },
         {
-          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
-          "source": "澎湃新闻",
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
+          "source": "抖音",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时03分]"
         },
         {
           "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
@@ -92,17 +115,6 @@
           "time_info": "[19时32分 ~ 19时33分]"
         },
         {
-          "title": "中国游客汽车在俄落水7人遇难",
-          "url": "https://www.douyin.com/hot/2407019",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
-        },
-        {
           "title": "科技汽车就选鸿蒙智行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%B1%BD%E8%BD%A6%E5%B0%B1%E9%80%89%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -112,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
+          "url": "https://www.zhihu.com/question/2008248751752438816",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "金十图示：2026年02月20日（周五）全球汽车制造商市值变化",
