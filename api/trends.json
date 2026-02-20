@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T04:32:42.351783+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-02-21T05:25:48.994705+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 04时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -37,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 05时25分]"
         },
         {
           "title": "德国汽车工业协会：美国对汽车及零部件征收15%关税，继续对德国汽车工业构成重大挑战。",
