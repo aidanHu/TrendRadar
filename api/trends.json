@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T10:04:38.407276+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-02-20T12:47:40.455518+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时32分]"
+        },
+        {
+          "title": "金十图示：2026年02月20日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260220111208070800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
