@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T07:29:18.787823+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-02-21T09:58:46.257303+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时58分]"
         },
         {
           "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 09时58分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -43,8 +43,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 09时58分]"
         },
         {
           "title": "一个汽车制造商贸易团体对美国总统特朗普挑起新关税的风险感到忧心忡忡。（华尔街日报）",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时58分]"
         },
         {
           "title": "德国汽车工业协会：美国对汽车及零部件征收15%关税，继续对德国汽车工业构成重大挑战。",
@@ -100,11 +101,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 09时58分]"
         },
         {
           "title": "美国总统特朗普谈及贸易扩张法案232条款、122条款、201条款、以及301条款，称这些都是选项，232和301关税保留。 特朗普签署命令，将实施10%的全球关税，“我认为三天后生效”。 威胁要征收15%-30%的汽车关税。 “我已经拯救了英特尔。” 标普500指数涨幅扩大至0.6%，半导体指数涨0.9%%。",
