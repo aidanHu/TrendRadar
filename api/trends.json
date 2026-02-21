@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T20:48:00.456675+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-02-21T21:42:41.598504+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,27 @@
             7,
             14,
             16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 21时42分]"
+        },
+        {
+          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
+          "url": "https://wallstreetcn.com/livenews/3057172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            14,
+            21,
             22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时48分]"
+          "time_info": "[17时30分 ~ 21时42分]"
         },
         {
           "title": "一个汽车制造商贸易团体对美国总统特朗普挑起新关税的风险感到忧心忡忡。（华尔街日报）",
@@ -76,20 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时27分 ~ 12时11分]"
-        },
-        {
-          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
-          "url": "https://wallstreetcn.com/livenews/3057172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 20时48分]"
         },
         {
           "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
