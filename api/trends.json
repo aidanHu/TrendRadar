@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T02:37:48.066074+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-02-24T03:57:05.590577+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时57分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -28,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 03时57分]"
         },
         {
           "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
