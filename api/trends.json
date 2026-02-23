@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T14:09:26.365275+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-02-23T15:55:32.386986+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2005389727063303883",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 15时55分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
