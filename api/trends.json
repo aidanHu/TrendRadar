@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T21:04:54.608963+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-02-23T23:46:06.204322+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "男子花5600元套中汽车使用权商家反悔",
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时51分 ~ 19时40分]"
+        },
+        {
+          "title": "男子5600元套中汽车使用权 商家反悔",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            26,
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 23时46分]"
         },
         {
           "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
@@ -46,17 +60,16 @@
           "time_info": "[17时56分 ~ 18时52分]"
         },
         {
-          "title": "男子5600元套中汽车使用权 商家反悔",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
+          "title": "问界汽车回应惠州车辆起火",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             25,
-            26,
-            29
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[19时40分 ~ 23时46分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -70,27 +83,37 @@
           "time_info": "[16时51分 ~ 16时52分]"
         },
         {
-          "title": "问界汽车回应惠州车辆起火",
-          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E6%83%A0%E5%B7%9E%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时04分]"
-        },
-        {
           "title": "市场消息：越南电动汽车制造商VinFast中东分公司与PlusX Electric签署谅解备忘录，以提升阿联酋电动汽车车主的用车体验。",
           "url": "https://flash.jin10.com/detail/20260223203527026800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：欧盟不应质疑这项贸易协议，而应继续大力倡导改善跨大西洋贸易的框架条件。",
+          "url": "https://flash.jin10.com/detail/20260223230220508800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：关税协议若终止，可能很快导致我方企业面临更高关税。",
+          "url": "https://flash.jin10.com/detail/20260223230159288800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）全球汽车制造商市值变化",
@@ -102,6 +125,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：从德国汽车工业的角度来看，贸易和关税政策的稳定性至关重要。",
+          "url": "https://flash.jin10.com/detail/20260223230138109800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：可能会对德国出口导向型经济产生严重后果。",
+          "url": "https://flash.jin10.com/detail/20260223230118545800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：欧洲议会暂停批准与美国贸易协定的计划，可能促使美国政府从根本上重新考虑甚至终止已达成的关税协议。",
+          "url": "https://flash.jin10.com/detail/20260223230100975800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：（就美国关税）我们期待美国与欧盟展开迅速而建设性的对话，以防止局势进一步升级，并尽快提供亟需的明确性。",
+          "url": "https://flash.jin10.com/detail/20260223225952683800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
