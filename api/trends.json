@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T17:55:32.819928+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-02-25T18:52:35.920847+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时32分]"
+        },
+        {
+          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
+          "url": "https://www.cls.cn/detail/2294647",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时52分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
@@ -51,18 +64,6 @@
           "ranks": [
             1,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时55分]"
-        },
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
