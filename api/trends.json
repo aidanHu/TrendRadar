@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T14:55:07.533662+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-02-27T15:47:27.148220+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             23,
             21,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 15时47分]"
         },
         {
           "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
