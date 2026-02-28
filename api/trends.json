@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:39:39.048530+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-02-28T15:27:58.544460+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,51 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时27分]"
+        },
+        {
+          "title": "手机集体涨价后 汽车会是下一个吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            9,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时27分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时52分 ~ 15时27分]"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            7,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时27分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
@@ -48,47 +91,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 13时34分]"
-        },
-        {
-          "title": "手机集体涨价后 汽车会是下一个吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            9,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时39分]"
-        },
-        {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时39分]"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 14时39分]"
         },
         {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
@@ -158,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
