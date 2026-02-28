@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-02-28T16:31:18.871466+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-02-28T17:27:21.017724+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 12,
       "titles": [
+        {
+          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
+          "url": "https://www.zhihu.com/question/2010648541866005278",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            5,
+            6,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时27分]"
+        },
         {
           "title": "新能源汽车开征“里程税”？多地回应",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
@@ -24,21 +40,6 @@
           "time_info": "[00时41分 ~ 09时52分]"
         },
         {
-          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
-          "url": "https://www.zhihu.com/question/2010648541866005278",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7,
-            5,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时31分]"
-        },
-        {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
           "source": "澎湃新闻",
@@ -49,8 +50,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时27分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
