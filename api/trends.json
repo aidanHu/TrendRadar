@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T13:52:38.300333+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-01T14:46:25.951377+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,19 @@
           "time_info": "10时14分"
         },
         {
+          "title": "理想汽车：2026年2月交付26,421辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3061048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时46分]"
+        },
+        {
           "title": "零跑汽车：2月交付量为28067台。",
           "url": "https://wallstreetcn.com/livenews/3061034",
           "source": "华尔街见闻-快讯",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 12时54分]"
-        },
-        {
-          "title": "理想汽车：2026年2月交付26,421辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3061048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 13时52分]"
         },
         {
           "title": "小米汽车：2月，小米汽车交付量超过20000台。 同时，我们正在为新一代SU7大规模量产做准备。",
