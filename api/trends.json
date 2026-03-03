@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:42:21.241738+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-03-03T18:39:46.986711+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时39分]"
         },
         {
           "title": "起亚株式会社2月汽车销量下降2.8％。",
