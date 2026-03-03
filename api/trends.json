@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:39:46.986711+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-03-03T19:32:55.006342+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时07分 ~ 17时42分]"
+        },
+        {
+          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时32分]"
         },
         {
           "title": "周一（3月2日），彭博电动汽车价格回报指数跌0.68%，报3698.86点。",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 17时42分]"
-        },
-        {
-          "title": "智元稚晖君谈人形机器人产业规模：手机数量乘以汽车价格的级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685523",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时39分]"
         },
         {
           "title": "起亚株式会社2月汽车销量下降2.8％。",
