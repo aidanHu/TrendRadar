@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T20:58:23.976753+08:00",
-  "total_titles_processed": 1878,
+  "generated_at": "2026-03-03T22:03:29.579054+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             14,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时03分]"
         },
         {
           "title": "周一（3月2日），彭博电动汽车价格回报指数跌0.68%，报3698.86点。",
