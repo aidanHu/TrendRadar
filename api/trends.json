@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T00:44:07.641012+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:39:47.452380+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "本田拟将中国产电动汽车卖回日本",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
+          "url": "https://flash.jin10.com/detail/20260305012308521800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         }
       ]
     }
