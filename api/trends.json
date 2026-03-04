@@ -1,78 +1,22 @@
 {
-  "generated_at": "2026-03-04T23:41:13.771190+08:00",
-  "total_titles_processed": 2201,
+  "generated_at": "2026-03-05T00:44:07.641012+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3063002",
-          "source": "华尔街见闻-快讯",
+          "title": "本田拟将中国产电动汽车卖回日本",
+          "url": "https://www.toutiao.com/trending/7612296534020882468/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            30
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时29分]"
-        },
-        {
-          "title": "全国政协委员李书福：新能源汽车行业不要内卷式竞争，需要内涵式发展",
-          "url": "https://wallstreetcn.com/livenews/3063456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
-          "title": "据第三方市场调研机构Omdia：2月份美国轻型汽车销量为120万辆，年化销量为1575万辆。",
-          "url": "https://flash.jin10.com/detail/20260304063929107800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "丰田汽车北美公司：2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
-          "url": "https://flash.jin10.com/detail/20260304003128995800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超5％，金山云跌12.44％，万物新生跌10.02％，禾赛科技跌9.70％，小鹏汽车跌8.95％，亿航跌8.59％。",
-          "url": "https://wallstreetcn.com/livenews/3062868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "福特汽车(F.N)：美国2月份汽车产量达188,197辆，美国2月电动车型总销量为14,132辆。",
-          "url": "https://flash.jin10.com/detail/20260304221746022800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "[00时43分 ~ 00时44分]"
         }
       ]
     }
