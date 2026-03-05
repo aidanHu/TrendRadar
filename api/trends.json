@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:53:41.854948+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-03-05T15:42:45.405327+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "本田拟将中国产电动汽车卖回日本",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 15时42分]"
         },
         {
           "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
@@ -54,6 +54,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "乘联分会崔东树：中东市场干扰不改中国汽车出口增长大趋势",
+          "url": "https://wallstreetcn.com/livenews/3064311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
           "url": "https://wallstreetcn.com/livenews/3064172",
           "source": "华尔街见闻-快讯",
@@ -63,6 +74,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 5 年减少 9000 座加油站？补能未来会不会反而成了油车的劣势？出现有车没地方加油的尴尬？",
+          "url": "https://www.zhihu.com/question/2010273800890110706",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     }
