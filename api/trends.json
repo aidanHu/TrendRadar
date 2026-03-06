@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-06T10:04:33.674144+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-03-06T12:42:32.821914+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪发布第二代刀片电池，宣称让充电和加油一样快，-30°C 只多 3 分钟，这会对燃油车造成冲击吗？",
+          "url": "https://www.zhihu.com/question/2012986900298871194",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
