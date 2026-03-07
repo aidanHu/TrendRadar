@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T09:56:42.612724+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-03-07T12:02:17.963990+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时44分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[02时44分 ~ 12时02分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -55,7 +55,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
