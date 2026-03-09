@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T21:03:51.184751+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-03-09T22:52:16.001368+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "武汉女子用159元发票抽中一辆汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
