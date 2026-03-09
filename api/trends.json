@@ -1,87 +1,22 @@
 {
-  "generated_at": "2026-03-09T23:59:05.070150+08:00",
-  "total_titles_processed": 1871,
+  "generated_at": "2026-03-10T01:02:27.639256+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2012820068103378470",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
-        },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时51分 ~ 23时59分]"
-        },
-        {
-          "title": "伊朗首都等地临时就汽车加油设限",
-          "url": "https://wallstreetcn.com/livenews/3065864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时24分]"
-        },
-        {
-          "title": "法国汽车股下跌1.9%至5.2%。",
-          "url": "https://flash.jin10.com/detail/20260309161909095800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子称新买的新能源车续航严重虚标",
-          "url": "https://www.toutiao.com/trending/7613960210978242614/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 15时09分]"
-        },
-        {
-          "title": "思格新能源（上海）股份有限公司递表港交所",
-          "url": "https://wallstreetcn.com/livenews/3066595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时59分"
+          "time_info": "01时02分"
         }
       ]
     }
