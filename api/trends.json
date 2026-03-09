@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T10:07:25.737375+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-03-09T12:51:51.131759+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "女子称新买的新能源车续航严重虚标",
+          "url": "https://www.toutiao.com/trending/7613960210978242614/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     }
