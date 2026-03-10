@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T14:51:57.608553+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-10T15:41:31.341733+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -23,27 +23,40 @@
           "time_info": "[01时02分 ~ 07时29分]"
         },
         {
+          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
+          "url": "https://www.cls.cn/detail/2308117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时41分]"
+        },
+        {
           "title": "大众汽车预计2026年营收0%至3%增长",
           "url": "https://wallstreetcn.com/livenews/3067072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
         {
-          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
-          "url": "https://www.cls.cn/detail/2308117",
-          "source": "财联社热门",
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
           "ranks": [
-            12,
-            8
+            15,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时51分]"
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时41分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -64,7 +77,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -75,18 +88,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -97,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -108,7 +110,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
