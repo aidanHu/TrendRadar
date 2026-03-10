@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T16:42:28.122511+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-10T17:44:09.971076+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
@@ -14,11 +14,25 @@
           "ranks": [
             12,
             8,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 17时44分]"
+        },
+        {
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时42分]"
+          "time_info": "[14时51分 ~ 17时44分]"
         },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
@@ -47,18 +61,6 @@
           "time_info": "14时51分"
         },
         {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时42分]"
-        },
-        {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
           "url": "https://wallstreetcn.com/livenews/3066719",
           "source": "华尔街见闻-快讯",
@@ -82,6 +84,17 @@
           "time_info": "14时51分"
         },
         {
+          "title": "大众汽车首席执行官：还需加大努力，我们的成本仍然过高。",
+          "url": "https://flash.jin10.com/detail/20260310171305818800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "大众汽车：预计到2030年将在德国裁减约50,000个职位。",
           "url": "https://flash.jin10.com/detail/20260310143959295800",
           "source": "金十数据",
@@ -93,6 +106,28 @@
           "time_info": "14时51分"
         },
         {
+          "title": "大众汽车首席执行官：德国三大工厂的生产成本已降低20%。",
+          "url": "https://flash.jin10.com/detail/20260310171258736800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "五菱汽车：预计2025年净利润约1.7亿元，同比增加约53%",
+          "url": "https://wallstreetcn.com/livenews/3067188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "大众汽车：2025财年销售收入3219亿欧元。",
           "url": "https://flash.jin10.com/detail/20260310143354633800",
           "source": "金十数据",
@@ -102,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "大众汽车首席财务官：预计今年全球客户需求将基本保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260310170728463800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "卢放称原材料价上涨或影响汽车售价",
