@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-10T15:41:31.341733+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-03-10T16:42:28.122511+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 10,
       "titles": [
+        {
+          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
+          "url": "https://www.cls.cn/detail/2308117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 16时42分]"
+        },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
@@ -21,19 +34,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时29分]"
-        },
-        {
-          "title": "超预期！前两月出口大幅提速 集成电路、汽车增速“狂飙”超60%",
-          "url": "https://www.cls.cn/detail/2308117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "大众汽车预计2026年营收0%至3%增长",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时41分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时42分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
