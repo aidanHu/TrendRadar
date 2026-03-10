@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:30:09.746139+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-03-11T06:29:28.650448+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 06时29分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -26,11 +26,12 @@
             1,
             4,
             7,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 06时29分]"
         },
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 06时29分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -53,8 +54,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 02时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时29分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -62,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时38分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 06时29分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
