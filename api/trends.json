@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T01:04:14.845033+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-03-11T02:48:02.839955+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2014397594542040051",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 02时48分]"
         },
         {
           "title": "新能源汽车涨价潮来临",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 02时48分]"
         },
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 02时48分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -46,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 02时48分]"
         }
       ]
     }
