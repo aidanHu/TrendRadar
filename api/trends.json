@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-12T00:53:54.787985+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-12T01:50:08.549412+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汽车开多久换，性价比最高？",
+          "url": "https://www.zhihu.com/question/13372816622",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.cls.cn/detail/2309752",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时50分]"
         }
       ]
     }
