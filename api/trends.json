@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T22:10:46.166773+08:00",
-  "total_titles_processed": 1981,
+  "generated_at": "2026-03-11T23:49:44.540965+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
@@ -191,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -307,11 +307,12 @@
           "ranks": [
             12,
             10,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时39分 ~ 22时10分]"
+          "appearance_count": 7,
+          "time_info": "[18时39分 ~ 23时49分]"
         },
         {
           "title": "【焦点复盘】沪指放量反弹收复10日线，新能源出海概念全天强势，“宁王”盘中一度突破400元大关",
