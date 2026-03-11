@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T07:28:24.751220+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-03-11T09:59:19.637717+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -52,11 +52,12 @@
             13,
             20,
             29,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 09时59分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
