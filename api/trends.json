@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-03-12T19:32:31.109400+08:00",
-  "total_titles_processed": 1718,
-  "failed_sources": [],
+  "generated_at": "2026-03-12T21:02:16.901508+08:00",
+  "total_titles_processed": 1835,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "汽车开多久换，性价比最高？",
@@ -47,6 +49,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时34分]"
+        },
+        {
+          "title": "追觅汽车价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E8%A7%85%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "本田汽车有限公司取消某些电动汽车车型在北美的市场推出和开发。",
@@ -91,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "美国1月份汽车及零部件出口降至2021年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260312203403862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "理想汽车(LI.O)：预计第一季度营收204亿至216亿元。",
@@ -206,7 +230,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
@@ -231,6 +255,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时54分 ~ 06时27分]"
+        },
+        {
+          "title": "新能源车家门口充电突然自燃",
+          "url": "https://www.toutiao.com/trending/7615987192988614699/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "LG新能源明年将推新型LFP电池，发力储能赛道",
@@ -272,6 +307,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "计划 26 年买一辆 18 万 -23 万的车，现在纠结是买纯电车还是油车，大家有什么好的建议吗？",
+          "url": "https://www.zhihu.com/question/2014842366922610369",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 21时02分]"
+        },
+        {
           "title": "油价四连涨 油车车主羡慕电车了吗",
           "url": "https://www.toutiao.com/trending/7616215868120256054/",
           "source": "今日头条",
@@ -281,18 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时42分 ~ 17时43分]"
-        },
-        {
-          "title": "计划 26 年买一辆 18 万 -23 万的车，现在纠结是买纯电车还是油车，大家有什么好的建议吗？",
-          "url": "https://www.zhihu.com/question/2014842366922610369",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时32分]"
         },
         {
           "title": "计划 26 年买车（价格区间 18 万 -23 万），现在纠结是买纯电车还是油车，大家有什么好的建议吗？",
