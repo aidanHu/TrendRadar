@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T18:31:57.310458+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-03-15T19:26:47.243495+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时26分]"
         },
         {
           "title": "理想汽车汤靖：MEGA电池召回完成率已超过97.5%",
@@ -39,11 +39,12 @@
             1,
             5,
             10,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时47分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 19时26分]"
         },
         {
           "title": "最新汽车召回通知发布 波及超16万辆",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "一边是排队抢油的油车长龙，一边是加速迭代的电车技术，如何看待当下汽车消费的十字路口？",
+          "url": "https://www.zhihu.com/question/2016458550067613931",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -74,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 18时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时06分 ~ 19时26分]"
         }
       ]
     }
