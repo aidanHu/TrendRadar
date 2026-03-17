@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T17:56:56.150726+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-03-17T18:55:25.423322+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             6,
             13,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时51分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 18时55分]"
         },
         {
           "title": "周一（3月16日），彭博电动汽车价格回报指数涨1.20%，报3619.21点。",
@@ -34,6 +35,19 @@
           "time_info": "04时39分"
         },
         {
+          "title": "雷军回应苏炳添代言小米汽车：他姓SU",
+          "url": "https://www.toutiao.com/trending/7617421948775858195/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时55分]"
+        },
+        {
           "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
           "url": "https://flash.jin10.com/detail/20260317061813978800",
           "source": "金十数据",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
-          "title": "雷军回应苏炳添代言小米汽车：他姓SU",
-          "url": "https://www.toutiao.com/trending/7617421948775858195/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
         },
         {
           "title": "上游成本全面传导，新能源汽车行业开启涨价模式",
