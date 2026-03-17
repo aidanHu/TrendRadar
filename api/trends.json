@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T13:59:34.433307+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-03-17T15:15:49.456910+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 15时15分]"
         },
         {
           "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
