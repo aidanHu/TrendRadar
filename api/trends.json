@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:48:00.628966+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-03-19T23:55:21.876470+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时55分]"
         },
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
