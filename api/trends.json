@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-19T21:05:31.311222+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-03-19T22:48:00.628966+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
           "url": "https://www.toutiao.com/trending/7618063303169261587/",
@@ -61,6 +72,17 @@
           "time_info": "[12时54分 ~ 13时59分]"
         },
         {
+          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2017200053643650106",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 22时48分]"
+        },
+        {
           "title": "小米汽车 舒淇",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -101,7 +123,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -148,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2017200053643650106",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "市场消息：丰田在美国召回约14.42万辆汽车。",
@@ -222,7 +233,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
