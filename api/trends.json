@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:52:47.846964+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-20T14:56:17.212023+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米汽车",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 14时56分]"
         },
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -41,7 +41,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -52,7 +52,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -63,9 +63,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "港股恒生指数午后持续下挫跌超1%，恒生科技指数跌近2.5%，小米集团(01810.HK)跌超7.5%，阿里巴巴(09988.HK)跌6.5%，中国联通(00762.HK)、小鹏汽车(09868.HK)均跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260320144129607800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "舒淇代言小米汽车 SU7谐音梗成真",
