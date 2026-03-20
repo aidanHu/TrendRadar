@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:56:17.212023+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-03-20T15:47:01.073021+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "小米汽车",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 15时47分]"
         },
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -74,7 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
+        },
+        {
+          "title": "美的集团旗下汽车部件公司增资至12亿元，增幅达500%",
+          "url": "https://flash.jin10.com/detail/20260320153742551800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "美国电动汽车公司Rivian股价回吐涨幅，现涨0.7%。",
