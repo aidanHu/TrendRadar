@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:23:49.659447+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-03-21T20:49:34.807319+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国家能源局：截至2月底全国电动汽车充电基础设施（枪）总数达到2101.万个，同比增长47.8%",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             11,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时49分]"
         },
         {
           "title": "我国电动汽车充电基础设施总数达2101.0万个",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "伊朗战争引发油价飙升，美国民众对电动汽车的兴趣激增",
+          "url": "https://flash.jin10.com/detail/20260321201742306800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "韩国大田汽车零部件制造工厂火灾目前已造成55人受伤，另有14人失联。（新华社）",
