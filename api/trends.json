@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T17:33:03.503639+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-03-22T18:28:28.528127+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7619982956676779556/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时28分]"
         },
         {
           "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
