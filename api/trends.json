@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T16:56:58.553260+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-03-23T18:04:27.437251+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -96,11 +96,12 @@
           "url": "https://www.zhihu.com/question/654140946",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 18时04分]"
         },
         {
           "title": "A股绿电概念股上扬，立新能源直线涨停，华电辽能此前涨停，东方新能、浙江新能、豫能控股跟涨。",
