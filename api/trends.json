@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T14:02:20.092851+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-24T15:17:00.711550+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -87,7 +87,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -137,6 +137,18 @@
           "time_info": "[00时01分 ~ 07时33分]"
         },
         {
+          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
+          "url": "https://www.cls.cn/detail/2322334",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 15时17分]"
+        },
+        {
           "title": "月内近350家上市公司获机构调研，半导体、新能源等赛道受青睐",
           "url": "https://wallstreetcn.com/livenews/3075470",
           "source": "华尔街见闻-快讯",
@@ -146,18 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
-          "url": "https://www.cls.cn/detail/2322334",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时02分]"
         },
         {
           "title": "国际原油价格大涨，油价近期波动会加速燃油车「退场」进程吗？新能源车电池技术不断迭代，燃油车优势剩多少？",
