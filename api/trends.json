@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-25T00:12:03.216124+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-25T01:56:51.616738+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
+          "url": "https://flash.jin10.com/detail/20260325010324115800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
