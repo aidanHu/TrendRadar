@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-25T03:04:06.917773+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-03-25T04:42:08.237986+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3076182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
           "url": "https://flash.jin10.com/detail/20260325010324115800",
