@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T01:59:23.953954+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-26T03:06:20.536928+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时06分]"
         },
         {
           "title": "评测造假,汽车之家遭官方整治",
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时06分]"
         }
       ]
     }
