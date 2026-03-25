@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T21:11:11.125090+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-03-25T22:59:51.608928+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             17,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时53分 ~ 21时11分]"
+          "appearance_count": 11,
+          "time_info": "[12时53分 ~ 22时59分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
