@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:52:55.556663+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-03-25T17:54:27.167633+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             12,
             11,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 16时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 17时54分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 16时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 17时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
@@ -84,7 +85,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
