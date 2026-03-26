@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-27T05:32:06.142346+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-03-27T06:31:29.906117+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
+        {
+          "title": "日本人为何对中国汽车“一无所知”",
+          "url": "https://www.toutiao.com/trending/7621480761648545798/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 06时31分]"
+        },
         {
           "title": "周四（3月26日），彭博电动汽车价格回报指数跌1.56%，报3549.40点，北京时间13:00之前大致持平，随后持续走低。",
           "url": "https://wallstreetcn.com/livenews/3077672",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时32分]"
-        },
-        {
-          "title": "日本人为何对中国汽车“一无所知”",
-          "url": "https://www.toutiao.com/trending/7621480761648545798/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
         },
         {
           "title": "20人老头乐工厂称已与小米汽车和解",
