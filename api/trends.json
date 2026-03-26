@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-27T01:02:36.853624+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-27T03:06:01.688269+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本人为何对中国汽车“一无所知”",
+          "url": "https://www.toutiao.com/trending/7621480761648545798/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 03时06分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
