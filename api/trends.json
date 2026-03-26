@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T21:57:00.185776+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-03-26T23:04:43.379994+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 23时04分]"
         },
         {
           "title": "周三（3月25日），彭博电动汽车价格回报指数涨1.67%，报3603.47点，亚太盘初以来，大部分时间高位震荡。",
