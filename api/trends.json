@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T07:35:46.935260+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-03-26T10:24:01.974278+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "老头乐起诉小米汽车",
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 10时24分]"
         },
         {
           "title": "周三（3月25日），彭博电动汽车价格回报指数涨1.67%，报3603.47点，亚太盘初以来，大部分时间高位震荡。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时40分]"
+        },
+        {
+          "title": "崔东树：2月新能源汽车出口32万辆，同比增长120%",
+          "url": "https://flash.jin10.com/detail/20260326093729478800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     }
