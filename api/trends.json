@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-27T21:07:01.322882+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-27T22:50:54.779863+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "老头乐向小米汽车致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%B4%E4%B9%90%E5%90%91%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
         {
           "title": "日本人为何对中国汽车“一无所知”",
           "url": "https://www.toutiao.com/trending/7621480761648545798/",
@@ -60,7 +71,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -132,7 +143,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         }
