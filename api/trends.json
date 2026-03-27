@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T07:33:19.659684+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-27T10:24:44.101869+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本人为何对中国汽车“一无所知”",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 04时37分]"
+        },
+        {
+          "title": "港股新消费概念股震荡上升，毛戈平(01318.HK)涨超9%，蒙牛乳业(02319.HK)涨超4%，万洲国际(00288.HK)、上美股份(02145.HK)、零跑汽车(09863.HK)涨超3%，泡泡玛特(09992.HK)、布鲁可(00325.HK)、海底捞(06862.HK)、周大福(01929.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260327094531668800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     }
