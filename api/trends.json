@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T13:57:47.133073+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-03-28T15:03:32.449490+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 15时03分]"
         },
         {
           "title": "周五（3月27日），彭博电动汽车价格回报指数涨0.89%，报3585点，本周累计上涨3.07%。",
