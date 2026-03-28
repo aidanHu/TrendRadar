@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T10:08:15.976543+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-03-28T12:53:58.999489+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "07时33分"
         },
         {
+          "title": "小鹏汽车更名小鹏集团",
+          "url": "https://www.douyin.com/hot/2445962",
+          "source": "抖音",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时53分]"
+        },
+        {
           "title": "周五（3月27日），彭博电动汽车价格回报指数涨0.89%，报3585点，本周累计上涨3.07%。",
           "url": "https://wallstreetcn.com/livenews/3078474",
           "source": "华尔街见闻-快讯",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
-        },
-        {
-          "title": "小鹏汽车更名小鹏集团",
-          "url": "https://www.douyin.com/hot/2445962",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "据知情人士透露，通用汽车按每股6.15美元对Lithium Argentina减持1500万，折扣10.5%。（彭博）",
