@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T05:31:19.592987+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-03-29T06:29:54.258609+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 06时29分]"
         },
         {
           "title": "新能源车充电涨价因用油发电？没关联",
@@ -60,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 06时29分]"
         }
       ]
     }
