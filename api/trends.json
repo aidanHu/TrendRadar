@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T18:34:31.582809+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-29T19:29:53.400886+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             2,
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时29分]"
         },
         {
           "title": "北京启动智能网联新能源汽车商业保险开发应用",
@@ -42,11 +43,12 @@
           "ranks": [
             1,
             13,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时29分]"
         },
         {
           "title": "张水华8天摘2冠：获奖一辆汽车",
@@ -135,6 +137,20 @@
           "time_info": "[13时10分 ~ 17时37分]"
         },
         {
+          "title": "中国石油：预计2026年油气和新能源分部的资本性支出为人民币2,208亿元",
+          "url": "https://wallstreetcn.com/livenews/3078679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时29分]"
+        },
+        {
           "title": "新能源车充电涨价因用油发电？没关联",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E6%B6%A8%E4%BB%B7%E5%9B%A0%E7%94%A8%E6%B2%B9%E5%8F%91%E7%94%B5%EF%BC%9F%E6%B2%A1%E5%85%B3%E8%81%94",
           "source": "百度热搜",
@@ -159,19 +175,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时03分 ~ 18时34分]"
-        },
-        {
-          "title": "中国石油：预计2026年油气和新能源分部的资本性支出为人民币2,208亿元",
-          "url": "https://wallstreetcn.com/livenews/3078679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时34分]"
         },
         {
           "title": "红旗天工系列的新能源车，现在值得买嘛？",
