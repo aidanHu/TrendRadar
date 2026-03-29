@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T13:11:12.184694+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-03-29T15:03:52.144502+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
@@ -27,11 +27,12 @@
           "url": "https://www.toutiao.com/trending/7621786570001711114/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时03分]"
         },
         {
           "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
@@ -39,11 +40,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 15时03分]"
+        },
+        {
+          "title": "英国德比市警方28日发表声明说，该市当晚发生一起汽车冲撞行人事件，造成多人受伤，肇事司机已被逮捕。",
+          "url": "https://flash.jin10.com/detail/20260329143513576800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "崔东树：2026年1-2月中国占世界汽车份额30%",
@@ -52,7 +65,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -60,7 +73,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网传新能源车充电涨价是因为“用油发电”？专家回应",
@@ -95,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时03分]"
         },
         {
           "title": "红旗天工系列的新能源车，现在值得买嘛？",
@@ -108,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "网传新能源车充电涨价是因为“用油发电”？专家回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852286",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     }
