@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:28:22.401880+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-03-30T17:13:20.978045+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时33分 ~ 13时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "父亲，43，想要一辆¥150,000 的车，油车电车都行，他比较偏向油车，有什么建议的吗？",
+          "url": "https://www.zhihu.com/question/2021179904440448418",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     }
