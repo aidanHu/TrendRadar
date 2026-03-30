@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T21:20:09.746588+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-03-30T23:03:38.202341+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 21时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 23时03分]"
         },
         {
           "title": "港股汽车股多数走低，蔚来-SW(09866.HK)、小鹏集团(09868.HK)跌超5%，北京汽车(01958.HK)跌超3%，广汽集团(02238.HK)、理想汽车(02015.HK)跌超2%。",
