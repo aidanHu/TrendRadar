@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T23:03:38.202341+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-31T00:56:41.565405+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -8,106 +8,70 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://flash.jin10.com/detail/20260330130759464800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3078970",
+          "title": "英国称贷款机构面临的汽车贷款补偿金额降至75亿英镑",
+          "url": "https://wallstreetcn.com/livenews/3079515",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "00时56分"
         },
         {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://www.cls.cn/detail/2328703",
-          "source": "财联社热门",
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
           "ranks": [
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时20分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时19分 ~ 23时03分]"
-        },
-        {
-          "title": "港股汽车股多数走低，蔚来-SW(09866.HK)、小鹏集团(09868.HK)跌超5%，北京汽车(01958.HK)跌超3%，广汽集团(02238.HK)、理想汽车(02015.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260330095201400800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "00时56分"
         },
         {
-          "title": "丰田：2月对美汽车出口同比下降16%，至43,017辆。",
-          "url": "https://flash.jin10.com/detail/20260330125037769800",
-          "source": "金十数据",
+          "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
+          "url": "https://wallstreetcn.com/livenews/3079499",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时56分"
+        },
         {
-          "title": "新能源车充电涨价因用油发电系谣言",
-          "url": "https://www.toutiao.com/trending/7621733228176834569/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 13时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "油车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "父亲，43，想要一辆¥150,000 的车，油车电车都行，他比较偏向油车，有什么建议的吗？",
-          "url": "https://www.zhihu.com/question/2021179904440448418",
-          "source": "知乎",
+          "title": "英国金融行为监管局：得出结论认为，汽车金融补救计划对新车金融市场的影响有限。",
+          "url": "https://flash.jin10.com/detail/20260330235548462800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "00时56分"
+        },
+        {
+          "title": "英国方面表示，贷款机构面临75亿欧元的汽车贷款赔偿账单，而此前的赔偿金额为82亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260330234920036800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         }
       ]
     }
