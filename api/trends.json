@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T18:12:45.401298+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2026-03-31T19:51:04.731414+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
@@ -128,7 +128,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -150,7 +150,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -161,7 +161,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -227,7 +227,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -246,11 +246,12 @@
             9,
             10,
             17,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[10时24分 ~ 19时51分]"
         },
         {
           "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
