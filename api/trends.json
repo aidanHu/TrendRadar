@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:14:57.922014+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-03-31T17:02:04.885636+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "url": "https://www.zhihu.com/question/2021910124273426974",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 17时02分]"
         },
         {
           "title": "英国称贷款机构面临的汽车贷款补偿金额降至75亿英镑",
@@ -105,7 +106,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -116,7 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -188,11 +189,12 @@
           "ranks": [
             19,
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 17时02分]"
         },
         {
           "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
