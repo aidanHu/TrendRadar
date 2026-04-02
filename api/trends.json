@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T00:02:13.086464+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-04-03T01:50:23.447977+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时50分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
           "url": "https://www.zhihu.com/question/2023111270262465086",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时50分]"
         }
       ]
     }
