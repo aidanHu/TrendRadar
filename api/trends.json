@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T07:35:48.587989+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-04-03T10:23:07.093019+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "人民日报评汽车“销冠”易主",
@@ -31,8 +31,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时23分]"
+        },
+        {
+          "title": "人民日报评汽车“销冠”易主",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%80%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "多地限时发放汽车消费券",
@@ -41,7 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -68,6 +79,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时52分]"
+        },
+        {
+          "title": "据南华早报：零跑汽车拟设欧洲研发中心以推动全球增长，并考虑在加拿大组装。",
+          "url": "https://flash.jin10.com/detail/20260403100818818800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "滴滴出行、北京汽车研究总院合资成立桔汽科技公司",
+          "url": "https://flash.jin10.com/detail/20260403095423029800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         }
       ]
     }
