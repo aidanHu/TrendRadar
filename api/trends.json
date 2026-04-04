@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T22:34:25.282505+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-04-04T23:32:18.362902+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,25 @@
             15,
             14,
             12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时40分 ~ 23时32分]"
+        },
+        {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时40分 ~ 22时34分]"
+          "appearance_count": 6,
+          "time_info": "[20时56分 ~ 23时32分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 13时57分]"
-        },
-        {
-          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
-          "url": "https://www.zhihu.com/question/2023688646847456234",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时34分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
