@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:34:23.717282+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-04-04T19:29:45.285868+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
