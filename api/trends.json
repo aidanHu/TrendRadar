@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T13:12:33.588667+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-04-05T15:07:16.040539+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -23,19 +23,6 @@
           "time_info": "[00时36分 ~ 13时12分]"
         },
         {
-          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
           "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
           "url": "https://www.zhihu.com/question/2022807584403465039",
           "source": "知乎",
@@ -47,8 +34,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时31分 ~ 13时12分]"
+          "appearance_count": 9,
+          "time_info": "[03时31分 ~ 15时07分]"
+        },
+        {
+          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "美国一辆汽车冲撞游行队伍 已致超20人受伤",
