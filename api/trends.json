@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T05:38:40.741011+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-04-07T06:37:15.261310+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 06时37分]"
         },
         {
           "title": "周一（4月6日），彭博电动汽车价格回报指数涨0.31%，报3599.75点。",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时37分]"
         }
       ]
     }
