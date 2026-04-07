@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T15:17:39.757351+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-07T17:03:15.194829+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小米汽车卖不动了吗",
@@ -57,6 +57,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "美国油价高企 二手电动汽车销量激增",
+          "url": "https://wallstreetcn.com/livenews/3083320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "中远海特、福田汽车合资成立汽车供应链公司",
           "url": "https://flash.jin10.com/detail/20260407095658699800",
           "source": "金十数据",
@@ -74,7 +85,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
