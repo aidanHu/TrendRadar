@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:03:15.194829+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-04-07T18:55:54.857874+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米汽车卖不动了吗",
@@ -63,7 +63,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "云汉芯城：预计一季度净利润4,904.41万元–5,420.66万元，同比增长139.40%–164.60%；第一季度，人工智能算力、新能源汽车等领域需求旺盛，带动相关电子元器件需求持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3083382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "零跑汽车：意大利市场一季度上牌量达11637台",
