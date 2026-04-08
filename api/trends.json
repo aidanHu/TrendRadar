@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:12:04.615278+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-04-08T15:32:00.824969+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "领克 10 车型支持 1 秒 2 公里极速充电，这项技术有哪些亮点？将如何影响电动汽车市场？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 15时32分]"
         },
         {
           "title": "周二（4月7日），彭博电动汽车价格回报指数跌0.28%，报3589.83点。",
@@ -32,6 +33,17 @@
           "time_info": "[04时51分 ~ 05时42分]"
         },
         {
+          "title": "伊朗停火消息公布后，保时捷股份公司、梅赛德斯-奔驰集团、保时捷公司、大众汽车和宝马的股价分别上涨4.4%至6.2%。",
+          "url": "https://flash.jin10.com/detail/20260408151912162800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "据华尔街日报：福特公司请求美国总统特朗普政府提供援助，因为关税重创F-150皮卡。迄今为止，美国总统特朗普政府已回绝了福特汽车公司及其他美国汽车制造商提出的免除铝关税的请求",
           "url": "https://flash.jin10.com/detail/20260408100154398800",
           "source": "金十数据",
@@ -41,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "三位消息人士称，STELLANTIS正与零跑汽车进行深入谈判，拟联合开发欧宝品牌电动SUV。",
+          "url": "https://flash.jin10.com/detail/20260408151031675800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
