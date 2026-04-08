@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:20:32.167615+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-04-08T23:11:15.182477+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,19 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价再调整,新能源车主赢麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352965&amp;topic_name=%E6%B2%B9%E4%BB%B7%E5%86%8D%E8%B0%83%E6%95%B4%2C%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E8%B5%A2%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
         {
           "title": "思格新能源申请香港IPO。 寻求发行1360万股股票，发行价每股324.20港元。 预计股票将从4月16日开始交易。",
           "url": "https://wallstreetcn.com/livenews/3083745",
