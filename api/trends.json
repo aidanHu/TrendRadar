@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T08:02:02.044286+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-04-08T10:27:29.359738+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（4月7日），彭博电动汽车价格回报指数跌0.28%，报3589.83点。",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时42分]"
+        },
+        {
+          "title": "领克 10 车型支持 1 秒 2 公里极速充电，这项技术有哪些亮点？将如何影响电动汽车市场？",
+          "url": "https://www.zhihu.com/question/2024822923798610501",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "据华尔街日报：福特公司请求美国总统特朗普政府提供援助，因为关税重创F-150皮卡。迄今为止，美国总统特朗普政府已回绝了福特汽车公司及其他美国汽车制造商提出的免除铝关税的请求",
+          "url": "https://flash.jin10.com/detail/20260408100154398800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
