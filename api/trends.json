@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T17:08:16.205539+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-04-09T18:59:11.924685+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "起亚汽车：计划到2030年实现每年100万辆电动车销量，市场份额达到3.8%。 计划到2030年实现运营利润17万亿韩元，此前目标为18万亿韩元。 计划于2029年开始在美国乔治亚工厂部署Atlas人形机器人。 计划未来五年投资约49万亿韩元。 计划于2027年推出高速公路自动驾驶功能，2029年初实现城市环境自动驾驶。",
@@ -42,6 +42,17 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
+          "title": "江淮汽车3月销量2.91万辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A63%E6%9C%88%E9%94%80%E9%87%8F2.91%E4%B8%87%E8%BE%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
+        },
+        {
           "title": "EIA年度能源展望报告：到2050年，美国石油和其他液体燃料的总消费量将比2025年下降11%至23%，主要原因是电动汽车的使用增加。",
           "url": "https://flash.jin10.com/detail/20260409030013909800",
           "source": "金十数据",
@@ -59,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -90,7 +101,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -101,7 +112,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
