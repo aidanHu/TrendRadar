@@ -1,7 +1,26 @@
 {
-  "generated_at": "2026-04-12T00:37:45.828604+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-12T01:32:08.459900+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车：遭遇大量恶意拉踩 已报案",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
