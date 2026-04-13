@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T20:03:08.002260+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-04-13T22:49:50.150650+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "A股汽车整车板块短线拉升，福田汽车涨停，中通客车、中集车辆、安凯客车、东风股份、一汽解放等纷纷走高。",
@@ -28,12 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "西班牙首相体验中国电动汽车 手机自拍连赞“特别好”",
+          "url": "https://wallstreetcn.com/livenews/3087021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义",
@@ -43,11 +54,12 @@
             18,
             16,
             13,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 20时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 22时49分]"
         },
         {
           "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
@@ -61,6 +73,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时39分 ~ 16时04分]"
+        },
+        {
+          "title": "新能源车牌绿色变白色？交管部门回应",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2%EF%BC%9F%E4%BA%A4%E7%AE%A1%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         }
       ]
     }
