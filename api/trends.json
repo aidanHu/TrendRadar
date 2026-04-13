@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:43:36.695884+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-04-14T07:42:57.230019+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             18,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时42分]"
         },
         {
           "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时42分]"
         },
         {
           "title": "新能源车牌绿色变白色？交管部门回应",
@@ -74,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时42分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -86,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时42分]"
         }
       ]
     }
