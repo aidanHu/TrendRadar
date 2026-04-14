@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:46:19.566207+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-04-14T17:18:24.131041+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
@@ -68,15 +68,48 @@
           "time_info": "00时13分"
         },
         {
+          "title": "福特CEO反对中国汽车进入美国市场",
+          "url": "https://s.weibo.com/weibo?q=%E7%A6%8F%E7%89%B9CEO%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "中国汽车流通协会：3月汽车经销商库存系数为1.76，环比下降9.7%",
           "url": "https://flash.jin10.com/detail/20260414151358376800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "宝马集团一季度纯电动汽车销量下降20.1%；一季度欧洲纯电动汽车订单增长约40%。",
+          "url": "https://flash.jin10.com/detail/20260414170054344800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "印度汽车制造商协会：劳动力工资上涨将进一步推高成本，但涨幅将低于原材料价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260414165845258800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
@@ -118,11 +151,12 @@
           "source": "微博",
           "ranks": [
             24,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
