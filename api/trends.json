@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:42:18.370594+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-04-15T10:31:49.500662+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股燃气板块震荡下挫，美能能源触及跌停，天壕能源、深圳燃气、水发燃气、国新能源、升达林业跟跌。",
+          "url": "https://flash.jin10.com/detail/20260415100303856800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
