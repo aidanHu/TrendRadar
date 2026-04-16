@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T17:20:01.308524+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-04-16T19:18:04.496211+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             14,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 17时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 19时18分]"
         },
         {
           "title": "据华尔街日报：美国高级国防官员与包括通用汽车首席执行官和福特汽车首席执行官在内的高管进行了讨论。",
@@ -116,7 +117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -130,6 +131,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "云天化：引入当升科技投建44.93亿元新能源电池材料项目",
+          "url": "https://flash.jin10.com/detail/20260416185851670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
