@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T13:31:53.112830+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-16T15:46:42.149766+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 15时46分]"
         },
         {
           "title": "据华尔街日报：美国高级国防官员与包括通用汽车首席执行官和福特汽车首席执行官在内的高管进行了讨论。",
@@ -49,7 +49,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
