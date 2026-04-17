@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:53:36.612028+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-04-17T21:20:24.119766+08:00",
+  "total_titles_processed": 1666,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             2,
             9,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 21时20分]"
         },
         {
           "title": "国际能源署署长：如果霍尔木兹海峡无法重新开放，我们必须为能源价格大幅上涨做好准备。 （当被问及是否可能进一步释放紧急石油储备）还没有到那一步，但这一选项肯定在考虑之中。 应当为一段时期内市场的波动做好准备。 （当被问及恢复至全面产能需要多长时间时）估计总体上需要大约两年才能再次达到战前水平。 预计由于能源安全保障，来自可再生能源的产量将显著增加。 预计电动汽车的使用将比此前预期增长得更快。",
@@ -166,7 +167,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -200,26 +201,28 @@
       "titles": [
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
+          "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%B0%8F%E5%8D%A1%E6%89%A3%E8%A6%8113%E4%B8%87+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时20分]"
+        },
+        {
+          "title": "换电池小卡扣要13万 新能源车主崩溃",
           "url": "https://www.toutiao.com/trending/7629287077401935898/",
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时53分]"
-        },
-        {
-          "title": "换电池小卡扣要13万 新能源车主崩溃",
-          "url": "https://www.baidu.com/s?wd=%E6%8D%A2%E7%94%B5%E6%B1%A0%E5%B0%8F%E5%8D%A1%E6%89%A3%E8%A6%8113%E4%B8%87+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%BB%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时20分]"
         }
       ]
     }
