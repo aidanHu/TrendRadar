@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T15:47:24.138681+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-17T17:18:25.297932+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "一年狂发300+汽车成为快消品",
@@ -46,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时18分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -70,11 +71,24 @@
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E4%B8%8D%E5%81%9A10%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时18分]"
+        },
+        {
+          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
+          "url": "https://www.zhihu.com/question/2028032486530184431",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时18分]"
         },
         {
           "title": "第六届全国汽车标准化技术委员会成立大会在京召开",
@@ -83,9 +97,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "雷军回应友商“截胡”小米汽车订单",
+          "url": "https://www.toutiao.com/trending/7629364371693666340/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "工信部：推动标准协同、检测互认，更好服务我国汽车产业走出去",
@@ -94,7 +119,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -132,24 +157,13 @@
           "time_info": "10时34分"
         },
         {
-          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
-          "url": "https://www.zhihu.com/question/2028032486530184431",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
           "title": "美国国家公路交通安全管理局：福特汽车公司正在召回部分美国车辆，原因是这些车辆意外降档至二档可能导致车辆失控，增加碰撞风险。",
           "url": "https://flash.jin10.com/detail/20260417150629401800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -160,7 +174,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
