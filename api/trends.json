@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-18T10:25:26.505279+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-04-18T13:07:35.734220+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "小米公布人事任命：胡峥楠、宋钢加盟集团汽车部",
+          "url": "https://flash.jin10.com/detail/20260418123957221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
         {
           "title": "雷军：未来几年不做10万元以下汽车",
           "url": "https://www.toutiao.com/trending/7628812878518275603/",
@@ -59,7 +70,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "换电池小卡扣要13万新能源车主崩溃",
@@ -91,6 +102,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时39分]"
+        },
+        {
+          "title": "中国新能源产品成了海外抢手货",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E5%93%81%E6%88%90%E4%BA%86%E6%B5%B7%E5%A4%96%E6%8A%A2%E6%89%8B%E8%B4%A7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "换电池小卡扣要13万 新能源车主崩溃",
