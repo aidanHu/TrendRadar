@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-04-19T23:38:05.455737+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-04-20T00:40:37.779611+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩托车的等体量油耗为什么比汽车高那么多？",
-          "url": "https://www.zhihu.com/question/517066652",
-          "source": "知乎",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 15时20分]"
-        },
-        {
-          "title": "为什么电动汽车比燃油车更费轮胎？",
-          "url": "https://www.zhihu.com/question/661604242",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时02分 ~ 23时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地车主将新能源绿色车牌褪色为白色，还有博主分享攻略和教程，这种行为会带来哪些影响？要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2027152168185082308",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6,
-            4,
-            3,
-            10,
-            18,
-            16,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 22时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
