@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T19:35:52.249328+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-04-19T21:02:33.541357+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "摩托车的等体量油耗为什么比汽车高那么多？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时39分 ~ 15时20分]"
+        },
+        {
+          "title": "为什么电动汽车比燃油车更费轮胎？",
+          "url": "https://www.zhihu.com/question/661604242",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -40,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时35分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 21时02分]"
         }
       ]
     }
