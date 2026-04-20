@@ -1,22 +1,51 @@
 {
-  "generated_at": "2026-04-21T00:10:24.717244+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T01:58:26.020546+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
           "url": "https://www.zhihu.com/question/1942699724776898904",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时58分]"
+        },
+        {
+          "title": "浙北县城造出千亿汽车城",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E5%8C%97%E5%8E%BF%E5%9F%8E%E9%80%A0%E5%87%BA%E5%8D%83%E4%BA%BF%E6%B1%BD%E8%BD%A6%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
+          "url": "https://flash.jin10.com/detail/20260421013601493800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }
