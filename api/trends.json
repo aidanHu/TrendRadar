@@ -1,132 +1,22 @@
 {
-  "generated_at": "2026-04-21T23:13:26.082300+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-04-22T01:02:29.739785+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
           "url": "https://www.zhihu.com/question/2029614261630935945",
           "source": "知乎",
           "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 23时13分]"
-        },
-        {
-          "title": "极氪汽车：将在北京车展发布焕新极氪009豪华7座版本",
-          "url": "https://flash.jin10.com/detail/20260421102529220800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
-          "url": "https://www.zhihu.com/question/1942699724776898904",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 03时13分]"
-        },
-        {
-          "title": "周一（4月20日），彭博电动汽车价格回报指数跌0.24%，报4000.88点。",
-          "url": "https://wallstreetcn.com/livenews/3091317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时47分]"
-        },
-        {
-          "title": "浙北县城造出千亿汽车城",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E5%8C%97%E5%8E%BF%E5%9F%8E%E9%80%A0%E5%87%BA%E5%8D%83%E4%BA%BF%E6%B1%BD%E8%BD%A6%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "上汽高管称真智能汽车不应外挂AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B1%BD%E9%AB%98%E7%AE%A1%E7%A7%B0%E7%9C%9F%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E4%B8%8D%E5%BA%94%E5%A4%96%E6%8C%82AI%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股绿电概念盘中异动拉升，粤电力A直线涨停，乐山电力、宝新能源、浙江新能、拓日新能、立新能源冲高。",
-          "url": "https://flash.jin10.com/detail/20260421102536532800",
-          "source": "金十数据",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "绿电概念快速回暖，粤电力A直线涨停，陕西能源涨超7%，乐山电力、宝新能源、浙江新能、拓日新能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3091481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "厄瓜多尔总统：新能源部长将于4月30日接任。",
-          "url": "https://flash.jin10.com/detail/20260421013601493800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时13分]"
-        },
-        {
-          "title": "翔丰华：拟募资不超过6亿元 用于年产9.3万吨新能源电池负极材料项目",
-          "url": "https://flash.jin10.com/detail/20260421211058616800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "01时02分"
         }
       ]
     }
