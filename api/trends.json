@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-21T17:27:02.201669+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-04-21T19:07:20.799450+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 5,
       "titles": [
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 19时07分]"
+        },
         {
           "title": "极氪汽车：将在北京车展发布焕新极氪009豪华7座版本",
           "url": "https://flash.jin10.com/detail/20260421102529220800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时27分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
