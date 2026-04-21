@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T04:53:39.773381+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-22T05:45:40.404022+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "周二（4月21日），彭博电动汽车价格回报指数涨1.14%，报4045.08点，北京时间09:30以来持续高位震荡。",
@@ -26,7 +27,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
@@ -43,7 +44,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
