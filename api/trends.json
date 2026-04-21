@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T21:26:55.011012+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-04-21T23:13:26.082300+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 23时13分]"
         },
         {
           "title": "极氪汽车：将在北京车展发布焕新极氪009豪华7座版本",
@@ -73,7 +73,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
@@ -124,7 +124,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
