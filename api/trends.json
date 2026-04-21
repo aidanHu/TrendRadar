@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T15:50:51.248825+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-04-21T17:27:02.201669+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时27分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时47分]"
-        },
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
         },
         {
           "title": "浙北县城造出千亿汽车城",
