@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T15:47:38.360015+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-04-22T17:21:12.589340+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -22,13 +22,35 @@
           "time_info": "[01时02分 ~ 10时33分]"
         },
         {
+          "title": "以为库克真加入小米汽车了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E5%BA%93%E5%85%8B%E7%9C%9F%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
+          "title": "哪吒汽车两位创始人已成老赖",
+          "url": "https://www.toutiao.com/trending/7630828960271568426/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
+        },
+        {
           "title": "小米汽车",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -38,11 +60,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 17时21分]"
         },
         {
           "title": "哪吒汽车创始人已成老赖",
@@ -55,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 13时26分]"
+        },
+        {
+          "title": "小米高管辟谣“库克加入小米汽车”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%BA%93%E5%85%8B%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "周二（4月21日），彭博电动汽车价格回报指数涨1.14%，报4045.08点，北京时间09:30以来持续高位震荡。",
@@ -74,7 +108,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
