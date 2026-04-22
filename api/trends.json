@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-23T05:52:26.561889+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-04-23T06:48:25.117365+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
+          "url": "https://flash.jin10.com/detail/20260423062608496800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
         {
           "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
           "url": "https://wallstreetcn.com/livenews/3092819",
@@ -25,9 +36,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。",
+          "url": "https://flash.jin10.com/detail/20260423055913606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "特斯拉利润超预期，并指出电动汽车需求正在复苏",
@@ -36,9 +58,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "特斯拉CFO：欧洲、中东和非洲地区的汽车需求正在复苏，包括法国和德国。",
+          "url": "https://flash.jin10.com/detail/20260423054654184800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。",
+          "url": "https://wallstreetcn.com/livenews/3092866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
