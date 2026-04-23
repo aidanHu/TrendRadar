@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:53:27.881869+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-24T05:45:50.871480+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 05时45分]"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
@@ -27,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 05时45分]"
         },
         {
           "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
@@ -48,7 +49,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
@@ -64,11 +65,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 05时45分]"
         }
       ]
     }
