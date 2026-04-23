@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:29:03.515397+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-04-23T19:09:07.938536+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "小鹏汽车(XPEV.N)：将在第四季度前实现机器人的量产，计划明年与外部合作伙伴大幅扩张。",
@@ -41,6 +41,19 @@
           "time_info": "04时05分"
         },
         {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            18,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 19时09分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
           "url": "https://flash.jin10.com/detail/20260423062608496800",
           "source": "金十数据",
@@ -53,16 +66,26 @@
           "time_info": "[06时48分 ~ 07时46分]"
         },
         {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
+          "title": "奇瑞汽车董事长：别把奇瑞当传统车企",
+          "url": "https://www.toutiao.com/trending/7631772506701578267/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时53分 ~ 17时29分]"
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
+          "url": "https://www.zhihu.com/question/2030242148881101121",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)：预计明年将实现飞行汽车的量产规模交付。",
@@ -162,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
+          "url": "https://wallstreetcn.com/livenews/3093216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
@@ -179,6 +213,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年 4 月第三周燃油车销量仅 8.7 万，同比下滑 53%，燃油车离淘汰还有多远？",
+          "url": "https://www.zhihu.com/question/2030337713023530037",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         }
       ]
     }
