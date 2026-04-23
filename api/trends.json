@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-04-23T23:53:23.066975+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-04-24T01:21:08.713474+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
         {
           "title": "媒体评哪吒汽车巨亏183亿元",
           "url": "https://www.douyin.com/hot/2476120",
           "source": "抖音",
           "ranks": [
-            18,
-            10,
-            14,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时53分 ~ 23时53分]"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：将在第四季度前实现机器人的量产，计划明年与外部合作伙伴大幅扩张。",
-          "url": "https://flash.jin10.com/detail/20260423102005291800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "现代汽车第一季度营业利润2.51万亿韩元，市场预估2.81万亿韩元。 第一季度净利润2.34万亿韩元，市场预估2.62万亿韩元。 第一季度销售额45.94万亿韩元，市场预估45.81万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/3093068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
-          "url": "https://wallstreetcn.com/livenews/3092819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
-          "url": "https://flash.jin10.com/detail/20260423062608496800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时46分]"
+          "time_info": "[01时20分 ~ 01时21分]"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
@@ -75,157 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 23时53分]"
-        },
-        {
-          "title": "奇瑞汽车董事长：别把奇瑞当传统车企",
-          "url": "https://www.toutiao.com/trending/7631772506701578267/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：预计明年将实现飞行汽车的量产规模交付。",
-          "url": "https://flash.jin10.com/detail/20260423101359594800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
-          "url": "https://wallstreetcn.com/livenews/3092850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。",
-          "url": "https://flash.jin10.com/detail/20260423055913606800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "特斯拉利润超预期，并指出电动汽车需求正在复苏",
-          "url": "https://wallstreetcn.com/livenews/3092849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
-        },
-        {
-          "title": "恒生科技指数跌超2%。华虹半导体、零跑汽车、小鹏集团跌超5%，比亚迪电子、比亚迪股份跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3092971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "欧洲汽车制造商协会（ACEA）表示，上月新车注册量增长11%至158万辆。所有主要市场的销量均实现扩张，电动汽车交付量飙升42%。",
-          "url": "https://wallstreetcn.com/livenews/3093048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "特斯拉CFO：欧洲、中东和非洲地区的汽车需求正在复苏，包括法国和德国。",
-          "url": "https://flash.jin10.com/detail/20260423054654184800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。",
-          "url": "https://wallstreetcn.com/livenews/3092866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "港股汽车板块走低，零跑汽车(09863.HK)、吉利汽车(00175.HK)跌超5%，小鹏集团(09868.HK)跌近5%，比亚迪股份(01211.HK)、岚图汽车(07489.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260423095010027800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
-          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
-          "url": "https://wallstreetcn.com/livenews/3093216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，大全新能源初步收涨16.5%，晶科能源涨11.2%，阿特斯太阳能涨8.8%，亚朵涨5%，金山云跌2.1%，新东方跌3.1%，华住跌3.9%，再鼎医药跌6.5%。 ETF中，ASHS涨2.2%，ASHR涨1.7%，CQQQ涨1.6%，KWEB跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3092824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "[01时20分 ~ 01时21分]"
         }
       ]
     },
@@ -238,12 +40,11 @@
           "url": "https://www.zhihu.com/question/2030337713023530037",
           "source": "知乎",
           "ranks": [
-            17,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时08分 ~ 23时53分]"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 01时21分]"
         }
       ]
     }
