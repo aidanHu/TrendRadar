@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:09:07.938536+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-04-23T21:29:20.784370+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "小鹏汽车(XPEV.N)：将在第四季度前实现机器人的量产，计划明年与外部合作伙伴大幅扩张。",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            18,
+            10,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 21时29分]"
         },
         {
           "title": "现代汽车第一季度营业利润2.51万亿韩元，市场预估2.81万亿韩元。 第一季度净利润2.34万亿韩元，市场预估2.62万亿韩元。 第一季度销售额45.94万亿韩元，市场预估45.81万亿韩元。",
@@ -41,19 +55,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            18,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 19时09分]"
-        },
-        {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
           "url": "https://flash.jin10.com/detail/20260423062608496800",
           "source": "金十数据",
@@ -66,22 +67,22 @@
           "time_info": "[06时48分 ~ 07时46分]"
         },
         {
-          "title": "奇瑞汽车董事长：别把奇瑞当传统车企",
-          "url": "https://www.toutiao.com/trending/7631772506701578267/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时29分]"
+        },
+        {
+          "title": "奇瑞汽车董事长：别把奇瑞当传统车企",
+          "url": "https://www.toutiao.com/trending/7631772506701578267/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -143,6 +144,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "欧洲汽车制造商协会（ACEA）表示，上月新车注册量增长11%至158万辆。所有主要市场的销量均实现扩张，电动汽车交付量飙升42%。",
           "url": "https://wallstreetcn.com/livenews/3093048",
           "source": "华尔街见闻-快讯",
@@ -193,7 +205,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         }
@@ -225,11 +237,12 @@
           "url": "https://www.zhihu.com/question/2030337713023530037",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时29分]"
         }
       ]
     }
