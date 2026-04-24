@@ -1,278 +1,50 @@
 {
-  "generated_at": "2026-04-24T23:09:17.892477+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2026-04-25T00:57:26.897561+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            9,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 07时45分]"
-        },
-        {
-          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
-          "url": "https://www.zhihu.com/question/2030242148881101121",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 07时45分]"
-        },
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
           "url": "https://www.zhihu.com/question/2029938790186182052",
           "source": "知乎",
           "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 23时09分]"
-        },
-        {
-          "title": "外国展商蹲地贴脸拍摄小米汽车细节",
-          "url": "https://www.toutiao.com/trending/7631791575441428004/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时35分 ~ 16时04分]"
-        },
-        {
-          "title": "加拿大总理：解决酒类禁令取决于美方行动，钢铝、汽车、木材关税才让人心烦",
-          "url": "https://wallstreetcn.com/livenews/3093557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时45分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "小狗撞上汽车谁该赔钱？法院判了",
-          "url": "https://www.toutiao.com/trending/7631847738958676014/",
-          "source": "今日头条",
+          "title": "北京车展上现“汽车跳舞”",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%8E%B0%E2%80%9C%E6%B1%BD%E8%BD%A6%E8%B7%B3%E8%88%9E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
-        },
-        {
-          "title": "外国友人在北京车展上被长城汽车圈粉",
-          "url": "https://www.toutiao.com/trending/7632169584321593390/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "歌尔股份：公司MEMS传感器产品在消费电子和汽车电子领域内均有较多应用场景",
-          "url": "https://flash.jin10.com/detail/20260424154700031800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "蔚来李斌：中国汽车品牌进入收敛期",
-          "url": "https://wallstreetcn.com/livenews/3093833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "小米集团董事长雷军表示，新一代小米su7汽车发布30多天，已经交付2.6万台。",
-          "url": "https://flash.jin10.com/detail/20260424225346884800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时09分"
-        },
-        {
-          "title": "恒大汽车：继续暂停买卖",
-          "url": "https://wallstreetcn.com/livenews/3094110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
-          "url": "https://flash.jin10.com/detail/20260424022651079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "福田汽车：2025年净利润13.64亿元，同比增长1593.29%",
-          "url": "https://wallstreetcn.com/livenews/3094105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "现代汽车：未来五年内将在中国推出20款新车，目标年销量升至50万辆",
-          "url": "https://flash.jin10.com/detail/20260424174304387800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "周四（4月23日）尾盘，彭博电动汽车价格回报指数跌2.12%，报3954.52点。 亚太早盘，指数持续地显著下挫，北京时间01:46刷新日低至3944.43点，09:49以来持续交投于3980点下方，日内整体呈现出长尾L形走势。",
-          "url": "https://wallstreetcn.com/livenews/3093501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "据美国汽车协会（AAA）的数据显示，美国汽油价格小幅上涨3美分，至每加仑4.06美元。",
-          "url": "https://flash.jin10.com/detail/20260424174135130800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "尚界汽车法务部上线",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8C%E6%B1%BD%E8%BD%A6%E6%B3%95%E5%8A%A1%E9%83%A8%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "小鹏飞行汽车和人形机器人将于今年量产",
-          "url": "https://wallstreetcn.com/livenews/3093625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "恒大汽车：继续暂停买卖",
-          "url": "https://flash.jin10.com/detail/20260424210519062800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "丰田海南出行有限公司召回部分进口LX600汽车",
-          "url": "https://flash.jin10.com/detail/20260424125207047800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "长城汽车：第一季度净利润9.45亿元，同比下降46.01%",
-          "url": "https://wallstreetcn.com/livenews/3093902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "南向资金今日净买入34.6亿元。港股通（沪）方面，中国海洋石油、中国移动分别获净买入8.5亿港元、5.46亿港元；中芯国际净卖出额居首，金额为15.21亿港元；港股通（深）方面，中芯国际、华虹半导体分别获净买入10.5亿港元、2.65亿港元；吉利汽车净卖出额居首，金额为8.56亿港元。",
-          "url": "https://flash.jin10.com/detail/20260424173340187800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
-      "keyword_group": "油车",
+      "keyword_group": "新能源",
       "match_count": 1,
       "titles": [
         {
-          "title": "2026 年 4 月第三周燃油车销量仅 8.7 万，同比下滑 53%，燃油车离淘汰还有多远？",
-          "url": "https://www.zhihu.com/question/2030337713023530037",
-          "source": "知乎",
+          "title": "乘联分会：4月狭义乘用车零售预计142.0万辆，新能源预计86.0万辆",
+          "url": "https://flash.jin10.com/detail/20260424234955601800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            8,
-            4,
-            5
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时20分 ~ 07时45分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         }
       ]
     }
