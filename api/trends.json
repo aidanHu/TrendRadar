@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T07:40:13.866480+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-04-25T10:27:23.818423+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
@@ -16,11 +16,23 @@
             10,
             8,
             7,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 07时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时27分]"
+        },
+        {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.toutiao.com/trending/7632182781422063158/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -57,6 +69,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "雷军送王传福在一起才是中国汽车T恤",
+          "url": "https://www.toutiao.com/trending/7632165402564345897/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
