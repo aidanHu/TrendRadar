@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:39:19.892341+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-04-25T21:04:27.310691+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 21时04分]"
         },
         {
           "title": "国产新能源汽车黑科技：越开电越多",
