@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T10:52:26.901315+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-28T14:07:54.105094+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "李斌称汽车迭代不再由发动机定义，是芯片、电子电气架构和智能化水平驱动，不迭代就没法参与竞争，如何解读？",
+          "url": "https://www.zhihu.com/question/2030677600109061020",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 14时07分]"
         },
         {
           "title": "广东：加快发展智能网联汽车，建设智能网联汽车测试区和车路协同设施",
@@ -25,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         },
@@ -41,24 +53,13 @@
           "time_info": "05时02分"
         },
         {
-          "title": "李斌称汽车迭代不再由发动机定义，是芯片、电子电气架构和智能化水平驱动，不迭代就没法参与竞争，如何解读？",
-          "url": "https://www.zhihu.com/question/2030677600109061020",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "广东：做大做强新能源、智能网联汽车、智能机器人、航空航天等新兴产业，锻造更多万亿元级、千亿元级新兴产业集群",
           "url": "https://flash.jin10.com/detail/20260428102500096800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
         }
