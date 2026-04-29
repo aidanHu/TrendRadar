@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T20:18:00.288879+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-04-29T23:15:53.055958+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 20时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 23时15分]"
         },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
