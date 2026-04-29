@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-29T12:30:31.735722+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-04-29T15:24:28.297601+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 10,
       "titles": [
-        {
-          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
-          "url": "https://www.zhihu.com/question/2031648098368345383",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
           "url": "https://www.zhihu.com/question/2032366127414599941",
@@ -62,7 +51,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -73,9 +62,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
+          "url": "https://www.zhihu.com/question/2031648098368345383",
+          "source": "知乎",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时24分]"
+        },
+        {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时24分]"
         },
         {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
@@ -89,24 +102,13 @@
           "time_info": "[02时18分 ~ 05时58分]"
         },
         {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
           "title": "吉利汽车第一季度净利润41.7亿元人民币，同比-27%；营收837.8亿元人民币，同比+15%。",
           "url": "https://wallstreetcn.com/livenews/3096205",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
