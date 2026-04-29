@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-29T18:05:52.421378+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-04-29T20:18:00.288879+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 11,
       "titles": [
+        {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 20时18分]"
+        },
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
           "url": "https://www.zhihu.com/question/2032366127414599941",
@@ -40,7 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -88,18 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 15时24分]"
-        },
-        {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 18时05分]"
         },
         {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
