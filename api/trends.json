@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T06:05:00.554505+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-05-01T07:53:48.185298+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时53分]"
         },
         {
           "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
@@ -55,11 +55,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时53分]"
         }
       ]
     }
