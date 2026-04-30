@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:57:41.406948+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-04-30T10:57:30.776816+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英国汽车制造商与贸易商协会：英国三月份汽车总产量同比下降8.2%，降至72,511辆。",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "探索世界首艘万车级汽车运输船",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%B4%A2%E4%B8%96%E7%95%8C%E9%A6%96%E8%89%98%E4%B8%87%E8%BD%A6%E7%BA%A7%E6%B1%BD%E8%BD%A6%E8%BF%90%E8%BE%93%E8%88%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。 预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。",
@@ -66,7 +77,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新能源车市场升温，金融工具“贷”动消费",
@@ -79,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时57分]"
+        },
+        {
+          "title": "恒生指数盘中跌超1%，光通信、电池、有色金属、新能源车企等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260430102914728800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.64%，报6791.66点，整体呈现出长尾L形走势。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
