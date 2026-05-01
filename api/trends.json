@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T02:06:33.936352+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-05-02T04:05:19.076499+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国总统特朗普：美国将提高欧盟汽车关税，因为他们没有遵守协议。",
@@ -48,9 +48,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "德国汽车工业协会（VDA）：美国总统宣布将从欧盟进口到美国的卡车和轿车关税提高至25%，这代表着跨大西洋关系再次面临严重的紧张局势。 汽车行业紧急呼吁双方缓和局势并立即开展谈判。 欧盟与美国之间签署的贸易协议必须由双方共同遵守。 在当前已经极具挑战性的时期，这些额外关税带来的成本对于德国和欧洲汽车工业来说将是巨大的，并且很可能也会影响美国的消费者。",
+          "url": "https://wallstreetcn.com/livenews/3098008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "欧洲汽车游说组织Acea拒绝置评美国总统特朗普最新汽车关税论调。 但呼吁欧盟议员们尽快批准相关立法。",
+          "url": "https://wallstreetcn.com/livenews/3098006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         },
         {
           "title": "特朗普：上调欧盟汽车关税",
