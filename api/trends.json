@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:41:31.620302+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-03T07:43:18.709964+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 06时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 07时43分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -29,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 06时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 07时43分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -40,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 06时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 07时43分]"
         },
         {
           "title": "伯克希尔首席执行官阿贝尔：随着竞争加剧，保险市场正在“趋于宽松”。 汽车保险客户出现了前所未有的比价购物现象。",
@@ -56,8 +57,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 07时43分]"
         },
         {
           "title": "研究称：美提高汽车关税将致德国损失150亿欧元",
@@ -68,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时43分]"
         },
         {
           "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
