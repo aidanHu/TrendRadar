@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T02:59:55.078172+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-05-03T03:57:16.487786+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时57分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时57分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 03时57分]"
         },
         {
           "title": "伯克希尔首席执行官阿贝尔：随着竞争加剧，保险市场正在“趋于宽松”。 汽车保险客户出现了前所未有的比价购物现象。",
@@ -47,11 +47,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时57分]"
+        },
+        {
+          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
+          "url": "https://wallstreetcn.com/livenews/3098147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 03时57分]"
         },
         {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
@@ -63,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时43分]"
-        },
-        {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 02时59分]"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：汽车保险客户中出现了前所未有的“货比三家”现象。",
