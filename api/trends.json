@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:57:16.487786+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-03T04:43:14.807573+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时43分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时43分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时43分]"
         },
         {
           "title": "伯克希尔首席执行官阿贝尔：随着竞争加剧，保险市场正在“趋于宽松”。 汽车保险客户出现了前所未有的比价购物现象。",
@@ -48,11 +48,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 04时43分]"
         },
         {
           "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
