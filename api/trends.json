@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T00:47:07.573095+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-03T01:43:48.648245+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时43分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时43分]"
         },
         {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时43分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -48,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时43分]"
         },
         {
           "title": "伯克希尔首席执行官阿贝尔：随着竞争加剧，保险市场正在“趋于宽松”。 汽车保险客户出现了前所未有的比价购物现象。",
@@ -58,20 +59,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "伯克希尔CEO格雷格·阿贝尔：汽车保险客户中出现了前所未有的“货比三家”现象。",
-          "url": "https://flash.jin10.com/detail/20260502221731843800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时43分]"
         },
         {
           "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
@@ -80,7 +70,18 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时43分]"
+        },
+        {
+          "title": "伯克希尔CEO格雷格·阿贝尔：汽车保险客户中出现了前所未有的“货比三家”现象。",
+          "url": "https://flash.jin10.com/detail/20260502221731843800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         }
