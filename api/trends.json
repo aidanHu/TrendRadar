@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T13:37:48.013253+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-05-02T15:44:38.109971+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 15时44分]"
         },
         {
           "title": "长安汽车4月交付20.95万辆 同比增长1.7%",
