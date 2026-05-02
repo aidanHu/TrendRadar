@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T15:44:38.109971+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-05-02T17:07:03.941811+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -16,8 +16,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 17时07分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "长安汽车4月交付20.95万辆 同比增长1.7%",
