@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T07:43:18.709964+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-03T10:52:54.980120+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 07时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时46分 ~ 10时52分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
