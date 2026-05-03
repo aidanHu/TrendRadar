@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T10:52:54.980120+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-05-03T14:06:24.973154+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 10时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 14时06分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -60,6 +60,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时47分 ~ 07时43分]"
+        },
+        {
+          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "研究称：美提高汽车关税将致德国损失150亿欧元",
@@ -107,6 +118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国新能源车进入“9系”时代",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%BF%9B%E5%85%A5%E2%80%9C9%E7%B3%BB%E2%80%9D%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     }
