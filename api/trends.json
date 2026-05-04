@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-04T07:45:02.574513+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-05-04T10:50:41.471814+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 07时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 10时50分]"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -28,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "港股汽车股多数走强，长城汽车(02333.HK)、理想汽车(02015.HK)涨超4%，小鹏集团(09868.HK)、岚图汽车(07489.HK)涨超3%，奇瑞汽车(09973.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260504095728711800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "长城汽车4月销量106312辆",
+          "url": "https://www.toutiao.com/trending/7634764246089285686/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
