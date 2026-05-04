@@ -1,78 +1,22 @@
 {
-  "generated_at": "2026-05-04T22:05:06.770831+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-05-05T00:08:31.799319+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 10时50分]"
-        },
-        {
-          "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
-          "url": "https://wallstreetcn.com/livenews/3098402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "德国汽车股欧股盘前下跌1.2%-2.2%，此前特朗普宣布将汽车关税提高至25%。",
-          "url": "https://flash.jin10.com/detail/20260504133923968800",
+          "title": "当地广播公司MDR报道，德国东部城市莱比锡发生汽车事故，警方确认两人遇难。",
+          "url": "https://flash.jin10.com/detail/20260504234126416800",
           "source": "金十数据",
           "ranks": [
-            6
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
-          "url": "https://flash.jin10.com/detail/20260503233359102800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "港股汽车股多数走强，长城汽车(02333.HK)、理想汽车(02015.HK)涨超4%，小鹏集团(09868.HK)、岚图汽车(07489.HK)涨超3%，奇瑞汽车(09973.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260504095728711800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "长城汽车4月销量106312辆",
-          "url": "https://www.toutiao.com/trending/7634764246089285686/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "00时08分"
         }
       ]
     }
