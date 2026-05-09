@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:43:10.059533+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-05-10T06:43:48.521570+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             17,
             16,
-            14
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -28,11 +29,12 @@
           "ranks": [
             5,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时43分]"
         }
       ]
     },
@@ -47,11 +49,12 @@
           "ranks": [
             2,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "中汽协：8家新能源车企锁电被约谈不实",
