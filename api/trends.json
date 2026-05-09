@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T17:21:02.703671+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-05-09T18:58:09.481243+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 17时21分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 18时58分]"
         },
         {
           "title": "周五（5月8日），彭博电动汽车价格回报指数跌0.83%，报4164.71点，本周累计上涨2.37%，5月5-7日持续走高，一度达到4237.67点。",
