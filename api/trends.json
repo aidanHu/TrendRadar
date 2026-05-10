@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:52:37.844371+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-05-10T21:18:37.543531+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 19时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 21时18分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -49,8 +49,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 21时18分]"
+        },
+        {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
