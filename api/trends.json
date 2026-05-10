@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:12:51.725891+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-05-10T16:54:19.316850+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 16时54分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -48,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
