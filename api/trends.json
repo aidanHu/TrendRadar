@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T01:53:42.195968+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-11T03:04:17.844748+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         }
       ]
     },
@@ -53,11 +55,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         }
       ]
     }
