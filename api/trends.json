@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-11T06:47:57.676992+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-05-11T07:53:13.855079+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
-        {
-          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
-          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时47分]"
-        },
         {
           "title": "央视曝光危险的“手搓汽车”",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8D%B1%E9%99%A9%E7%9A%84%E2%80%9C%E6%89%8B%E6%90%93%E6%B1%BD%E8%BD%A6%E2%80%9D",
@@ -27,11 +16,23 @@
             12,
             18,
             19,
-            24
+            24,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时53分]"
+        },
+        {
+          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
+          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时53分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -44,8 +45,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时53分]"
         }
       ]
     },
@@ -60,11 +61,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时53分]"
         }
       ]
     }
