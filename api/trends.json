@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T06:54:16.181914+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-05-12T07:58:46.719311+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "飞行汽车工厂30分钟下线一台飞行器",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         },
         {
           "title": "张雪祝贺吉利汽车意大利夺冠",
@@ -26,8 +26,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         },
         {
           "title": "周一（5月11日），彭博电动汽车价格回报指数涨0.83%，报4199.42点。",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33155484",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -66,11 +77,12 @@
             14,
             10,
             4,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 07时58分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.03%，报7067.16点。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。 ETF中，中国科技指数ETF（CQQQ）收涨2.07%，中概互联网指数ETF（KWEB）收涨0.14%。 德银嘉实沪深300指数ETF（ASHR）收涨2.18%，XtrackersHarvest中证50（ASHS）收涨1.81%，MSCI新兴市场ex中国ETF（EMXC）收跌0.08%。",
