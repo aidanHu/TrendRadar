@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T15:41:05.908346+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-05-11T19:20:14.830139+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -65,11 +65,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 19时20分]"
+        },
+        {
+          "title": "中国汽车动力电池产业创新联盟发布倡议，倡议尊重知识产权，共筑全球动力电池产业未来。",
+          "url": "https://wallstreetcn.com/livenews/3101555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         }
       ]
     },
