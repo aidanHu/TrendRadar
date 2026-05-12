@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T05:40:34.151042+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-13T07:02:00.616110+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 07时02分]"
         },
         {
           "title": "4月汽车销量前10仅1款油车",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             9,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 07时02分]"
         },
         {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
@@ -37,7 +38,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
