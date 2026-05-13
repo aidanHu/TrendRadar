@@ -1,106 +1,33 @@
 {
-  "generated_at": "2026-05-13T23:48:37.730944+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-05-14T02:24:15.488977+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "4月汽车销量前十名仅剩1款油车",
-          "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 11时01分]"
-        },
-        {
-          "title": "数看4月新能源汽车产业成绩单",
-          "url": "https://www.toutiao.com/trending/7639196565483048457/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "我国全年汽车出口量有望再创新高",
-          "url": "https://www.douyin.com/hot/2497186",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 07时02分]"
-        },
         {
           "title": "4月汽车销量前十名仅剩一款油车",
           "url": "https://www.toutiao.com/trending/7638216494090289158/",
           "source": "今日头条",
           "ranks": [
-            2,
-            26,
-            27
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 23时48分]"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
           "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
           "url": "https://www.zhihu.com/question/2037653159107982760",
           "source": "知乎",
           "ranks": [
-            7,
-            13,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 23时48分]"
-        },
-        {
-          "title": "据德国经济周刊：大众汽车公司与以色列拉斐尔国防技术公司之间的一项交易已接近完成。以色列计划在当地生产“铁穹”防空系统的组件。",
-          "url": "https://flash.jin10.com/detail/20260513193103189800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "国机汽车：全资子公司签署1.09亿元经营合同",
-          "url": "https://flash.jin10.com/detail/20260513171446618800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
           "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
@@ -110,115 +37,36 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 23时48分]"
-        },
-        {
-          "title": "小米汽车：YU7交付能力大幅提升",
-          "url": "https://www.toutiao.com/trending/7638536386953547306/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
+          "time_info": "[02时23分 ~ 02时24分]"
         },
         {
-          "title": "纯电动汽车保值排名：小米跌出前十",
-          "url": "https://www.toutiao.com/trending/7638539260280258579/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
-          "title": "理想汽车李想：建议所有公司不裁人",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A3%81%E4%BA%BA",
+          "title": "小米汽车：买YU7最快2小时提车",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E4%B9%B0YU7%E6%9C%80%E5%BF%AB2%E5%B0%8F%E6%97%B6%E6%8F%90%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
-          "url": "https://flash.jin10.com/detail/20260513050414696800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "港股汽车股多数下跌，吉利汽车(00175.HK)跌近5%，比亚迪股份(01211.HK)跌超3%，奇瑞汽车(09973.HK)、赛力斯(09927.HK)、长城汽车(02333.HK)、小鹏集团(09868.HK)跟跌。",
-          "url": "https://flash.jin10.com/detail/20260513101523633800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3102499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
-          "url": "https://flash.jin10.com/detail/20260513100539572800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "[02时23分 ~ 02时24分]"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
-          "url": "https://www.zhihu.com/question/2037167038641198584",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
         {
           "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
           "url": "https://www.zhihu.com/question/2037631560241739641",
           "source": "知乎",
           "ranks": [
-            19,
-            15,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 23时48分]"
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 02时24分]"
         }
       ]
     }
