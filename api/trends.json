@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T20:04:11.908609+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-05-13T23:48:37.730944+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -55,27 +55,41 @@
           "time_info": "[01时31分 ~ 07时02分]"
         },
         {
+          "title": "4月汽车销量前十名仅剩一款油车",
+          "url": "https://www.toutiao.com/trending/7638216494090289158/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 23时48分]"
+        },
+        {
+          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
+          "url": "https://www.zhihu.com/question/2037653159107982760",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 23时48分]"
+        },
+        {
           "title": "据德国经济周刊：大众汽车公司与以色列拉斐尔国防技术公司之间的一项交易已接近完成。以色列计划在当地生产“铁穹”防空系统的组件。",
           "url": "https://flash.jin10.com/detail/20260513193103189800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩一款油车",
-          "url": "https://www.toutiao.com/trending/7638216494090289158/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 17时44分]"
         },
         {
           "title": "国机汽车：全资子公司签署1.09亿元经营合同",
@@ -89,18 +103,6 @@
           "time_info": "17时44分"
         },
         {
-          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
-          "url": "https://www.zhihu.com/question/2037653159107982760",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 20时04分]"
-        },
-        {
           "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
           "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
           "source": "凤凰网",
@@ -108,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 20时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 23时48分]"
         },
         {
           "title": "小米汽车：YU7交付能力大幅提升",
@@ -211,11 +213,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 20时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 23时48分]"
         }
       ]
     }
