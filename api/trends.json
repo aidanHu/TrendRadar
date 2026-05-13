@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T11:01:49.569820+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-05-13T17:44:44.019439+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "4月汽车销量前十名仅剩1款油车",
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时31分 ~ 11时01分]"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩一款油车",
-          "url": "https://www.toutiao.com/trending/7638216494090289158/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "数看4月新能源汽车产业成绩单",
@@ -66,6 +55,29 @@
           "time_info": "[01时31分 ~ 07时02分]"
         },
         {
+          "title": "4月汽车销量前十名仅剩一款油车",
+          "url": "https://www.toutiao.com/trending/7638216494090289158/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 17时44分]"
+        },
+        {
+          "title": "国机汽车：全资子公司签署1.09亿元经营合同",
+          "url": "https://flash.jin10.com/detail/20260513171446618800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "纯电动汽车保值排名：小米跌出前十",
           "url": "https://www.toutiao.com/trending/7638539260280258579/",
           "source": "今日头条",
@@ -75,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
+          "url": "https://www.zhihu.com/question/2037653159107982760",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
@@ -88,13 +111,24 @@
           "time_info": "05时40分"
         },
         {
+          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
+          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "港股汽车股多数下跌，吉利汽车(00175.HK)跌近5%，比亚迪股份(01211.HK)跌超3%，奇瑞汽车(09973.HK)、赛力斯(09927.HK)、长城汽车(02333.HK)、小鹏集团(09868.HK)跟跌。",
           "url": "https://flash.jin10.com/detail/20260513101523633800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -116,7 +150,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         }
@@ -124,7 +158,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
@@ -136,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
+          "url": "https://www.zhihu.com/question/2037631560241739641",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     }
