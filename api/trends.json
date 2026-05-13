@@ -1,22 +1,56 @@
 {
-  "generated_at": "2026-05-13T07:02:00.616110+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-05-13T11:01:49.569820+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "4月汽车销量前十名仅剩1款油车",
           "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 11时01分]"
+        },
+        {
+          "title": "4月汽车销量前十名仅剩一款油车",
+          "url": "https://www.toutiao.com/trending/7638216494090289158/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "数看4月新能源汽车产业成绩单",
+          "url": "https://www.toutiao.com/trending/7639196565483048457/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "我国全年汽车出口量有望再创新高",
+          "url": "https://www.douyin.com/hot/2497186",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "4月汽车销量前10仅1款油车",
@@ -32,6 +66,17 @@
           "time_info": "[01时31分 ~ 07时02分]"
         },
         {
+          "title": "纯电动汽车保值排名：小米跌出前十",
+          "url": "https://www.toutiao.com/trending/7638539260280258579/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
           "url": "https://flash.jin10.com/detail/20260513050414696800",
           "source": "金十数据",
@@ -43,6 +88,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "港股汽车股多数下跌，吉利汽车(00175.HK)跌近5%，比亚迪股份(01211.HK)跌超3%，奇瑞汽车(09973.HK)、赛力斯(09927.HK)、长城汽车(02333.HK)、小鹏集团(09868.HK)跟跌。",
+          "url": "https://flash.jin10.com/detail/20260513101523633800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
           "url": "https://wallstreetcn.com/livenews/3102499",
           "source": "华尔街见闻-快讯",
@@ -52,6 +108,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
+          "url": "https://flash.jin10.com/detail/20260513100539572800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
+          "url": "https://www.zhihu.com/question/2037167038641198584",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
         }
       ]
     }
