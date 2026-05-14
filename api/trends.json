@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T06:15:11.952762+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-14T08:00:13.658553+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "4月汽车销量前十名仅剩一款油车",
@@ -26,11 +26,34 @@
           "ranks": [
             10,
             18,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 08时00分]"
+        },
+        {
+          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
+          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 08时00分]"
+        },
+        {
+          "title": "英媒：小鹏汽车正与大众汽车就收购欧洲工厂进行洽谈",
+          "url": "https://flash.jin10.com/detail/20260514075226017800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "小米汽车：买YU7最快2小时提车",
@@ -40,17 +63,6 @@
             25,
             8,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时15分]"
-        },
-        {
-          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
-          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -86,7 +98,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
@@ -102,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 08时00分]"
         }
       ]
     }
