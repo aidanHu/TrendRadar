@@ -1,236 +1,22 @@
 {
-  "generated_at": "2026-05-14T22:11:50.275667+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-05-15T01:02:29.733814+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
-          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时23分 ~ 12时01分]"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩一款油车",
-          "url": "https://www.toutiao.com/trending/7638216494090289158/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时15分]"
-        },
-        {
-          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
-          "url": "https://www.zhihu.com/question/2037653159107982760",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 08时00分]"
-        },
-        {
-          "title": "英媒：小鹏汽车正与大众汽车就收购欧洲工厂进行洽谈",
-          "url": "https://flash.jin10.com/detail/20260514075226017800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "中国汽车流通协会：1-4月全国二手车累计交易量649.32万辆 同比增长2.93%",
-          "url": "https://flash.jin10.com/detail/20260514171637181800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅扩大至3%，金山云跌9%，哔哩哔哩跌6%，小鹏汽车、百度跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3103755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "小米汽车：买YU7最快2小时提车",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E4%B9%B0YU7%E6%9C%80%E5%BF%AB2%E5%B0%8F%E6%97%B6%E6%8F%90%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 06时15分]"
-        },
-        {
-          "title": "福特汽车收涨13%，创2020年以来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/3103211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 06时15分]"
-        },
-        {
-          "title": "周三（5月13日）纽约尾盘，彭博电动汽车价格回报指数涨1.05%，报4166.43点。 北京时间08:00低开低走，15:00之前维持在4100点附近，至22:00持平于4120点附近，之后显著走高，涨势从23:00开始放缓。",
-          "url": "https://wallstreetcn.com/livenews/3103206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "德国汽车工业协会：德汽车业到2035年或再流失12.5万个岗位",
-          "url": "https://wallstreetcn.com/livenews/3103234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "全球电动汽车销量连涨两个月",
-          "url": "https://wallstreetcn.com/livenews/3103665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "聚焦汽车安全、智慧监控等 一批消防领域国家标准发布",
-          "url": "https://wallstreetcn.com/livenews/3103578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅扩大至3%，金山云(KC.O)跌9.1%，哔哩哔哩(BILI.O)跌6.15%，小鹏汽车(XPEV.N)、百度(BIDU.O)跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260514213551002800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美国4月零售销售(除汽车与汽油)环比 0.5%，预期 0.3%，前值 0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3103727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美国4月零售销售(除汽车)环比 0.7%，预期 0.7%，前值 1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3103726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "泰和新材：近期与投资者交流的过程中，部分投资者对对位芳纶在光纤光缆中的应用比较关注。公司的泰普龙®对位芳纶及其制品具有高强度、高模量等特点，可应用于光缆、汽车、安全防护等领域。2025年，公司的泰普龙®对位芳纶及其制品在光缆领域的收入占主营业务收入的比例不足10%，对公司业绩影响较小。2026年1-4月份，上述占比未发生明显变化。",
-          "url": "https://wallstreetcn.com/livenews/3103638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
-          "url": "https://www.zhihu.com/question/2037631560241739641",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 08时00分]"
-        },
         {
           "title": "新能源车开启涨价潮",
           "url": "https://www.douyin.com/hot/2498907",
           "source": "抖音",
           "ranks": [
-            7,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时11分]"
-        },
-        {
-          "title": "特朗普访华欢迎宴会上雷军和马斯克合照，他们可能交流了什么？会对新能源车行业有影响吗？",
-          "url": "https://www.zhihu.com/question/2038327972331877678",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     },
@@ -243,12 +29,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354289&amp;topic_name=%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%2CBBA%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD",
           "source": "贴吧",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }
