@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-14T08:00:13.658553+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-05-14T12:01:13.541937+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 8,
       "titles": [
+        {
+          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
+          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 12时01分]"
+        },
         {
           "title": "4月汽车销量前十名仅剩一款油车",
           "url": "https://www.toutiao.com/trending/7638216494090289158/",
@@ -34,24 +45,13 @@
           "time_info": "[02时23分 ~ 08时00分]"
         },
         {
-          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
-          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 08时00分]"
-        },
-        {
           "title": "英媒：小鹏汽车正与大众汽车就收购欧洲工厂进行洽谈",
           "url": "https://flash.jin10.com/detail/20260514075226017800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
