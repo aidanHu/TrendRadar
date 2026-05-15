@@ -1,97 +1,33 @@
 {
-  "generated_at": "2026-05-15T22:12:55.164650+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-05-16T00:52:17.510909+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "福特汽车(F.N)在过去两个交易日上涨约20%后，今日下跌8%。",
-          "url": "https://flash.jin10.com/detail/20260515220152763800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "周四（5月14日），彭博电动汽车价格回报指数跌1.15%，报4113.70点。",
-          "url": "https://wallstreetcn.com/livenews/3103881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
-          "url": "https://wallstreetcn.com/livenews/3104308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "金十图示：2026年05月15日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260515110710361800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
-          "url": "https://wallstreetcn.com/livenews/3103925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
       "match_count": 2,
       "titles": [
         {
-          "title": "新能源车开启涨价潮",
-          "url": "https://www.douyin.com/hot/2498907",
-          "source": "抖音",
+          "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
+          "url": "https://wallstreetcn.com/livenews/3104561",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            11,
-            9,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 07时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "2026 年了，如果你今年换车，你会选新能源车吗？",
-          "url": "https://www.zhihu.com/question/2032194954789909616",
-          "source": "知乎",
+          "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
+          "url": "https://wallstreetcn.com/livenews/3104546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 06时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -104,16 +40,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354289&amp;topic_name=%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%2CBBA%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD",
           "source": "贴吧",
           "ranks": [
-            2,
-            7,
-            15,
-            20,
-            21,
-            24
+            25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 22时12分]"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
