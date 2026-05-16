@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T07:05:30.212000+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-05-16T10:52:21.638058+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "理想汽车：已向这位母亲当面致歉",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E5%B7%B2%E5%90%91%E8%BF%99%E4%BD%8D%E6%AF%8D%E4%BA%B2%E5%BD%93%E9%9D%A2%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "福特汽车收跌7.4%，创2025年2月份以来最大单日跌幅。",
@@ -40,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "蔚来汽车(NIO.N)：截至5月16日，蔚来全国建成8868座充换电站，其中换电站3848座，充电站5020座、充电桩28853根，累计提供超1亿次换电。",
+          "url": "https://flash.jin10.com/detail/20260516092159511800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "理想 CEO 称「汽车不能像手机一样换代」，如何看待他的观点？现在合理的汽车换代周期到底应该是多久？",
+          "url": "https://www.zhihu.com/question/2036455641170932765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "现代汽车美国首席游说官在任职一年后离职",
@@ -66,6 +99,23 @@
       ]
     },
     {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉：新能源冲击打断了德国脆弱的复苏。",
+          "url": "https://flash.jin10.com/detail/20260516085052198800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "油车",
       "match_count": 1,
       "titles": [
@@ -74,11 +124,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354289&amp;topic_name=%E6%B2%B9%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E8%B7%8C%2CBBA%E9%99%8D%E4%BB%B7%E7%BB%AD%E5%91%BD",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 07时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 10时52分]"
         }
       ]
     }
