@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:44:36.456511+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-05-17T07:53:29.639993+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时53分]"
         },
         {
           "title": "多款燃油车降价 降幅最大近30%",
@@ -28,11 +29,12 @@
           "ranks": [
             9,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 07时53分]"
         }
       ]
     },
