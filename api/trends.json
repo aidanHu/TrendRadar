@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-18T00:01:34.741337+08:00",
-  "total_titles_processed": 285,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-05-18T01:08:59.971789+08:00",
+  "total_titles_processed": 357,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
