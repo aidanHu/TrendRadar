@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T17:05:27.130229+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-05-17T19:06:22.541641+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 19时06分]"
         },
         {
           "title": "意大利摩德纳市发生汽车冲撞人群事件",
@@ -37,7 +38,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -104,11 +105,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 19时06分]"
         }
       ]
     }
