@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:06:22.541641+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-05-17T21:20:43.421969+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -86,6 +86,20 @@
           "time_info": "[01时09分 ~ 07时53分]"
         },
         {
+          "title": "多款燃油车大降价，降幅最大近 30%，本轮燃油车降价会持续多久？现在买燃油车划算吗？",
+          "url": "https://www.zhihu.com/question/2038999993411958026",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 21时20分]"
+        },
+        {
           "title": "多款燃油车降价 降幅最大近30%",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%E9%99%8D%E4%BB%B7+%E9%99%8D%E5%B9%85%E6%9C%80%E5%A4%A7%E8%BF%9130%25",
           "source": "百度热搜",
@@ -98,19 +112,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 07时53分]"
-        },
-        {
-          "title": "多款燃油车大降价，降幅最大近 30%，本轮燃油车降价会持续多久？现在买燃油车划算吗？",
-          "url": "https://www.zhihu.com/question/2038999993411958026",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 19时06分]"
         }
       ]
     }
