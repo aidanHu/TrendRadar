@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T08:06:30.759834+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-05-20T13:05:36.494344+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本汽车产业遇重创",
@@ -34,6 +34,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 08时06分]"
+        },
+        {
+          "title": "印度尼西亚总统：我们不能仅仅成为他人的市场，我们必须生产自己的汽车和手机。",
+          "url": "https://flash.jin10.com/detail/20260520123818385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
@@ -65,7 +76,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -82,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
