@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T15:52:34.251903+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-05-21T19:24:44.295174+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
@@ -44,6 +44,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "埃夫特：拟10.74亿元收购盛普股份100%股份，后者产品目前主要应用于光伏组件、动力电池以及汽车及零部件等行业",
+          "url": "https://flash.jin10.com/detail/20260521191322597800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "金十图示：2026年05月21日（周四）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260521110608985800",
           "source": "金十数据",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "男子误把汽车防冻液当饮料猛灌",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E6%8A%8A%E6%B1%BD%E8%BD%A6%E9%98%B2%E5%86%BB%E6%B6%B2%E5%BD%93%E9%A5%AE%E6%96%99%E7%8C%9B%E7%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
