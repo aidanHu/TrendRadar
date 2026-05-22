@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T18:51:13.806954+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-05-22T21:32:27.958292+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -83,7 +83,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -121,11 +121,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 21时32分]"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -149,6 +150,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "燃油车集体骨折清仓 有车型直降30万",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E9%9B%86%E4%BD%93%E9%AA%A8%E6%8A%98%E6%B8%85%E4%BB%93+%E6%9C%89%E8%BD%A6%E5%9E%8B%E7%9B%B4%E9%99%8D30%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     }
