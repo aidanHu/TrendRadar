@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T02:07:58.250621+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-25T04:06:05.697392+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "油车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "燃油车为何集体降价",
@@ -15,8 +15,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 04时06分]"
+        },
+        {
+          "title": "燃油车销量断崖式下滑经销商亏本甩卖",
+          "url": "https://www.toutiao.com/trending/7642320185894354971/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 04时06分]"
         }
       ]
     }
