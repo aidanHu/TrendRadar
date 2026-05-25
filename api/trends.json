@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:59:31.386485+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-25T08:08:46.966820+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             24,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时07分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时07分 ~ 08时08分]"
         },
         {
           "title": "燃油车销量断崖式下滑经销商亏本甩卖",
