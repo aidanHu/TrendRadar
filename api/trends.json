@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T13:20:54.250900+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-05-25T18:05:31.260171+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -25,9 +25,37 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "京能电力：公司尚无新投运的大型新能源项目",
+          "url": "https://wallstreetcn.com/livenews/3108800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "九天六板京能电力：公司尚无新投运的大型新能源项目",
+          "url": "https://flash.jin10.com/detail/20260525171451282800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     },
