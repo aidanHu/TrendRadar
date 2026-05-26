@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T11:32:09.497658+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-05-26T15:44:59.239712+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "不满充电车位被占用，小型汽车司机持灭火器连砸多车",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 11时32分]"
+        },
+        {
+          "title": "想不想买小米汽车？武契奇：买不起",
+          "url": "https://www.baidu.com/s?wd=%E6%83%B3%E4%B8%8D%E6%83%B3%E4%B9%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%EF%BC%9F%E6%AD%A6%E5%A5%91%E5%A5%87%EF%BC%9A%E4%B9%B0%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "山东一汽车融资租赁企业拖车案第三次开庭：辩方认为属民事纠纷，作无罪辩护",
@@ -39,9 +50,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "武契奇抵达小米汽车工厂参访",
+          "url": "https://www.douyin.com/hot/2512770",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "墨西哥经济部长埃布拉德：墨西哥将与美国讨论汽车原产地规则。",
@@ -53,6 +75,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "杰富瑞：将福特汽车(F.N)目标价从13.5美元上调至14.5美元。",
+          "url": "https://flash.jin10.com/detail/20260526152825627800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "欧股法拉利下跌7.7%，此前发布电动汽车车型。",
+          "url": "https://wallstreetcn.com/livenews/3109270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "「长辈的油车开了 10 多年，我的 4 年就得换」，新能源车迭代竞速致多输，车企为何追求快速迭代？降速可行吗？",
+          "url": "https://www.zhihu.com/question/2042011385488487939",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
