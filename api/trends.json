@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T06:19:47.606513+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-27T08:04:14.909323+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "想不想买小米汽车？武契奇：买不起",
@@ -30,6 +30,17 @@
           "time_info": "[02时25分 ~ 06时19分]"
         },
         {
+          "title": "武契奇说买不起小米汽车 雷军回应",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
           "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
           "url": "https://v.ifeng.com/c/8tPxP7tkeJs",
           "source": "凤凰网",
@@ -37,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 08时04分]"
         },
         {
           "title": "周二（5月26日），彭博电动汽车价格回报指数涨0.51%，报4020.02点。",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 06时19分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "据日经新闻：日本准备启动与南方共同市场的贸易谈判，寻求石油和更多汽车出口。",
