@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T15:57:53.053680+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-05-28T19:41:13.173471+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -78,6 +78,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“白菜价甩卖”为何拯救不了燃油车",
+          "url": "https://www.toutiao.com/trending/7644847581507358250/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         }
       ]
     }
