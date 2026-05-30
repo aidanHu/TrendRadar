@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T11:23:31.385857+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-05-30T14:45:11.980390+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "福特汽车5月份累计上涨44.45%，创2009年4月份以来最大单月涨幅，报17.45美元。",
@@ -20,13 +20,24 @@
           "time_info": "[05时08分 ~ 07时12分]"
         },
         {
+          "title": "汽车行业利润率持续探底，究竟是哪些环节在「吃掉」利润？",
+          "url": "https://www.zhihu.com/question/2043610721192301616",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
           "title": "为何现在的汽车外形越来越大，可乘坐空间却大不如前？",
           "url": "https://www.zhihu.com/question/27091108",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -64,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时32分 ~ 14时45分]"
         }
       ]
     }
