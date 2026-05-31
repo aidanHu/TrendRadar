@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-31T06:02:53.287727+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-05-31T08:02:05.027703+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为什么美国很多行业的巨头都叫「通用 (General)」，如通用电气、通用汽车、通用磨坊等，它们之间有无什么关系，或者渊源?",
+          "url": "https://www.zhihu.com/question/20205304",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
           "url": "https://flash.jin10.com/detail/20260531012608857800",
