@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T02:02:40.170842+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-06-01T04:08:15.387849+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 04时08分]"
         },
         {
           "title": "老人点燃杨絮 20辆新能源车被烧毁",
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时08分]"
         }
       ]
     }
