@@ -1,11 +1,63 @@
 {
-  "generated_at": "2026-06-01T07:11:43.424234+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-06-01T12:02:31.129153+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "老人烧杨絮引燃20辆汽车",
+          "url": "https://www.toutiao.com/trending/7646002355713540142/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时11分]"
+        },
+        {
+          "title": "老人点燃路边杨絮致 20 辆汽车被烧毁，为何火烧杨絮能引发如此严重火灾？其可能面临哪些法律追责？",
+          "url": "https://www.zhihu.com/question/2044501400923496808",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "小米汽车5月交付超过30000台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A65%E6%9C%88%E4%BA%A4%E4%BB%98%E8%B6%85%E8%BF%8730000%E5%8F%B0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "小米汽车5月交付量再超3万台",
+          "url": "https://www.toutiao.com/trending/7645176662707503145/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "7273辆新能源车从江苏南通出海欧洲",
@@ -28,25 +80,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "老人烧杨絮引燃20辆汽车",
-          "url": "https://www.toutiao.com/trending/7646002355713540142/",
+          "title": "新能源车为何买得起修不起",
+          "url": "https://www.toutiao.com/trending/7646203612858682921/",
           "source": "今日头条",
           "ranks": [
-            2,
-            8,
-            5
+            14
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     }
