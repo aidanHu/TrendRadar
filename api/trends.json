@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T12:02:31.129153+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-06-01T18:18:24.468871+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "老人烧杨絮引燃20辆汽车",
@@ -25,11 +25,23 @@
           "url": "https://www.zhihu.com/question/2044501400923496808",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 18时18分]"
+        },
+        {
+          "title": "吉利汽车：5月汽车销量237637辆，同比增长1%；5月纯电动汽车销量 76633辆，同比减少19%。",
+          "url": "https://wallstreetcn.com/livenews/3112327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "18时18分"
         },
         {
           "title": "小米汽车5月交付超过30000台",
@@ -38,9 +50,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "岚图汽车5月交付13003辆，同比增长30%",
+          "url": "https://wallstreetcn.com/livenews/3112318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "小米汽车5月交付量再超3万台",
@@ -49,9 +72,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "理想汽车5月交付新车33350辆",
+          "url": "https://wallstreetcn.com/livenews/3112299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -59,6 +93,18 @@
       "keyword_group": "新能源",
       "match_count": 4,
       "titles": [
+        {
+          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 18时18分]"
+        },
         {
           "title": "7273辆新能源车从江苏南通出海欧洲",
           "url": "https://wallstreetcn.com/livenews/3111946",
@@ -88,18 +134,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
