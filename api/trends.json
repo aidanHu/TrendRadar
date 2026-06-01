@@ -1,142 +1,39 @@
 {
-  "generated_at": "2026-06-01T18:18:24.468871+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-06-02T00:36:33.504825+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "老人烧杨絮引燃20辆汽车",
-          "url": "https://www.toutiao.com/trending/7646002355713540142/",
-          "source": "今日头条",
+          "title": "葡萄牙汽车协会（ACAP）：葡萄牙5月份特斯拉汽车的新注册量同比增长348.8%，1月至5月期间增长58.4%。",
+          "url": "https://flash.jin10.com/detail/20260601235725503800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 07时11分]"
-        },
-        {
-          "title": "老人点燃路边杨絮致 20 辆汽车被烧毁，为何火烧杨絮能引发如此严重火灾？其可能面临哪些法律追责？",
-          "url": "https://www.zhihu.com/question/2044501400923496808",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 18时18分]"
-        },
-        {
-          "title": "吉利汽车：5月汽车销量237637辆，同比增长1%；5月纯电动汽车销量 76633辆，同比减少19%。",
-          "url": "https://wallstreetcn.com/livenews/3112327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "小米汽车5月交付超过30000台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A65%E6%9C%88%E4%BA%A4%E4%BB%98%E8%B6%85%E8%BF%8730000%E5%8F%B0%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "岚图汽车5月交付13003辆，同比增长30%",
-          "url": "https://wallstreetcn.com/livenews/3112318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "小米汽车5月交付量再超3万台",
-          "url": "https://www.toutiao.com/trending/7645176662707503145/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "理想汽车5月交付新车33350辆",
-          "url": "https://wallstreetcn.com/livenews/3112299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "74岁老人嫌杨絮碍事将其点燃致20辆新能源车被烧毁，已被采取刑事强制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33277684",
+          "title": "【社论】如何看待“新能源车养路费”讨论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 18时18分]"
-        },
-        {
-          "title": "7273辆新能源车从江苏南通出海欧洲",
-          "url": "https://wallstreetcn.com/livenews/3111946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 06时00分]"
-        },
-        {
-          "title": "老人点燃杨絮 20辆新能源车被烧毁",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE+20%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "新能源车为何买得起修不起",
-          "url": "https://www.toutiao.com/trending/7646203612858682921/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "00时36分"
         }
       ]
     }
