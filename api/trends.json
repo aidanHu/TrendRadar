@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T07:02:04.552715+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-06-02T11:56:58.949072+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙5月份特斯拉汽车的新注册量同比增长348.8%，1月至5月期间增长58.4%。",
@@ -28,12 +28,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "74岁男子点燃杨絮致20辆汽车被烧毁",
+          "url": "https://www.baidu.com/s?wd=74%E5%B2%81%E7%94%B7%E5%AD%90%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE%E8%87%B420%E8%BE%86%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260602110640115800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【社论】如何看待“新能源车养路费”讨论",
@@ -42,11 +64,23 @@
           "ranks": [
             15,
             10,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 11时56分]"
+        },
+        {
+          "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
+          "url": "https://www.zhihu.com/question/2042914583443136872",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
