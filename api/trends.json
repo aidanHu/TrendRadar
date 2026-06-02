@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T11:56:58.949072+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-02T16:39:06.657869+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -68,19 +68,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 16时39分]"
         },
         {
           "title": "油车降价、电车涨价，新能源车渗透率超 60%，当下购车，选油车还是新能源车更划算？",
           "url": "https://www.zhihu.com/question/2042914583443136872",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 16时39分]"
         }
       ]
     }
