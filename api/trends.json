@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T17:50:09.250552+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-06-05T20:37:58.536107+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 20时37分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.5%。 热门中概股里，世纪互联初步收跌5.8%，亚朵、小鹏、汽车之家、理想至少跌约2.8%，腾讯涨0.1%，网易涨0.2%，小米涨0.6%，拼多多涨0.6%，百度涨1.6%。",
@@ -97,11 +97,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%B4%A9%E7%9B%98",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 20时37分]"
         },
         {
           "title": "燃油车价格大幅跳水",
