@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T15:56:09.138962+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-06-07T18:30:42.181424+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国成澳洲汽车最大进口国",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时04分]"
+        },
+        {
+          "title": "美国又施压墨西哥，“将中国零部件从北美汽车中剔除”",
+          "url": "https://news.ifeng.com/c/8tlW3liFL0l",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         }
       ]
     },
@@ -50,11 +61,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 15时56分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 18时30分]"
         }
       ]
     }
