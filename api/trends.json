@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:12:38.953135+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-08T06:04:51.644839+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时04分]"
         },
         {
           "title": "二手油车价格崩盘，一月狂跌 3 万元，是什么原因导致的？可能会对二手车市场带来哪些影响？",
           "url": "https://www.zhihu.com/question/2046193114440623554",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 06时04分]"
         }
       ]
     }
