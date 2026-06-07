@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-08T00:16:14.512264+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-08T02:04:57.291705+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "油车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "燃油车价格「雪崩」，冲击二手车，三年折损近 50%，燃油车时代要加速落幕了吗？",
+          "url": "https://www.zhihu.com/question/2046346361906226344",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "二手油车价格崩盘，一月狂跌 3 万元，是什么原因导致的？可能会对二手车市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2046193114440623554",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
