@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T08:08:24.128642+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-06-08T13:51:10.215070+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 08时08分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 13时51分]"
         },
         {
           "title": "二手油车价格崩盘，一月狂跌 3 万元，是什么原因导致的？可能会对二手车市场带来哪些影响？",
@@ -39,9 +39,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源车变胖让老司机都犯愁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%8F%98%E8%83%96%E8%AE%A9%E8%80%81%E5%8F%B8%E6%9C%BA%E9%83%BD%E7%8A%AF%E6%84%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
         }
       ]
     }
