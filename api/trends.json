@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:02:47.263511+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-06-11T08:15:21.882106+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 08时15分]"
         },
         {
           "title": "5月新能源汽车产销量同比增长",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 08时15分]"
         },
         {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 08时15分]"
         },
         {
           "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
@@ -48,11 +48,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 08时15分]"
         },
         {
           "title": "通用汽车(GM.N)电池业务负责人库尔特·凯尔蒂表示，公司未来的电动汽车产品可能不会采用低成本磷酸铁锂电池。田纳西州工厂将于本月开始生产用于储能系统的磷酸铁锂电池，而非用于电动汽车的磷酸铁锂电池。",
@@ -106,11 +107,12 @@
           "ranks": [
             14,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 08时15分]"
         }
       ]
     }
