@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-06-13T00:18:12.676188+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:05:10.172676+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国环境保护署：已向国会提交四项加州豁免规则。这些规则此前赋予加州制定自身排放标准的权限，其中包括针对汽车和卡车的排放标准。",
+          "url": "https://flash.jin10.com/detail/20260613023152352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.zhihu.com/question/2047600648644816926",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时05分]"
         }
       ]
     },
@@ -29,11 +47,12 @@
           "url": "https://www.toutiao.com/trending/7650398241141607974/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时05分]"
         }
       ]
     }
