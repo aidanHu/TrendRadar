@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T11:41:01.095945+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-06-13T15:47:15.160618+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,20 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "燃油车反击新能源车 成本催升订单",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 15时47分]"
+        },
         {
           "title": "新能源二手车越来越「香」了，交易量走高，保值率提升，为何会出现这一变化？是短期回暖还是长期趋势？",
           "url": "https://www.zhihu.com/question/2047600648644816926",
@@ -60,15 +72,15 @@
           "time_info": "[00时17分 ~ 03时05分]"
         },
         {
-          "title": "燃油车反击新能源车 成本催升订单",
-          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%8D%E5%87%BB%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E6%88%90%E6%9C%AC%E5%82%AC%E5%8D%87%E8%AE%A2%E5%8D%95",
-          "source": "百度热搜",
+          "title": "11部门发文推动新能源重卡应用",
+          "url": "https://flash.jin10.com/detail/20260613121834786800",
+          "source": "金十数据",
           "ranks": [
-            28
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     },
@@ -76,6 +88,17 @@
       "keyword_group": "油车",
       "match_count": 2,
       "titles": [
+        {
+          "title": "丰田章男是不是绝世犟种，坚持放弃研发电车，死磕油车?",
+          "url": "https://www.zhihu.com/question/2019789156579026433",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 15时47分]"
+        },
         {
           "title": "二手燃油车价格大跌豪车车商亏本卖",
           "url": "https://www.toutiao.com/trending/7650398241141607974/",
@@ -89,17 +112,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 07时17分]"
-        },
-        {
-          "title": "丰田章男是不是绝世犟种，坚持放弃研发电车，死磕油车?",
-          "url": "https://www.zhihu.com/question/2019789156579026433",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
         }
       ]
     }
