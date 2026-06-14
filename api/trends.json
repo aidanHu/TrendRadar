@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-15T00:22:35.635706+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-15T02:13:38.720689+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "燃油车到底有哪些地方还能吸引你？",
+          "url": "https://www.zhihu.com/question/1906488844615939783",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
