@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-14T22:11:17.949074+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-15T00:22:35.635706+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
-          "url": "https://wallstreetcn.com/livenews/3119146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 08时07分]"
-        },
-        {
-          "title": "大众汽车首席执行官：大众汽车计划在年底前裁员1.9万人，旨在提高效率和降低成本，以应对行业挑战。",
-          "url": "https://flash.jin10.com/detail/20260614203229591800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
