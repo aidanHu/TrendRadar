@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T12:04:23.015516+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-06-16T18:06:57.297071+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
+          "url": "https://wallstreetcn.com/articles/3774759",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
         {
           "title": "周一（6月15日），彭博电动汽车价格回报指数涨1.88%，报3859.15点。 指数在亚太早盘显著上涨，日内过半时间交投于3850点上方，北京时间21:30刷新日高至3878.04点。 成分股中，印尼安塔姆矿业收涨9.82%，淡水河谷印尼公司涨7.75%，中创新航科技集团H股涨6.82%，Panasonic株式会社涨5.53%，智利化工矿业公司（SQM）则跌1.79%，小鹏集团H股跌3.47%，Ola Electric Mobility Ltd.跌3.54%。",
           "url": "https://wallstreetcn.com/livenews/3119869",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "李想吐槽汽车发布会越来越多",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E5%90%90%E6%A7%BD%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     },
@@ -35,6 +57,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "油车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "燃油车价格体系崩盘：大幅降价失效",
+          "url": "https://www.baidu.com/s?wd=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%BB%B7%E6%A0%BC%E4%BD%93%E7%B3%BB%E5%B4%A9%E7%9B%98%EF%BC%9A%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%A4%B1%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         }
       ]
     }
