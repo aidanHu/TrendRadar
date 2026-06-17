@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:06:01.945533+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-18T07:24:50.458119+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 07时24分]"
         },
         {
           "title": "周三（6月17日），彭博电动汽车价格回报指数跌0.84%，报3797.43点。",
@@ -26,7 +27,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
