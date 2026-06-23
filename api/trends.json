@@ -1,23 +1,46 @@
 {
-  "generated_at": "2026-06-23T20:08:22.888821+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-06-23T23:48:42.407885+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "我国汽车保有量达到3.7亿辆",
+          "url": "https://www.toutiao.com/trending/7654559562183233033/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "全链条扩大汽车消费再推新举措",
+          "url": "https://www.douyin.com/hot/2545202",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
             15,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 23时48分]"
         },
         {
           "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
@@ -26,9 +49,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 23时48分]"
         },
         {
           "title": "兆丰股份：拟募资不超14亿元用于具身智能机器人和汽车智驾高端精密部件产业化项目等",
@@ -37,7 +60,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -51,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
+          "url": "https://wallstreetcn.com/livenews/3123540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "欧洲汽车制造商协会：5月份在欧盟的新车注册量中，日产汽车下降了8.5%，大众集团下降3.6%，斯特兰蒂斯下降了2.6%，现代汽车下降了1.3%。",
@@ -158,24 +192,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华润新能源：网上摇号中签结果出炉 中签号码共有186.14万个",
-          "url": "https://wallstreetcn.com/livenews/3123420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -183,7 +200,7 @@
     },
     {
       "keyword_group": "油车",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "降价也卖不动 合资燃油车撤出门店",
@@ -196,6 +213,56 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时26分 ~ 08时06分]"
+        },
+        {
+          "title": "合资燃油车大幅降价仍滞销",
+          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%B5%84%E7%87%83%E6%B2%B9%E8%BD%A6%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E4%BB%8D%E6%BB%9E%E9%94%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "合资燃油车大幅降价仍滞销",
+          "url": "https://www.toutiao.com/trending/7654227412357087283/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华润新能源：网上摇号中签结果出炉 中签号码共有186.14万个",
+          "url": "https://wallstreetcn.com/livenews/3123420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "新能源车保养别踩坑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BF%9D%E5%85%BB%E5%88%AB%E8%B8%A9%E5%9D%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     }
