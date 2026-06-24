@@ -1,114 +1,12 @@
 {
-  "generated_at": "2026-06-24T21:22:43.483339+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-06-25T00:22:45.936262+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "我国汽车保有量达到3.7亿辆",
-          "url": "https://www.toutiao.com/trending/7654559562183233033/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时57分]"
-        },
-        {
-          "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://www.douyin.com/hot/2545202",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时57分]"
-        },
-        {
-          "title": "中国汽车保有量达到3.7亿辆",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BF%9D%E6%9C%89%E9%87%8F%E8%BE%BE%E5%88%B03.7%E4%BA%BF%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 15时40分]"
-        },
-        {
-          "title": "让汽车消费“跑”起来",
-          "url": "https://www.douyin.com/hot/2545491",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 15时40分]"
-        },
-        {
-          "title": "全链条扩大汽车消费再推新举措",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%86%8D%E6%8E%A8%E6%96%B0%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 04时04分]"
-        },
-        {
-          "title": "全链条发力让汽车消费跑起来",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E5%8F%91%E5%8A%9B%E8%AE%A9%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E8%B7%91%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
-          "url": "https://www.cls.cn/detail/2406809",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 06时13分]"
-        },
-        {
-          "title": "截至5月底 我国电动汽车充电基础设施总数超2249万个",
-          "url": "https://flash.jin10.com/detail/20260624151956415800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 06时13分]"
-        },
         {
           "title": "惊魂未定！高速上多辆汽车被天降钢筋砸中，车头被刺穿",
           "url": "https://news.ifeng.com/c/8uDme6X46hY",
@@ -117,89 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 21时22分]"
-        },
-        {
-          "title": "“新能源汽车第一省”迎来新挑战者",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E7%9C%81%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "巴西对外贸易委员会执行管理委员会：巴西将维持对进口电动和混合动力汽车的关税上调计划，对整车及半拆解电动车征收35%的进口关税，该措施将于2026年7月生效；而对完全拆解状态进口的车辆，也将从2027年1月1日起适用同样的税率。",
-          "url": "https://flash.jin10.com/detail/20260624045054703800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "金十图示：2026年06月24日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260624110543664800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "油车老板卖油车自己开新能源",
-          "url": "https://www.toutiao.com/trending/7653501621574713380/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "贵州集中式新能源企业报价方案下发",
-          "url": "https://wallstreetcn.com/livenews/3123918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "油车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "合资燃油车大幅降价仍滞销",
-          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%B5%84%E7%87%83%E6%B2%B9%E8%BD%A6%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E4%BB%8D%E6%BB%9E%E9%94%80",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时57分]"
+          "time_info": "00时22分"
         }
       ]
     }
