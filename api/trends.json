@@ -1,134 +1,33 @@
 {
-  "generated_at": "2026-06-27T23:16:02.144936+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-06-28T01:10:39.291851+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125490",
-          "source": "华尔街见闻-快讯",
+          "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
+          "url": "https://www.cls.cn/detail/2410934",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "据华尔街日报：日产美国首席执行官希望重振这家汽车制造商的“前卫”形象。",
-          "url": "https://flash.jin10.com/detail/20260627031218021800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "力拓铝业及锂业务单元负责人Jérôme Pécresse表示：“未来两年，锂需求在电动汽车与储能之间的分布将更加均衡。”该公司计划到2028年提升锂产能。",
-          "url": "https://wallstreetcn.com/livenews/3125489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "锂生产商押注电池储能，需求重心逐渐超越电动汽车",
-          "url": "https://wallstreetcn.com/livenews/3125488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
-          "url": "https://wallstreetcn.com/livenews/3125436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 05时18分]"
+          "time_info": "01时10分"
         },
         {
           "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
           "url": "https://wallstreetcn.com/livenews/3125597",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 23时16分]"
-        },
-        {
-          "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
-          "url": "https://www.cls.cn/detail/2410934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时15分 ~ 23时16分]"
-        },
-        {
-          "title": "中国驻加拿大大使Wang Di（王迪）表示，根据协议，吉利控股集团旗下的路特斯品牌（Lotus）电动汽车将于下月抵达加拿大。 “吉利电动汽车将于下月抵达加拿大，届时将在蒙特利尔举行交车仪式。” 奇瑞和比亚迪等其他中国品牌正在与加拿大政府机构协调，以在完成相关步骤后向加拿大发运车辆。 “我希望在今年秋季，其他真正名副其实的中国品牌电动汽车能够完成相关程序，进入加拿大市场。” 中国电动汽车制造商对建立合资企业感兴趣，但首先会专注于建立销售渠道并评估市场需求。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "超级牛散章建平新动向，大举减仓江淮汽车",
-          "url": "https://wallstreetcn.com/livenews/3125556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "李想称汽车行业进入「不服就直播」状态是好事，如何看待这一言论？你认为直播会给行业带来哪些正向作用？",
-          "url": "https://www.zhihu.com/question/2052398917862667740",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "昔日汽车经销巨头转型“包租公”",
-          "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E6%B1%BD%E8%BD%A6%E7%BB%8F%E9%94%80%E5%B7%A8%E5%A4%B4%E8%BD%AC%E5%9E%8B%E2%80%9C%E5%8C%85%E7%A7%9F%E5%85%AC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "01时10分"
         }
       ]
     }
