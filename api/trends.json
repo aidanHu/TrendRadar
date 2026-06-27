@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T01:10:39.291851+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T03:20:53.312009+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2410934",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时20分]"
         },
         {
           "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
@@ -26,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时20分]"
         }
       ]
     }
