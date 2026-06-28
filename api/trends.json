@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T18:28:23.329002+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-06-28T20:16:57.815742+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 20时16分]"
         },
         {
           "title": "广州一高校禁止小米汽车进校",
@@ -29,7 +29,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -52,7 +52,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -63,7 +63,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -78,11 +78,12 @@
           "url": "https://flash.jin10.com/detail/20260628174413332800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时16分]"
         }
       ]
     }
