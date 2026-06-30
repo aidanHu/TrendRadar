@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T17:34:49.122947+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-06-30T20:09:27.537921+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "证监会同意安徽江淮汽车集团股份有限公司向特定对象发行股票的注册申请。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "造谣小米汽车销售公司被罚40万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%94%80%E5%94%AE%E5%85%AC%E5%8F%B8%E8%A2%AB%E7%BD%9A40%E4%B8%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "据日经新闻：本田汽车发行欧洲债券所得资金可能将用于向零部件供应商付款。",
