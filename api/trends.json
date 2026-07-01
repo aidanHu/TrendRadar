@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T03:55:19.478112+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-02T05:28:35.766541+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 05时28分]"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 05时28分]"
         },
         {
           "title": "电动汽车“最严国标”来了",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 05时28分]"
         },
         {
           "title": "墨西哥经济部长：保护汽车行业一直是讨论的重点。",
@@ -49,9 +51,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "周三（7月1日），彭博电动汽车价格回报指数涨0.21%，报3562.45点。 亚太早盘，指数于北京时间08:00-12:00出现V形反转行情、10:14刷新日低至3517.16点，剩余时间里主要处于上涨状态。",
+          "url": "https://wallstreetcn.com/livenews/3127609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "墨西哥经济部长：我们在钢铁和铝关税问题上未达成一致，在汽车零部件的区域性成分不被纳入考虑以及农产品季节性等问题存在分歧。",
@@ -60,7 +73,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -82,7 +95,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
         },
@@ -109,22 +122,24 @@
           "source": "抖音",
           "ranks": [
             12,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 05时28分]"
         },
         {
           "title": "二手豪华燃油车价格大跳水",
           "url": "https://www.toutiao.com/trending/7657446493908897321/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 05时28分]"
         }
       ]
     }
