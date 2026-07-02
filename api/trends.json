@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T20:58:40.279124+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-07-02T23:19:52.944833+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
+          "url": "https://wallstreetcn.com/livenews/3128130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -181,7 +192,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
