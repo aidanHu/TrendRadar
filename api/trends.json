@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T14:33:22.633158+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-03T17:58:46.820761+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国电动汽车电池零部件制造商龙电华鑫申请美国IPO",
@@ -31,6 +31,17 @@
           "time_info": "[01时47分 ~ 03时24分]"
         },
         {
+          "title": "理想汽车产品部大调整：整车、智驾并入研发部门，决策链条从三层缩减为两层",
+          "url": "https://wallstreetcn.com/livenews/3128590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "周四（7月2日），彭博电动汽车价格回报指数跌0.41%，报3548.74点。",
           "url": "https://wallstreetcn.com/livenews/3128211",
           "source": "华尔街见闻-快讯",
@@ -48,9 +59,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "国务院：开展新能源汽车、绿色智能家电、绿色建材下乡活动",
+          "url": "https://wallstreetcn.com/livenews/3128586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "三部门有关司负责人就调整节能汽车、新能源汽车车船税优惠政策答记者问",
+          "url": "https://wallstreetcn.com/livenews/3128585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "A股汽车整车板块震荡走强，江淮汽车、比亚迪涨超5%，中通客车涨超3%，赛力斯、长城汽车等跟涨。",
@@ -59,9 +92,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://wallstreetcn.com/livenews/3128579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -73,6 +117,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "摩纳哥检察官：摩纳哥嫌疑人驾驶的汽车有德国车牌，途经意大利及其他一些国家。",
+          "url": "https://flash.jin10.com/detail/20260703174217663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "摩纳哥检察官：一辆悬挂德国车牌的汽车可能被摩纳哥袭击事件嫌疑人使用。",
+          "url": "https://flash.jin10.com/detail/20260703173820761800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧洲高温，有网友拿软管把新能源车里的冷气直接拉到屋里，这招可行吗？空调系统和电池能扛得住吗？",
+          "url": "https://www.zhihu.com/question/2054943154923463985",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "乘联分会：中国6月初步统计新能源车市场零售同比下降7%，环比增长9%。",
+          "url": "https://wallstreetcn.com/livenews/3128568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     }
