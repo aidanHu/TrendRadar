@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T07:08:49.740881+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-05T11:21:17.104323+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3128941",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 07时08分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 11时21分]"
         }
       ]
     }
