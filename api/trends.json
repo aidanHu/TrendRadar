@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-07-05T22:43:31.054360+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-07-06T00:09:02.101424+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
-          "url": "https://wallstreetcn.com/livenews/3128941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 15时26分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
