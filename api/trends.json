@@ -1,12 +1,51 @@
 {
-  "generated_at": "2026-07-06T08:05:53.917841+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-07-06T13:11:21.772524+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源",
-      "match_count": 1,
+      "keyword_group": "汽车",
+      "match_count": 2,
       "titles": [
+        {
+          "title": "花旗将吉利汽车纳入“泛亚焦点名单”",
+          "url": "https://flash.jin10.com/detail/20260706125231084800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "零跑汽车登陆墨西哥，正式进入北美市场",
+          "url": "https://wallstreetcn.com/livenews/3129141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://www.cls.cn/detail/2417498",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
         {
           "title": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
           "url": "https://flash.jin10.com/detail/20260706075143937800",
@@ -14,7 +53,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
