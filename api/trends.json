@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-07-07T01:43:50.113347+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-07T03:56:13.435318+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
+          "url": "https://flash.jin10.com/detail/20260707022859049800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源",
       "match_count": 1,
@@ -15,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时56分]"
         }
       ]
     }
