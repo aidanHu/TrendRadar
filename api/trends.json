@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:22:37.095822+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-07-08T23:22:32.255196+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米汽车新产品系列定名为「skynomad」，如何解读这一名称背后的含义与品牌策略？",
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             5,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 23时22分]"
         },
         {
           "title": "【数读IPO】今日1申购1上市，涉及汽车零部件细分“小巨人”等",
@@ -61,9 +62,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "市场消息：美国电动汽车公司Rivian据称将把75%的股票发售份额分配给10家投资机构。",
+          "url": "https://flash.jin10.com/detail/20260708224703070800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
