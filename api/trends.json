@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:29:17.450551+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-07-11T19:05:18.773751+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周五（7月10日），彭博电动汽车价格回报指数涨0.33%，报3438.04点，本周累计下跌4.06%，7月7-8日持续下挫。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时23分 ~ 07时57分]"
+        },
+        {
+          "title": "崔东树：2026年全国汽车市场总体走势较平稳",
+          "url": "https://flash.jin10.com/detail/20260711172028491800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "研究机构：全球电动汽车需求持续增长",
@@ -34,7 +45,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国产新能源重卡，组团出海",
@@ -43,9 +54,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "国产新能源重卡组团出海",
+          "url": "https://www.toutiao.com/trending/7660084757178433579/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "中国新能源重卡刷新出海纪录",
