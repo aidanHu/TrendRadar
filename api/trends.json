@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:49:00.740327+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-13T07:54:18.457003+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
