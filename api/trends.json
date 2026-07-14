@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:58:00.389361+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-07-15T06:58:49.238082+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "ranks": [
             22,
             10,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时58分]"
         },
         {
           "title": "禁售燃油车,海南打响第一枪",
@@ -80,8 +81,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时58分]"
         },
         {
           "title": "海南禁售燃油车之后下一个是谁",
