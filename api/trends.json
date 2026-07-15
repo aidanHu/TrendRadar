@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T18:49:39.990041+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-07-15T20:14:58.445857+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "新能源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“新能源车平均车龄1.8年”系误读",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时57分 ~ 16时09分]"
+        },
+        {
+          "title": "大唐新能源：6月发电量同比下降16.86%",
+          "url": "https://flash.jin10.com/detail/20260715194320907800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     }
