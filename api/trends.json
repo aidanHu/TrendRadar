@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T20:14:58.445857+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-07-15T22:51:16.564927+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "油车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "禁售燃油车,海南打响第一枪",
@@ -110,6 +110,17 @@
           "time_info": "[02时02分 ~ 05时58分]"
         },
         {
+          "title": "“20万级”玛莎拉蒂、二折宾利“甩卖” 二手豪华燃油车价格“大跳水” |一线",
+          "url": "https://www.cls.cn/detail/2427352",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "中国燃油车只剩最后一根续命稻草",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E6%A0%B9%E7%BB%AD%E5%91%BD%E7%A8%BB%E8%8D%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -146,7 +157,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         }
