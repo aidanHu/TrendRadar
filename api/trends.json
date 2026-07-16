@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T01:15:14.201770+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T03:09:45.727145+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时09分]"
         },
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
           "url": "https://www.zhihu.com/question/2060421321046205380",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时09分]"
         },
         {
           "title": "西班牙政府计划周五发布汽车行业蓝皮书研究报告。（彭博）",
@@ -36,7 +38,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
