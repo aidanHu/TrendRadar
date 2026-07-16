@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T06:05:27.206895+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-07-17T07:59:34.259459+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             16,
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 07时59分]"
         },
         {
           "title": "小鹏汽车致歉",
