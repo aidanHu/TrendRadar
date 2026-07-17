@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T14:16:29.673768+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-07-17T17:09:10.715649+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时05分]"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
