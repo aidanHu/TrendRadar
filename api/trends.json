@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T16:28:40.893169+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-07-22T19:11:32.877099+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "航运数据显示，汽车运输船在亚丁湾改变航向并驶离，此前该船曾将沙特吉达港标为目的地。",
+          "url": "https://flash.jin10.com/detail/20260722184607556800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
         {
           "title": "现代电动汽车变“移动充电宝”",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
@@ -60,7 +71,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -104,6 +115,18 @@
           "time_info": "10时36分"
         },
         {
+          "title": "新能源6月销量TOP10放榜：纯电“百花齐放”、比亚迪插混市占率超三成 小米新车或搅局增程市场",
+          "url": "https://www.cls.cn/detail/2433756",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时11分]"
+        },
+        {
           "title": "A股电力板块震荡走高，新能股份、新中港、世茂能源、立新能源等四股涨停，华电辽能涨超9%，九洲集团涨超8%，华光环能、华电能源、珈伟新能、迪森股份、大唐发电等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260722101513599800",
           "source": "金十数据",
@@ -113,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
-        },
-        {
-          "title": "新能源6月销量TOP10放榜：纯电“百花齐放”、比亚迪插混市占率超三成 小米新车或搅局增程市场",
-          "url": "https://www.cls.cn/detail/2433756",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         }
       ]
     }
