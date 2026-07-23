@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T01:31:47.142846+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T03:17:29.246165+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时17分]"
         },
         {
           "title": "中国汽车加速全球化布局",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时17分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 03时17分]"
         }
       ]
     }
