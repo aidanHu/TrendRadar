@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T05:04:15.370161+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-07-24T06:56:40.466376+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 06时56分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 06时56分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -38,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 06时56分]"
         }
       ]
     }
