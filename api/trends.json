@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:42:29.145112+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-07-24T21:44:52.344193+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             16,
             24,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 21时44分]"
         },
         {
           "title": "中国汽车加速全球化布局",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 21时44分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
@@ -192,7 +193,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
