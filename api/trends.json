@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:02:40.969072+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-26T00:57:14.475750+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "俄罗斯再成中国汽车最大买家",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%8D%E6%88%90%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%80%E5%A4%A7%E4%B9%B0%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 08时13分]"
-        },
-        {
-          "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3139639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
-          "url": "https://flash.jin10.com/detail/20260725131131676800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
