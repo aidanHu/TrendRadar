@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:59:34.897573+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-27T07:04:49.597376+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "甘肃景区山洪冲走多辆汽车",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 07时04分]"
         }
       ]
     }
