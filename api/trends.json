@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:08:41.544497+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-07-27T04:10:03.335671+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 04时10分]"
         },
         {
           "title": "甘肃景区山洪冲走多辆汽车",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 02时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时10分]"
         }
       ]
     },
@@ -43,7 +44,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         }
