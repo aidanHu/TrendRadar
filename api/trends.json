@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:41:50.130810+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-07-30T16:25:57.118406+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -14,11 +14,23 @@
           "ranks": [
             6,
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 16时25分]"
+        },
+        {
+          "title": "禾赛激光雷达ETX获长城汽车新定点",
+          "url": "https://flash.jin10.com/detail/20260730161231771800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "A股汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
