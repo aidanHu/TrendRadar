@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T10:21:28.890062+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-07-30T13:41:50.130810+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 10时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 13时41分]"
         },
         {
           "title": "A股汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
@@ -26,7 +27,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         }
