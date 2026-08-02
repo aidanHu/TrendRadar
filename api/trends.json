@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T19:16:11.580347+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-08-02T21:19:47.929227+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -45,24 +45,25 @@
           "time_info": "[00时09分 ~ 03时22分]"
         },
         {
+          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
+          "url": "https://wallstreetcn.com/livenews/3143656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 21时19分]"
+        },
+        {
           "title": "长城汽车：2026年7月汽车产销量同比均实现增长",
           "url": "https://flash.jin10.com/detail/20260802154419810800",
           "source": "金十数据",
           "ranks": [
             7,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 19时16分]"
-        },
-        {
-          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
-          "url": "https://wallstreetcn.com/livenews/3143656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
