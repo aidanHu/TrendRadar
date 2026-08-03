@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:09:17.140790+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-04T03:29:59.476146+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7669619798967484459/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时29分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -26,8 +27,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时29分]"
         },
         {
           "title": "比亚迪攻入日本汽车腹地",
@@ -47,7 +48,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         }
@@ -95,11 +96,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33708330",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时29分]"
         }
       ]
     }
