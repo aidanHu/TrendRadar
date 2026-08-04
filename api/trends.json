@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T04:24:16.098644+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-08-05T06:11:47.429707+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时11分]"
         },
         {
           "title": "英伟达：Alpamayo 2 Super（面向Robotaxi和自动驾驶汽车的前沿开放模型）现已开放商业使用。",
