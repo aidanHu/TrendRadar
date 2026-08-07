@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:13:44.345949+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-08-07T19:02:47.575509+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中汽协：上半年汽车整车出口530.7万辆，同比增长52.8%",
@@ -14,7 +14,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "网友偶遇樊振东保养汽车",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BF%9D%E5%85%BB%E6%B1%BD%E8%BD%A6&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "金十图示：2026年08月07日（周五）全球汽车制造商市值变化",
@@ -53,7 +64,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
