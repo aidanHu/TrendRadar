@@ -1,50 +1,22 @@
 {
-  "generated_at": "2026-08-09T22:34:39.802778+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-08-10T02:39:57.989422+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 3,
+      "keyword_group": "新能源",
+      "match_count": 1,
       "titles": [
         {
-          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
-          "url": "https://www.zhihu.com/question/2069357693840667744",
-          "source": "知乎",
+          "title": "新能源充电站一辆SUV突然起火爆燃",
+          "url": "https://www.toutiao.com/trending/7671198968541921289/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            4,
-            5,
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 22时34分]"
-        },
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时29分 ~ 09时41分]"
-        },
-        {
-          "title": "恒大汽车还剩最后一口气",
-          "url": "https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E8%BF%98%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     }
