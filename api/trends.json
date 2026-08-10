@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:26:44.231945+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-08-10T15:39:58.129662+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新能源充电站一辆SUV突然起火爆燃",
@@ -32,6 +32,17 @@
           "time_info": "[11时54分 ~ 11时55分]"
         },
         {
+          "title": "华瓷股份：纳米氧化锆、氧化锆研磨珠产品已在新能源等领域批量供货",
+          "url": "https://flash.jin10.com/detail/20260810150931623800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "新能源车横堵马路中间 车主下车吃饭",
           "url": "https://www.toutiao.com/trending/7671703093994946598/",
           "source": "今日头条",
@@ -46,7 +57,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "通用汽车中国：雪佛兰未来将继续在中国生产，出口全球",
@@ -55,7 +66,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -69,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "台风刮来铁皮砸坏汽车挡风玻璃",
+          "url": "https://www.toutiao.com/trending/7671916510599725106/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     }
