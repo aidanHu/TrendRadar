@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:02:12.687733+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-08-11T18:59:33.438462+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -150,8 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 18时59分]"
         },
         {
           "title": "7月销量前十仅一款燃油车",
@@ -159,11 +159,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时55分 ~ 18时59分]"
         }
       ]
     }
