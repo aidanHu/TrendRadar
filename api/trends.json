@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T00:02:13.169285+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-12T01:08:24.488481+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -9,21 +9,22 @@
       "titles": [
         {
           "title": "7月销量前十仅一款燃油车",
+          "url": "https://www.toutiao.com/trending/7672231698684575807/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时08分]"
+        },
+        {
+          "title": "7月销量前十仅一款燃油车",
           "url": "https://www.baidu.com/s?wd=7%E6%9C%88%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E4%BB%85%E4%B8%80%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "7月销量前十仅一款燃油车",
-          "url": "https://www.toutiao.com/trending/7672231698684575807/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/2069887569639248076",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时08分]"
         }
       ]
     }
