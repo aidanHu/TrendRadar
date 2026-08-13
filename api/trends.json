@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T18:05:44.990825+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-08-13T19:46:01.862654+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,6 @@
           "time_info": "[03时01分 ~ 09时55分]"
         },
         {
-          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时01分 ~ 14时16分]"
-        },
-        {
           "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -43,8 +30,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 18时05分]"
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 19时46分]"
+        },
+        {
+          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 14时16分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -69,6 +69,21 @@
           "time_info": "14时16分"
         },
         {
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 19时46分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
           "url": "https://flash.jin10.com/detail/20260813051034278800",
           "source": "金十数据",
@@ -79,20 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
-        },
-        {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 18时05分]"
         },
         {
           "title": "加拿大拟接受部分汽车关税 换取美国降低关税",
