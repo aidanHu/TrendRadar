@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T14:16:39.411124+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-08-13T18:05:44.990825+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,21 @@
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22,
+            24,
+            23,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 18时05分]"
+        },
+        {
+          "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.toutiao.com/trending/7672287681459585050/",
           "source": "今日头条",
           "ranks": [
@@ -49,23 +64,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
-        },
-        {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            22,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 07时40分]"
         },
         {
           "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
@@ -86,11 +87,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时05分]"
         },
         {
           "title": "加拿大拟接受部分汽车关税 换取美国降低关税",
