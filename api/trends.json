@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T19:46:01.862654+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-13T21:09:30.892568+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,22 @@
           "time_info": "[03时01分 ~ 14时16分]"
         },
         {
+          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 21时09分]"
+        },
+        {
           "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.toutiao.com/trending/7672287681459585050/",
           "source": "今日头条",
@@ -67,21 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
-        },
-        {
-          "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 19时46分]"
         },
         {
           "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
