@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:08:33.359754+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-14T19:05:30.400240+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
@@ -21,13 +21,24 @@
           "time_info": "[00时00分 ~ 07时40分]"
         },
         {
+          "title": "有没有一个瞬间让你失去追求汽车性能的动力？",
+          "url": "https://www.zhihu.com/question/1906458693173777350",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "金十图示：2026年08月14日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260814111131125800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
