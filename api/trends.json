@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-15T09:10:54.020494+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-08-16T07:19:51.661767+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国汽车开放崛起之路",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%BC%80%E6%94%BE%E5%B4%9B%E8%B5%B7%E4%B9%8B%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 04时31分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://aidanhu.github.io/TrendRadar/img/news.jpg"
 }
